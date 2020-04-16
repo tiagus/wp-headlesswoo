@@ -1,0 +1,10 @@
+2020-04-02T09:26:21+00:00 - Updating contact on profile update WPID: 1, CID: 29 
+2020-04-02T09:26:21+00:00 - Updating Customer. WPID: 1,  CID: 29
+2020-04-02T09:26:37+00:00 - Updating changes in customer for cid: 29, on thank you/order-edit: 0
+2020-04-02T09:26:49+00:00 - Updating changes in customer for cid: 29, on thank you/order-edit: 0
+2020-04-02T09:27:06+00:00 - Updating changes in customer for cid: 29, on thank you/order-edit: 2
+2020-04-02T09:27:59+00:00 - Updating changes in customer for cid: 29, on thank you/order-edit: 0
+2020-04-02T09:33:21+00:00 - Order status changes from processing to cancelled for order id: 13508
+2020-04-02T09:33:21+00:00 - Processing a cancellation for order_id: 13508, BWF Refunded: 0, Order Total: 145.00, Remaining order total: 145, Customer total: 145
+2020-04-02T09:33:21+00:00 - Order 13508 is cancelled for contact id: 29. Reduced total is: 0 
+2020-04-02T09:33:26+00:00 - Updating changes in customer for cid: 29, on thank you/order-edit: 0

@@ -1,0 +1,429 @@
+
+@media (max-width: 1024px) {
+    .wfacp-container.wfacp-inner-header p {
+        padding: 32px 18px 8px;
+    }
+}
+
+@media (min-width: 768px) {
+    .wfacp-col-left-half, .wfacp-col-full {
+        float: left;
+        clear: both;
+    }
+
+    .wfacp-col-right-half {
+        float: right;
+    }
+
+    .wfacp-col-full {
+        width: 100%;
+    }
+
+    .wfacp-col-left-half {
+        width: 50%;
+    }
+
+    .wfacp-col-right-half {
+        width: 50%;
+    }
+
+    .form-row.wfacp-col-left-third {
+        width: 33.3%;
+        float: left;
+    }
+
+    .form-row.wfacp-col-middle-third {
+        width: 33.3%;
+        float: left;
+    }
+
+    .form-row.wfacp-col-right-third {
+        width: 33.3%;
+        float: left;
+    }
+
+    .form-row.wfacp-col-two-third {
+        width: 66.66%;
+        float: left;
+    }
+    body .wfacp-form .wfacp-coupon-code-input-wrap {
+        width: 67%;
+    }
+
+    body .wfacp-form .wfacp-coupon-code-btn-wrap {
+        width: 33%;
+        text-align: right;
+    }
+
+
+}
+
+@media (max-width: 991px) {
+    .wfacp-left-wrapper {
+        margin: 0px;
+    }
+
+    .wfacp-right-wrapper {
+        width: auto;
+        float: unset;
+    }
+
+    .wfacp-footer-inner-wrap p {
+        display: block;
+        float: unset;
+        padding: 16px 8px 0 0;
+        text-align: center;
+    }
+
+    .wfacp-footer-inner-wrap p {
+        padding: 0px 24px 0 0;
+        float: right;
+        margin-top: 48px;
+
+    }
+
+    .wfacp-footer-inner-wrap .wfacp-logo {
+        margin: 40px 24px 0px;
+    }
+
+
+    .wfacp-container.wfacp-inner-header p {
+        padding: 0 18px 8px;
+    }
+
+    .wfacp_steps_wrap {
+        padding: 0 0px;
+    }
+}
+
+@media (max-width: 767px) {
+
+    .wfacp_product.no_badge_added .wfacp-prodct-detail-left {
+        width: 100%;
+    }
+
+    .wfacp_header.none {
+        padding: 15px 10px 15px;
+    }
+
+    .wfacp-mobile .wfacp-logo {
+        padding: 0;
+        display: block;
+        vertical-align: initial;
+        margin: auto;
+    }
+
+    .wfacp-prodct-detail-left {
+        width: 100%;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .wfacp-oder-detail_left {
+        width: 40%;
+    }
+
+    .wfacp-right-wrapper ul.wfacp-sidebar-list li {
+        line-height: 26px;
+        font-size: 14px;
+    }
+
+    .wfacp-permission-icon {
+        padding: 0;
+    }
+
+    .wfacp-permission-icon ul li {
+        display: block;
+        width: 100%;
+        border-bottom: 1px solid #dedede;
+        padding: 15px;
+        margin: 0;
+    }
+
+    .wfacp-testing-text {
+        font-size: 14px;
+    }
+
+    .wfacp-support-col-left {
+        padding-right: 0;
+        width: 100%;
+        float: unset;
+        margin-bottom: 15px;
+        clear: both;
+    }
+
+    .wfacp-support_col-right {
+        width: 100%;
+        float: unset;
+        color: #565e66;
+        clear: both;
+    }
+
+    .wfacp-testing-img {
+        margin-right: 32px;
+    }
+
+    .wfacp-image-wrapper {
+        padding-right: 0px;
+        float: unset;
+        margin: 0 auto 20px;
+    }
+
+    .wfacp-container {
+        margin: 0 auto;
+        width: 93%;
+    }
+
+    .pain-wrapper {
+        height: 100%;
+        padding-top: 195px;
+    }
+
+    .wfacp-about-product h1 {
+        font-size: 20px;
+    }
+
+    .wfacp-batch-profile {
+        position: absolute;
+        top: -48px;
+        right: -22px;
+        z-index: 9;
+        max-width: 108px;
+        max-height: 135px;
+    }
+
+    .wfacp-oder-detail_left span {
+        font-size: 18px;
+    }
+
+    .wfacp-oder-detail_right {
+        font-size: 16px;
+    }
+
+    .wfacp-about-product {
+        border-radius: unset;
+    }
+
+    .wfacp-header {
+        width: 100%;
+        padding: 8px 24px 24px;
+    }
+
+    .wfacp-logo {
+        max-width: 230px;
+        float: unset;
+        margin: 0 auto;
+    }
+
+    .wfacp-container.wfacp-inner-header p {
+        float: unset;
+        padding: 45px 0 10px;
+        text-align: right;
+    }
+
+    .wfacp-form .row {
+        margin: 0;
+    }
+
+    .wfacp-footer-inner-wrap .wfacp-logo {
+        width: 255px;
+        float: unset;
+        margin: 38px 24px 0px;
+    }
+
+    .wfacp-form .col-lg-5.col-md-5.col-sm-12 {
+        margin: 0;
+        padding: 0;
+    }
+
+    .wfacp-left-wrapper {
+        width: 100%;
+        float: unset;
+    }
+
+    .wfacp-right-wrapper {
+        width: 100%;
+        float: unset;
+    }
+
+    .wfacp-header-nav ul li {
+
+        padding-left: 30px;
+        margin-top: 10px;
+
+    }
+
+    .wfacp-terms-wrap {
+        padding: 10px;
+    }
+
+    label.checkbox {
+        margin-left: 0;
+    }
+
+    p.form-row.validate-required span.woocommerce-terms-and-conditions-checkbox-text {
+        /*        width: 92%;*/
+    }
+
+    tr.wfacp-shipping ul#shipping_method li label {
+        width: 85%;
+        vertical-align: top;
+        margin-top: -2px;
+    }
+
+    .wfacp-check-icon {
+        margin-top: -2px;
+    }
+
+    .wfacp-form-control-wrapper .wfacp-input-animated {
+        position: absolute;
+        top: 14px;
+        left: 32px;
+    }
+
+    .woocommerce-input-wrapper input.wfacp-form-control {
+        padding: 10px 25px;
+    }
+
+    .wfacp-form-panel {
+        padding: 24px 15px;
+    }
+
+    .wfacp-right-wrapper {
+        position: relative;
+        margin-bottom: 12px;
+    }
+
+    .wfacp-relative-wrapper img {
+        max-width: 300px;
+        height: auto;
+    }
+
+    .wfacp-btn-for-order {
+        font-size: 20px;
+    }
+
+    .wfacp-batch-profile span {
+        position: absolute;
+        font-size: 24px;
+        text-align: center;
+        top: 34px;
+        left: 0;
+    }
+
+    .wfacp-permission-icon ul li.wfacp-three-cols {
+        width: 100%;
+    }
+
+    .wfacp-testing-group {
+        margin-bottom: 0px;
+    }
+
+    .none.div_wrap_sec {
+        padding: 0;
+    }
+
+    body.yes_sticky .wfacp-form-panel .wfacp-form .wfacp_main_form .woocommerce-checkout button.wfacp_next_page_button,
+    body.yes_sticky .wfacp-form-panel .wfacp-form .wfacp_main_form .woocommerce-checkout #payment button#place_order {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        z-index: 99999;
+        margin-bottom: 0;
+
+    }
+
+    body.yes_sticky footer.wfacp_footer {
+        padding: 20px 0 78px;
+    }
+
+    span.wfacp-hd-list-help:before,
+    span.wfacp-hd-list-email:before,
+    span.wfacp-hd-list-phn:before {
+        left: 8px;
+    }
+
+    p.form-row.form-row-wide.create-account.woocommerce-validated {
+        margin-bottom: 15px;
+    }
+
+    p#account_username_field {
+        margin-top: 0;
+    }
+
+    .wfacp_footer_wrap_n p {
+        padding: 0;
+    }
+
+    /* For Latest Spacing Issue on mobile */
+    body .wfacp_main_form.woocommerce .wfacp-coupon-section.wfacp_custom_row_wrap .wfacp_coupon_field_box p {
+        margin-top: 20px !important;
+    }
+    body .wfacp_main_form.woocommerce .wfacp-coupon-section.wfacp_custom_row_wrap .wfacp_coupon_field_box p:first-child {
+        margin-top: 0 !important;
+    }
+
+
+    .wfacp_main_form {
+        margin-bottom: 32px;
+    }
+    .wfacp-form .woocommerce-checkout button.button.button-primary.wfacp_next_page_button {
+        margin-bottom: 0;
+    }
+}
+
+/* for mobile*/
+@media (min-width: 481px) and (max-width: 767px) {
+}
+
+@media (max-width: 480px) {
+    .wfacp-batch-profile {
+        position: absolute;
+        top: -46px;
+        right: -15px;
+        z-index: 9;
+        max-width: 80px;
+        max-height: 100px;
+    }
+
+    .wfacp-container {
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    form.woocommerce-form.woocommerce-form-login.login label.woocommerce-form__label.woocommerce-form__label-for-checkbox.inline {
+        float: unset;
+        padding-top: 14px;
+        display: block !important;
+        margin: 0;
+    }
+
+    tr.wfacp-shipping ul#shipping_method li label {
+        width: 80%;
+    }
+
+    .wfacp-batch-profile span {
+        position: absolute;
+        font-size: 20px;
+        text-align: center;
+        top: 22px;
+        left: 0;
+    }
+
+    .wfacp-prodct-image-wrap {
+        padding-right: 0px;
+        float: unset;
+        margin: 0 auto 15px;
+    }
+
+    .shop_table.wfacp-product-switch-panel .product-name label {
+        padding-left: 1px;
+    }
+}
+
+/*mobile small devices*/
+@media (max-width: 374px) {
+}
+
+/*mobile small devices*/

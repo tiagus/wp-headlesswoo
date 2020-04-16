@@ -1,0 +1,246 @@
+0000.001 (0) Opened log file at time: Tue, 31 Mar 2020 15:45:25 +0000 on https://www.ideiasbrilhantes.info
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.17 WP: 5.2.5 PHP: 5.6.35 (cgi-fcgi, Linux uscentral34.myserverhosts.com 3.10.0-693.11.6.1.ELK.el6.x86_64 #1 SMP Tue Jan 23 10:30:30 MST 2018 x86_64) MySQL: 5.6.41-84.1 WPLANG: pt_PT Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 117.2M | 119M) multisite: N openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.053 (0) Free space on disk containing Updraft's temporary directory: 450042.5 MB
+0000.055 (0) Tasks: Backup files:  (schedule: manual) Backup DB: 1 (schedule: daily)
+0000.055 (0) Processed schedules. Tasks now: Backup files:  Backup DB: 1
+0000.058 (0) Requesting semaphore lock (d) (apparently via scheduler: last_scheduled_action_called_at=1585582366, seconds_ago=87159)
+0000.059 (0) Set semaphore last lock (d) time to 2020-03-31 15:45:25
+0000.060 (0) Semaphore lock (d) complete
+0000.062 (0) Backup run: resumption=0, nonce=e635001fedcc, file_nonce=e635001fedcc begun at=1585669525 (0s ago), job type=backup
+0000.063 (0) Scheduling a resumption (1) after 300 seconds (1585669825) in case this run gets aborted
+0000.071 (0) This backup run is not intended for files - skipping
+0000.072 (0) Beginning creation of database dump (WordPress DB)
+0000.073 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0000.093 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp9s_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nC (truncated - 1215 bytes total)
+0000.095 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0000.115 (0) Table wp9s_options: Total expected rows (approximate): 911
+0000.176 (0) Table wp9s_options: Total rows added: 907 in 0.06 seconds
+0000.177 (0) Table wp9s_options: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_options.table.gz - 226.4 KB)
+0000.180 (0) Table wp9s_users: Total expected rows (approximate): 2
+0000.184 (0) Table wp9s_users: Total rows added: 2 in 0.00 seconds
+0000.184 (0) Table wp9s_users: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_users.table.gz - 0.6 KB)
+0000.187 (0) Table wp9s_usermeta: Total expected rows (approximate): 133
+0000.191 (0) Table wp9s_usermeta: Total rows added: 133 in 0.00 seconds
+0000.192 (0) Table wp9s_usermeta: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_usermeta.table.gz - 3.8 KB)
+0000.199 (0) Table wp9s_commentmeta: Total expected rows (approximate): 1217
+0000.214 (0) Table wp9s_commentmeta: Total rows added: 1217 in 0.01 seconds
+0000.215 (0) Table wp9s_commentmeta: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_commentmeta.table.gz - 7 KB)
+0000.219 (0) Table wp9s_comments: Total expected rows (approximate): 8661
+0000.302 (0) Table wp9s_comments: binary mysqldump finished (writes: 49) in 0.08 seconds
+0000.304 (0) Table wp9s_comments: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_comments.table.gz - 176.1 KB)
+0000.309 (0) Table wp9s_links: Total expected rows (approximate): 0
+0000.313 (0) Table wp9s_links: Total rows added: 0 in 0.00 seconds
+0000.313 (0) Table wp9s_links: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_links.table.gz - 0.4 KB)
+0000.316 (0) Table wp9s_postmeta: Total expected rows (approximate): 111346
+0000.858 (0) Table wp9s_postmeta: binary mysqldump finished (writes: 49) in 0.54 seconds
+0000.859 (0) Table wp9s_postmeta: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_postmeta.table.gz - 2076.7 KB)
+0000.862 (0) Table wp9s_posts: Total expected rows (approximate): 3148
+0001.142 (0) Table wp9s_posts: Total rows added: 3148 in 0.28 seconds
+0001.143 (0) Table wp9s_posts: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_posts.table.gz - 345.5 KB)
+0001.146 (0) Table wp9s_term_relationships: Total expected rows (approximate): 102
+0001.151 (0) Table wp9s_term_relationships: Total rows added: 102 in 0.00 seconds
+0001.152 (0) Table wp9s_term_relationships: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_term_relationships.table.gz - 0.7 KB)
+0001.154 (0) Table wp9s_term_taxonomy: Total expected rows (approximate): 108
+0001.159 (0) Table wp9s_term_taxonomy: Total rows added: 108 in 0.00 seconds
+0001.160 (0) Table wp9s_term_taxonomy: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_term_taxonomy.table.gz - 1.4 KB)
+0001.163 (0) Table wp9s_termmeta: Total expected rows (approximate): 88
+0001.167 (0) Table wp9s_termmeta: Total rows added: 88 in 0.00 seconds
+0001.168 (0) Table wp9s_termmeta: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_termmeta.table.gz - 0.9 KB)
+0001.171 (0) Table wp9s_terms: Total expected rows (approximate): 108
+0001.176 (0) Table wp9s_terms: Total rows added: 108 in 0.00 seconds
+0001.177 (0) Table wp9s_terms: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_terms.table.gz - 1.5 KB)
+0001.181 (0) Table wp9s_wc_product_meta_lookup: Total expected rows (approximate): 33
+0001.186 (0) Table wp9s_wc_product_meta_lookup: Total rows added: 33 in 0.00 seconds
+0001.187 (0) Table wp9s_wc_product_meta_lookup: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_wc_product_meta_lookup.table.gz - 0.9 KB)
+0001.191 (0) Table wp9s_woocommerce_order_itemmeta: Total expected rows (approximate): 35914
+0001.297 (0) Table wp9s_woocommerce_order_itemmeta: binary mysqldump finished (writes: 34) in 0.11 seconds
+0001.299 (0) Table wp9s_woocommerce_order_itemmeta: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_woocommerce_order_itemmeta.table.gz - 242.1 KB)
+0001.305 (0) Table wp9s_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0001.309 (0) Table wp9s_woocommerce_payment_tokenmeta: Total rows added: 0 in 0.00 seconds
+0001.309 (0) Table wp9s_woocommerce_payment_tokenmeta: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_woocommerce_payment_tokenmeta.table.gz - 0.4 KB)
+0001.312 (0) Table wp9s_automatewoo_abandoned_carts: Total expected rows (approximate): 0
+0001.315 (0) Table wp9s_automatewoo_abandoned_carts: Total rows added: 0 in 0.00 seconds
+0001.315 (0) Table wp9s_automatewoo_abandoned_carts: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_automatewoo_abandoned_carts.table.gz - 0.5 KB)
+0001.318 (0) Table wp9s_automatewoo_customers: Total expected rows (approximate): 2416
+0001.382 (0) Table wp9s_automatewoo_customers: Total rows added: 2416 in 0.06 seconds
+0001.383 (0) Table wp9s_automatewoo_customers: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_automatewoo_customers.table.gz - 58.2 KB)
+0001.385 (0) Table wp9s_automatewoo_events: Total expected rows (approximate): 0
+0001.389 (0) Table wp9s_automatewoo_events: Total rows added: 0 in 0.00 seconds
+0001.390 (0) Table wp9s_automatewoo_events: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_automatewoo_events.table.gz - 0.4 KB)
+0001.396 (0) Table wp9s_automatewoo_guest_meta: Total expected rows (approximate): 8626
+0001.438 (0) Table wp9s_automatewoo_guest_meta: binary mysqldump finished (writes: 32) in 0.04 seconds
+0001.440 (0) Table wp9s_automatewoo_guest_meta: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_automatewoo_guest_meta.table.gz - 93.6 KB)
+0001.445 (0) Table wp9s_automatewoo_guests: Total expected rows (approximate): 2414
+0001.499 (0) Table wp9s_automatewoo_guests: Total rows added: 2414 in 0.05 seconds
+0001.500 (0) Table wp9s_automatewoo_guests: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_automatewoo_guests.table.gz - 125.9 KB)
+0001.503 (0) Table wp9s_automatewoo_log_meta: Total expected rows (approximate): 51891
+0001.631 (0) Table wp9s_automatewoo_log_meta: binary mysqldump finished (writes: 34) in 0.13 seconds
+0001.632 (0) Table wp9s_automatewoo_log_meta: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_automatewoo_log_meta.table.gz - 412.5 KB)
+0001.635 (0) Table wp9s_automatewoo_logs: Total expected rows (approximate): 12798
+0001.684 (0) Table wp9s_automatewoo_logs: binary mysqldump finished (writes: 36) in 0.05 seconds
+0001.686 (0) Table wp9s_automatewoo_logs: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_automatewoo_logs.table.gz - 89.7 KB)
+0001.688 (0) Table wp9s_automatewoo_queue: Total expected rows (approximate): 0
+0001.692 (0) Table wp9s_automatewoo_queue: Total rows added: 0 in 0.00 seconds
+0001.693 (0) Table wp9s_automatewoo_queue: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_automatewoo_queue.table.gz - 0.4 KB)
+0001.697 (0) Table wp9s_automatewoo_queue_meta: Total expected rows (approximate): 0
+0001.699 (0) Table wp9s_automatewoo_queue_meta: Total rows added: 0 in 0.00 seconds
+0001.700 (0) Table wp9s_automatewoo_queue_meta: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_automatewoo_queue_meta.table.gz - 0.4 KB)
+0001.705 (0) Table wp9s_automatewoo_unsubscribes: Total expected rows (approximate): 0
+0001.707 (0) Table wp9s_automatewoo_unsubscribes: Total rows added: 0 in 0.00 seconds
+0001.708 (0) Table wp9s_automatewoo_unsubscribes: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_automatewoo_unsubscribes.table.gz - 0.4 KB)
+0001.711 (0) Table wp9s_bwf_contact: Total expected rows (approximate): 95
+0001.716 (0) Table wp9s_bwf_contact: Total rows added: 95 in 0.00 seconds
+0001.717 (0) Table wp9s_bwf_contact: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_bwf_contact.table.gz - 5.2 KB)
+0001.722 (0) Table wp9s_bwf_contact_meta: Total expected rows (approximate): 370
+0001.730 (0) Table wp9s_bwf_contact_meta: Total rows added: 370 in 0.01 seconds
+0001.731 (0) Table wp9s_bwf_contact_meta: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_bwf_contact_meta.table.gz - 4.4 KB)
+0001.734 (0) Table wp9s_bwf_wc_customers: Total expected rows (approximate): 54
+0001.739 (0) Table wp9s_bwf_wc_customers: Total rows added: 54 in 0.00 seconds
+0001.739 (0) Table wp9s_bwf_wc_customers: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_bwf_wc_customers.table.gz - 1.2 KB)
+0001.742 (0) Table wp9s_duplicator_pro_entities: Total expected rows (approximate): 5
+0001.745 (0) Table wp9s_duplicator_pro_entities: Total rows added: 5 in 0.00 seconds
+0001.745 (0) Table wp9s_duplicator_pro_entities: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_duplicator_pro_entities.table.gz - 1.5 KB)
+0001.748 (0) Table wp9s_duplicator_pro_packages: Total expected rows (approximate): 1
+0001.751 (0) Table wp9s_duplicator_pro_packages: Total rows added: 1 in 0.00 seconds
+0001.752 (0) Table wp9s_duplicator_pro_packages: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_duplicator_pro_packages.table.gz - 3.4 KB)
+0001.756 (0) Table wp9s_redirection_404: Total expected rows (approximate): 0
+0001.759 (0) Table wp9s_redirection_404: Total rows added: 0 in 0.00 seconds
+0001.760 (0) Table wp9s_redirection_404: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_redirection_404.table.gz - 0.4 KB)
+0001.764 (0) Table wp9s_redirection_groups: Total expected rows (approximate): 2
+0001.767 (0) Table wp9s_redirection_groups: Total rows added: 2 in 0.00 seconds
+0001.768 (0) Table wp9s_redirection_groups: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_redirection_groups.table.gz - 0.5 KB)
+0001.770 (0) Table wp9s_redirection_items: Total expected rows (approximate): 1
+0001.773 (0) Table wp9s_redirection_items: Total rows added: 1 in 0.00 seconds
+0001.774 (0) Table wp9s_redirection_items: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_redirection_items.table.gz - 0.6 KB)
+0001.778 (0) Table wp9s_redirection_logs: Total expected rows (approximate): 0
+0001.781 (0) Table wp9s_redirection_logs: Total rows added: 0 in 0.00 seconds
+0001.781 (0) Table wp9s_redirection_logs: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_redirection_logs.table.gz - 0.4 KB)
+0001.785 (0) Table wp9s_wc_download_log: Total expected rows (approximate): 0
+0001.787 (0) Table wp9s_wc_download_log: Total rows added: 0 in 0.00 seconds
+0001.788 (0) Table wp9s_wc_download_log: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_wc_download_log.table.gz - 0.4 KB)
+0001.790 (0) Table wp9s_wc_webhooks: Total expected rows (approximate): 3
+0001.793 (0) Table wp9s_wc_webhooks: Total rows added: 3 in 0.00 seconds
+0001.794 (0) Table wp9s_wc_webhooks: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_wc_webhooks.table.gz - 0.7 KB)
+0001.796 (0) Table wp9s_woocommerce_api_keys: Total expected rows (approximate): 1
+0001.799 (0) Table wp9s_woocommerce_api_keys: Total rows added: 1 in 0.00 seconds
+0001.799 (0) Table wp9s_woocommerce_api_keys: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_woocommerce_api_keys.table.gz - 0.6 KB)
+0001.803 (0) Table wp9s_woocommerce_attribute_taxonomies: Total expected rows (approximate): 4
+0001.806 (0) Table wp9s_woocommerce_attribute_taxonomies: Total rows added: 4 in 0.00 seconds
+0001.807 (0) Table wp9s_woocommerce_attribute_taxonomies: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_woocommerce_attribute_taxonomies.table.gz - 0.5 KB)
+0001.811 (0) Table wp9s_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0001.814 (0) Table wp9s_woocommerce_downloadable_product_permissions: Total rows added: 0 in 0.00 seconds
+0001.814 (0) Table wp9s_woocommerce_downloadable_product_permissions: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_woocommerce_downloadable_product_permissions.table.gz - 0.5 KB)
+0001.820 (0) Table wp9s_woocommerce_log: Total expected rows (approximate): 0
+0001.822 (0) Table wp9s_woocommerce_log: Total rows added: 0 in 0.00 seconds
+0001.823 (0) Table wp9s_woocommerce_log: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_woocommerce_log.table.gz - 0.4 KB)
+0001.826 (0) Table wp9s_woocommerce_order_items: Total expected rows (approximate): 3908
+0001.869 (0) Table wp9s_woocommerce_order_items: Total rows added: 3908 in 0.04 seconds
+0001.871 (0) Table wp9s_woocommerce_order_items: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_woocommerce_order_items.table.gz - 20.9 KB)
+0001.877 (0) Table wp9s_woocommerce_payment_tokens: Total expected rows (approximate): 0
+0001.880 (0) Table wp9s_woocommerce_payment_tokens: Total rows added: 0 in 0.00 seconds
+0001.881 (0) Table wp9s_woocommerce_payment_tokens: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_woocommerce_payment_tokens.table.gz - 0.4 KB)
+0001.885 (0) Table wp9s_woocommerce_sessions: Total expected rows (approximate): 1
+0001.888 (0) Table wp9s_woocommerce_sessions: Total rows added: 1 in 0.00 seconds
+0001.889 (0) Table wp9s_woocommerce_sessions: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_woocommerce_sessions.table.gz - 1.4 KB)
+0001.893 (0) Table wp9s_woocommerce_shipping_zone_locations: Total expected rows (approximate): 1
+0001.895 (0) Table wp9s_woocommerce_shipping_zone_locations: Total rows added: 1 in 0.00 seconds
+0001.896 (0) Table wp9s_woocommerce_shipping_zone_locations: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_woocommerce_shipping_zone_locations.table.gz - 0.4 KB)
+0001.899 (0) Table wp9s_woocommerce_shipping_zone_methods: Total expected rows (approximate): 2
+0001.902 (0) Table wp9s_woocommerce_shipping_zone_methods: Total rows added: 2 in 0.00 seconds
+0001.903 (0) Table wp9s_woocommerce_shipping_zone_methods: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_woocommerce_shipping_zone_methods.table.gz - 0.4 KB)
+0001.906 (0) Table wp9s_woocommerce_shipping_zones: Total expected rows (approximate): 1
+0001.908 (0) Table wp9s_woocommerce_shipping_zones: Total rows added: 1 in 0.00 seconds
+0001.909 (0) Table wp9s_woocommerce_shipping_zones: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_woocommerce_shipping_zones.table.gz - 0.4 KB)
+0001.914 (0) Table wp9s_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0001.916 (0) Table wp9s_woocommerce_tax_rate_locations: Total rows added: 0 in 0.00 seconds
+0001.917 (0) Table wp9s_woocommerce_tax_rate_locations: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_woocommerce_tax_rate_locations.table.gz - 0.4 KB)
+0001.922 (0) Table wp9s_woocommerce_tax_rates: Total expected rows (approximate): 0
+0001.924 (0) Table wp9s_woocommerce_tax_rates: Total rows added: 0 in 0.00 seconds
+0001.925 (0) Table wp9s_woocommerce_tax_rates: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_woocommerce_tax_rates.table.gz - 0.4 KB)
+0001.931 (0) Table wp9s_wpfm_backup: Total expected rows (approximate): 0
+0001.933 (0) Table wp9s_wpfm_backup: Total rows added: 0 in 0.00 seconds
+0001.934 (0) Table wp9s_wpfm_backup: finishing file (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_wpfm_backup.table.gz - 0.3 KB)
+0001.937 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_options.table.gz (1/49): adding to final database dump
+0001.985 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_users.table.gz (2/49): adding to final database dump
+0001.986 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_usermeta.table.gz (3/49): adding to final database dump
+0001.987 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_commentmeta.table.gz (4/49): adding to final database dump
+0001.994 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_comments.table.gz (5/49): adding to final database dump
+0002.033 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_links.table.gz (6/49): adding to final database dump
+0002.034 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_postmeta.table.gz (7/49): adding to final database dump
+0002.433 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_posts.table.gz (8/49): adding to final database dump
+0002.514 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_term_relationships.table.gz (9/49): adding to final database dump
+0002.516 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_term_taxonomy.table.gz (10/49): adding to final database dump
+0002.517 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_termmeta.table.gz (11/49): adding to final database dump
+0002.518 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_terms.table.gz (12/49): adding to final database dump
+0002.520 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_wc_product_meta_lookup.table.gz (13/49): adding to final database dump
+0002.521 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_woocommerce_order_itemmeta.table.gz (14/49): adding to final database dump
+0002.577 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_woocommerce_payment_tokenmeta.table.gz (15/49): adding to final database dump
+0002.579 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_automatewoo_abandoned_carts.table.gz (16/49): adding to final database dump
+0002.580 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_automatewoo_customers.table.gz (17/49): adding to final database dump
+0002.596 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_automatewoo_events.table.gz (18/49): adding to final database dump
+0002.597 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_automatewoo_guest_meta.table.gz (19/49): adding to final database dump
+0002.616 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_automatewoo_guests.table.gz (20/49): adding to final database dump
+0002.644 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_automatewoo_log_meta.table.gz (21/49): adding to final database dump
+0002.736 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_automatewoo_logs.table.gz (22/49): adding to final database dump
+0002.758 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_automatewoo_queue.table.gz (23/49): adding to final database dump
+0002.759 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_automatewoo_queue_meta.table.gz (24/49): adding to final database dump
+0002.760 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_automatewoo_unsubscribes.table.gz (25/49): adding to final database dump
+0002.761 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_bwf_contact.table.gz (26/49): adding to final database dump
+0002.763 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_bwf_contact_meta.table.gz (27/49): adding to final database dump
+0002.766 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_bwf_wc_customers.table.gz (28/49): adding to final database dump
+0002.767 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_duplicator_pro_entities.table.gz (29/49): adding to final database dump
+0002.768 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_duplicator_pro_packages.table.gz (30/49): adding to final database dump
+0002.770 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_redirection_404.table.gz (31/49): adding to final database dump
+0002.770 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_redirection_groups.table.gz (32/49): adding to final database dump
+0002.771 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_redirection_items.table.gz (33/49): adding to final database dump
+0002.772 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_redirection_logs.table.gz (34/49): adding to final database dump
+0002.773 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_wc_download_log.table.gz (35/49): adding to final database dump
+0002.774 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_wc_webhooks.table.gz (36/49): adding to final database dump
+0002.775 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_woocommerce_api_keys.table.gz (37/49): adding to final database dump
+0002.776 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_woocommerce_attribute_taxonomies.table.gz (38/49): adding to final database dump
+0002.777 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_woocommerce_downloadable_product_permissions.table.gz (39/49): adding to final database dump
+0002.777 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_woocommerce_log.table.gz (40/49): adding to final database dump
+0002.778 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_woocommerce_order_items.table.gz (41/49): adding to final database dump
+0002.797 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_woocommerce_payment_tokens.table.gz (42/49): adding to final database dump
+0002.798 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_woocommerce_sessions.table.gz (43/49): adding to final database dump
+0002.799 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_woocommerce_shipping_zone_locations.table.gz (44/49): adding to final database dump
+0002.800 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_woocommerce_shipping_zone_methods.table.gz (45/49): adding to final database dump
+0002.801 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_woocommerce_shipping_zones.table.gz (46/49): adding to final database dump
+0002.802 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_woocommerce_tax_rate_locations.table.gz (47/49): adding to final database dump
+0002.803 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_woocommerce_tax_rates.table.gz (48/49): adding to final database dump
+0002.803 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db-table-wp9s_wpfm_backup.table.gz (49/49): adding to final database dump
+0002.807 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db.gz: finished writing out complete database file (3888 KB)
+0002.852 (0) Total database tables backed up: 49 (backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db.gz, size: 4000898, sha1: cb2e49a965e990da7e86dd758ec2cba230f3eeab, sha256: 73e693c5787ab0e4de8206ff3e93104fa055faca61f2927a019c63d8f5d911e0)
+0002.856 (0) backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db.gz: db: This file has not yet been successfully uploaded: will queue
+0002.856 (0) Saving backup history. Total backup size: 3.8 MB
+0002.858 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0002.860 (0) Cloud backup selection (1/1): email with instance (1/1) (last)
+0002.861 (0) Beginning dispatch of backup to remote (email)
+0002.862 (0) Email: backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db.gz: email to: info@...
+0003.907 (0) Recording as successfully uploaded: backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db.gz
+0003.911 (0) Deleting local file: backup_2020-03-31-1645_Ideias_Brilhantes_e635001fedcc-db.gz: OK
+0003.913 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0003.915 (0) Number of backup sets in history: 3; groups (db): 1
+0003.916 (0) Examining (for databases) backup set with group_id=0, nonce=e635001fedcc, datestamp=1585669525 (Mar 31 2020 15:45:25)
+0003.916 (0) This backup set is the backup set just made, so will not be deleted.
+0003.916 (0) Examining (for databases) backup set with group_id=0, nonce=8dbeec26e4c5, datestamp=1585582366 (Mar 30 2020 15:32:46)
+0003.916 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0003.917 (0) Examining (for databases) backup set with group_id=0, nonce=2aa23ec7899e, datestamp=1585495114 (Mar 29 2020 15:18:34)
+0003.917 (0) 1585495114: db: this set includes a database (backup_2020-03-29-1618_Ideias_Brilhantes_2aa23ec7899e-db.gz); db count is now 2
+0003.917 (0) 1585495114: db: over retain limit (2); will delete this database
+0003.917 (0) Delete file: backup_2020-03-29-1618_Ideias_Brilhantes_2aa23ec7899e-db.gz, service=email
+0003.919 (0) This backup set is now empty; will remove from history
+0003.920 (0) Deleting log file (log.2aa23ec7899e.txt)
+0003.921 (0) Number of backup sets in history: 2; groups (files): 1
+0003.922 (0) Examining (for files) backup set with nonce=e635001fedcc, datestamp=1585669525 (Mar 31 2020 15:45:25)
+0003.922 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0003.922 (0) Examining (for files) backup set with nonce=8dbeec26e4c5, datestamp=1585582366 (Mar 30 2020 15:32:46)
+0003.922 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0003.923 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0003.925 (0) Resume backup (e635001fedcc, 0): finish run
+0003.927 (0) Decremented the semaphore (d) by 1
+0003.928 (0) Semaphore (d) unlocked
+0003.929 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0003.932 (0) The backup apparently succeeded and is now complete
+0003.933 (0) No email will/can be sent - the user has not configured an email address.
+0003.934 (0) Aparentemente o backup foi bem sucedido e está agora concluído

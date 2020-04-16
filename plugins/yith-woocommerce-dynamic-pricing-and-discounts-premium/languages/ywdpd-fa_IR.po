@@ -1,0 +1,1022 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Dynamic Pricing and Discounts\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/init\n"
+"POT-Creation-Date: 2019-04-06 13:25:12+00:00\n"
+"PO-Revision-Date: 2019-04-06 15:27+0200\n"
+"Last-Translator: \n"
+"Language-Team: Yithemes <plugins@yithemes.com>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+
+#: includes/admin/class.ywdpd-discount-list-table.php:31
+msgid "discount"
+msgstr ""
+
+#: includes/admin/class.ywdpd-discount-list-table.php:32
+msgid "discounts"
+msgstr ""
+
+#: includes/admin/class.ywdpd-discount-list-table.php:51
+msgid "Name"
+msgstr ""
+
+#: includes/admin/class.ywdpd-discount-list-table.php:52
+msgid "Discount Mode"
+msgstr ""
+
+#: includes/admin/class.ywdpd-discount-list-table.php:53
+msgid "Status"
+msgstr ""
+
+#: includes/admin/class.ywdpd-discount-list-table.php:180
+msgid "Edit"
+msgstr ""
+
+#: includes/admin/class.ywdpd-discount-list-table.php:181
+msgid "Duplicate"
+msgstr "دوبل کردن"
+
+#: includes/admin/class.ywdpd-discount-list-table.php:182
+#: templates/admin/metaboxes/metabox_discount_action_content.php:27
+msgid "Delete"
+msgstr ""
+
+#: includes/admin/class.ywdpd-discount-list-table.php:204
+msgid "Activate"
+msgstr ""
+
+#: includes/admin/class.ywdpd-discount-list-table.php:205
+msgid "Deactivate"
+msgstr ""
+
+#: includes/admin/class.ywdpd-discount-list-table.php:206
+msgid "Delete Permanently"
+msgstr ""
+
+#: includes/class-yith-wc-dynamic-pricing-admin.php:144
+msgid "(Copy)"
+msgstr ""
+
+#: includes/class-yith-wc-dynamic-pricing-admin.php:204
+msgid "Dynamic Action"
+msgstr ""
+
+#: includes/class-yith-wc-dynamic-pricing-admin.php:237
+msgid "Return to Discount List"
+msgstr ""
+
+#: includes/class-yith-wc-dynamic-pricing-admin.php:557
+msgid "Do you really want to delete this rule?"
+msgstr "آیا از حذف این آیتم اطمینان دارید؟"
+
+#: includes/class-yith-wc-dynamic-pricing-admin.php:593
+#: plugin-options/metabox/ywdpd_cart_discount.php:19
+#: plugin-options/metabox/ywdpd_pricing_discount.php:20
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: includes/class-yith-wc-dynamic-pricing-admin.php:597
+msgid "Premium Version"
+msgstr "نسخه پولی"
+
+#: includes/class-yith-wc-dynamic-pricing-admin.php:600
+msgid "Price Rules"
+msgstr "قوانین قیمت"
+
+#: includes/class-yith-wc-dynamic-pricing-admin.php:601
+#: includes/class-yith-wc-dynamic-pricing-admin.php:671
+msgid "Cart Discounts"
+msgstr "تخفیف های سبد خرید"
+
+#: includes/class-yith-wc-dynamic-pricing-admin.php:607
+#: includes/class-yith-wc-dynamic-pricing-admin.php:608
+msgctxt "Plugin name, do not translate"
+msgid "Dynamic Pricing"
+msgstr ""
+
+#: includes/class-yith-wc-dynamic-pricing-admin.php:671
+msgid "Pricing Discounts"
+msgstr ""
+
+#: includes/class-yith-wc-dynamic-pricing-frontend.php:959
+msgid "Offer ends: %s"
+msgstr "پایان تخفیف: %s"
+
+#: includes/class-yith-wc-dynamic-pricing-helper.php:100
+msgctxt "Post Type General Name"
+msgid "Discount Rules"
+msgstr ""
+
+#: includes/class-yith-wc-dynamic-pricing-helper.php:101
+msgctxt "Post Type Singular Name"
+msgid "Discount Rule"
+msgstr ""
+
+#: includes/class-yith-wc-dynamic-pricing-helper.php:102
+#: includes/class-yith-wc-dynamic-pricing-helper.php:108
+msgid "Discount Rule"
+msgstr ""
+
+#: includes/class-yith-wc-dynamic-pricing-helper.php:103
+msgid "Parent Item:"
+msgstr ""
+
+#: includes/class-yith-wc-dynamic-pricing-helper.php:104
+msgid "All Discount Rules"
+msgstr ""
+
+#: includes/class-yith-wc-dynamic-pricing-helper.php:105
+msgid "View Discount Rules"
+msgstr ""
+
+#: includes/class-yith-wc-dynamic-pricing-helper.php:106
+#: includes/class-yith-wc-dynamic-pricing-helper.php:107
+msgid "Add New Discount Rule"
+msgstr ""
+
+#: includes/class-yith-wc-dynamic-pricing-helper.php:109
+msgid "Update Discount Rule"
+msgstr ""
+
+#: includes/class-yith-wc-dynamic-pricing-helper.php:110
+msgid "Search Discount Rule"
+msgstr ""
+
+#: includes/class-yith-wc-dynamic-pricing-helper.php:111
+msgid "Not found"
+msgstr ""
+
+#: includes/class-yith-wc-dynamic-pricing-helper.php:112
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/class-yith-wc-dynamic-pricing-helper.php:116
+msgid "ywdpd_discount"
+msgstr ""
+
+#: includes/class-yith-wc-dynamic-pricing-helper.php:209
+msgid "Guest"
+msgstr "مهمان"
+
+#: includes/compatibility/yith-woocommerce-brands-add-on-premium.php:219
+msgid "Include a list of brands"
+msgstr "شامل لیستی از برندها"
+
+#: includes/compatibility/yith-woocommerce-brands-add-on-premium.php:220
+msgid "Exclude a list of brands"
+msgstr "به جز لیستی از برندها"
+
+#: includes/compatibility/yith-woocommerce-brands-add-on-premium.php:241
+msgid "At least a selected brand"
+msgstr "حداقل یک برند انتخاب شده"
+
+#: includes/compatibility/yith-woocommerce-brands-add-on-premium.php:242
+msgid "All selected brands in cart"
+msgstr "همه برندهای انتخاب شده در سبد خرید"
+
+#: includes/compatibility/yith-woocommerce-brands-add-on-premium.php:243
+msgid "Brands not selected"
+msgstr "برندهای انتخاب نشده"
+
+#: includes/compatibility/yith-woocommerce-brands-add-on-premium.php:302
+#: includes/compatibility/yith-woocommerce-brands-add-on-premium.php:305
+#: includes/compatibility/yith-woocommerce-brands-add-on-premium.php:312
+#: includes/compatibility/yith-woocommerce-brands-add-on-premium.php:329
+#: includes/compatibility/yith-woocommerce-brands-add-on-premium.php:332
+#: includes/compatibility/yith-woocommerce-brands-add-on-premium.php:339
+#: templates/admin/metaboxes/types/cart_discount.php:583
+#: templates/admin/metaboxes/types/cart_discount.php:621
+#: templates/admin/metaboxes/types/cart_discount.php:662
+msgid "Search for a brand"
+msgstr "جستجو برای یک برند"
+
+#: includes/compatibility/yith-woocommerce-brands-add-on-premium.php:315
+#: includes/compatibility/yith-woocommerce-brands-add-on-premium.php:342
+msgid "Search for a branch"
+msgstr ""
+
+#: includes/compatibility/yith-woocommerce-product-vendors.php:80
+#: includes/compatibility/yith-woocommerce-product-vendors.php:103
+msgid "Include a list of vendors"
+msgstr "شامل لیستی از فروشندگان"
+
+#: includes/compatibility/yith-woocommerce-product-vendors.php:81
+#: includes/compatibility/yith-woocommerce-product-vendors.php:104
+msgid "Exclude a list of vendors"
+msgstr "به جز لیستی از فروشندگان"
+
+#: includes/compatibility/yith-woocommerce-product-vendors.php:162
+#: includes/compatibility/yith-woocommerce-product-vendors.php:165
+#: includes/compatibility/yith-woocommerce-product-vendors.php:172
+#: includes/compatibility/yith-woocommerce-product-vendors.php:175
+#: includes/compatibility/yith-woocommerce-product-vendors.php:189
+#: includes/compatibility/yith-woocommerce-product-vendors.php:192
+#: includes/compatibility/yith-woocommerce-product-vendors.php:199
+#: includes/compatibility/yith-woocommerce-product-vendors.php:202
+#: templates/admin/metaboxes/types/cart_discount.php:705
+#: templates/admin/metaboxes/types/cart_discount.php:747
+msgid "Search for a vendor"
+msgstr "جستجو برای یک فروشنده"
+
+#: includes/functions.yith-wc-dynamic-pricing.php:182
+#: plugin-options/metabox/ywdpd_pricing_discount.php:44
+#: plugin-options/pricing-rules-options.php:5
+msgid "Quantity Discount"
+msgstr "تخفیف تعداد"
+
+#: includes/functions.yith-wc-dynamic-pricing.php:183
+#: plugin-options/metabox/ywdpd_pricing_discount.php:45
+#: plugin-options/pricing-rules-options.php:6
+msgid "Special Offer"
+msgstr "پیشنهاد ویژه"
+
+#: includes/functions.yith-wc-dynamic-pricing.php:184
+#: plugin-options/metabox/ywdpd_pricing_discount.php:46
+#: plugin-options/pricing-rules-options.php:7
+msgid "Exclude items from rules"
+msgstr "بجز مواردی از قوانین"
+
+#: init.php:136
+msgid ""
+"YITH WooCommerce Dynamic Pricing and Discounts Premium is enabled but not "
+"effective. It requires WooCommerce in order to work."
+msgstr ""
+"افزونه تخفیف و قیمت گذاری پویا فعال شده ولی باید افزونه ووکامرس را نصب و "
+"فعال کنید تا موثر واقع شود."
+
+#: plugin-options/cart-rules-options.php:8
+msgid "Customers"
+msgstr "مشتریان"
+
+#: plugin-options/cart-rules-options.php:10
+msgid "Users in list"
+msgstr "کاربران در لیست"
+
+#: plugin-options/cart-rules-options.php:11
+msgid "Exclude users in list"
+msgstr "بجز کاربران در لیست"
+
+#: plugin-options/cart-rules-options.php:12
+msgid "Roles in list"
+msgstr "نقش های کاربری در لیست"
+
+#: plugin-options/cart-rules-options.php:13
+msgid "Roles not in list"
+msgstr "بجز نقش های کاربری در این لیست"
+
+#: plugin-options/cart-rules-options.php:14
+#: templates/admin/metaboxes/types/cart_discount.php:169
+msgid "Minimum number of orders required"
+msgstr "کمترین تعداد سفارش لازم"
+
+#: plugin-options/cart-rules-options.php:15
+#: templates/admin/metaboxes/types/cart_discount.php:179
+msgid "Maximum number of orders required"
+msgstr "بیشترین تعداد سفارش لازم"
+
+#: plugin-options/cart-rules-options.php:16
+#: templates/admin/metaboxes/types/cart_discount.php:189
+msgid "Minimum past expense required"
+msgstr "کمترین هزینه لازم"
+
+#: plugin-options/cart-rules-options.php:17
+#: templates/admin/metaboxes/types/cart_discount.php:199
+msgid "Maximum past expense required"
+msgstr "بیشترین هزینه لازم"
+
+#: plugin-options/cart-rules-options.php:22
+msgid "Products"
+msgstr "محصولات"
+
+#: plugin-options/cart-rules-options.php:24
+msgid "At least one selected product"
+msgstr "حداقل یک محصول انتخاب شده"
+
+#: plugin-options/cart-rules-options.php:25
+msgid "All selected products in cart"
+msgstr "همه محصولات انتخاب شده در سبد خرید"
+
+#: plugin-options/cart-rules-options.php:26
+msgid "Products not selected"
+msgstr "محصولات انتخاب نشده"
+
+#: plugin-options/cart-rules-options.php:27
+msgid "At least a selected category"
+msgstr "حداقل یک دسته بندی انتخاب شده"
+
+#: plugin-options/cart-rules-options.php:28
+msgid "All selected categories in cart"
+msgstr "همه درسته بندی های انتخاب شده در سبد خرید"
+
+#: plugin-options/cart-rules-options.php:29
+msgid "Categories not selected"
+msgstr "دسته بندی های انتخاب نشده"
+
+#: plugin-options/cart-rules-options.php:30
+msgid "At least a selected tag"
+msgstr "حداقل یک برچسب انتخاب شده"
+
+#: plugin-options/cart-rules-options.php:31
+msgid "All selected tags in cart"
+msgstr "همه برچسب های انتخاب شده در سبدخرید"
+
+#: plugin-options/cart-rules-options.php:32
+msgid "Tags not selected"
+msgstr "برچسب های انتخاب نشده"
+
+#: plugin-options/cart-rules-options.php:38
+msgid "Cart Items"
+msgstr "آیتم های سبد خرید"
+
+#: plugin-options/cart-rules-options.php:40
+msgid "Minimum quantity of product items"
+msgstr "کمترین تعداد از موارد محصول"
+
+#: plugin-options/cart-rules-options.php:41
+msgid "Maximum quantity of product items"
+msgstr "بیشترین تعداد از موارد محصول"
+
+#: plugin-options/cart-rules-options.php:42
+msgid "Minimum quantity of cart items"
+msgstr "کمترین تعداد از موارد سبد خرید"
+
+#: plugin-options/cart-rules-options.php:43
+msgid "Maximum quantity of cart items"
+msgstr "بیشترین تعداد از موارد سبد خرید"
+
+#: plugin-options/cart-rules-options.php:48
+msgid "Cart Subtotals"
+msgstr "زیرمجموع سبدخرید"
+
+#: plugin-options/cart-rules-options.php:50
+msgid "Minimum subtotal"
+msgstr "حداقل زیرمجموع "
+
+#: plugin-options/cart-rules-options.php:51
+msgid "Maximum subtotal"
+msgstr "بیشترین زیرمجموع"
+
+#: plugin-options/cart-rules-options.php:56
+#, fuzzy
+#| msgid "Discount Rules"
+msgid "Discount Restrictions"
+msgstr "قوانین تخفیف"
+
+#: plugin-options/cart-rules-options.php:58
+#, fuzzy
+#| msgid "Exclude a list of products"
+msgid "Exclude products"
+msgstr "بجز یک لیست از محصولات"
+
+#: plugin-options/cart-rules-options.php:59
+#, fuzzy
+#| msgid "Exclude a list of categories"
+msgid "Exclude categories"
+msgstr "بجز یک لیست از دسته بندی ها"
+
+#: plugin-options/cart-rules-options.php:60
+#, fuzzy
+#| msgid "Exclude a list of tags"
+msgid "Exclude tags"
+msgstr "بجز یک لیست از برچسب ها"
+
+#: plugin-options/cart-rules-options.php:61
+#, fuzzy
+#| msgid "Even if the product is on sale"
+msgid "Exclude product on sale"
+msgstr "حتی اگر محصول در تخفیف پیشفرض قرار داشت"
+
+#: plugin-options/cart-rules-options.php:67
+#: plugin-options/pricing-rules-options.php:39
+msgid "Percentage Discount"
+msgstr "تخفیف درصدی"
+
+#: plugin-options/cart-rules-options.php:68
+#: plugin-options/pricing-rules-options.php:40
+msgid "Price Discount"
+msgstr "تخفیف قیمت"
+
+#: plugin-options/cart-rules-options.php:69
+#: plugin-options/pricing-rules-options.php:41
+msgid "Fixed Price"
+msgstr "قیمت ثابت"
+
+#: plugin-options/general-options.php:10
+msgid "General Settings"
+msgstr "تنظیمات عمومی"
+
+#: plugin-options/general-options.php:24
+msgid "Enable Dynamic Pricing and Discounts"
+msgstr "فعال سازی تخفیف و قیمت گذاری پویا"
+
+#: plugin-options/general-options.php:32
+msgid "Coupon Label"
+msgstr "برچسب کوپن"
+
+#: plugin-options/general-options.php:33
+msgid ""
+"Name of the coupon showed in cart if there are discounts in cart (add a "
+"single word)"
+msgstr ""
+"نام کوپن نمایش داده شده در سبدخرید اگر تخفیف ها در سبد خرید هستند (یک لغت "
+"تکی اضافه کنید)"
+
+#: plugin-options/general-options.php:35
+msgid "DISCOUNT"
+msgstr "تخفیف"
+
+#: plugin-options/general-options.php:41
+msgid "Display notes on products"
+msgstr "نمایش یادداشت ها در محصولات"
+
+#: plugin-options/general-options.php:42
+msgid ""
+"Display notes on \"Apply to\" products and on \"Apply Adjustment to\" "
+"products - available for price rules"
+msgstr ""
+"نمایش یادداشت در \"اعمال در\" محصولات و در \"اعمال تخفیف در\" محصولات - برای "
+"قوانین قیمت در دسترس می باشد."
+
+#: plugin-options/general-options.php:49
+msgid "Position of notes in products"
+msgstr "موقعیت یادداشت در محصولات"
+
+#: plugin-options/general-options.php:50
+msgid ""
+"Position of notes on \"Apply to\" products and on \"Apply Adjustment to\" "
+"products - available for price rules"
+msgstr ""
+"موقعیت یادداشت های  \"اعمال در\" محصولات و در \"اعمال تخفیف در\" محصولات - "
+"برای قوانین قیمت در دسترس می باشد."
+
+#: plugin-options/general-options.php:53 plugin-options/general-options.php:109
+msgid "Before \"Add to cart\" button"
+msgstr "قبل از دکمه افزودن به سبد خرید"
+
+#: plugin-options/general-options.php:54 plugin-options/general-options.php:110
+msgid "After \"Add to cart\" button"
+msgstr "بعد از دکمه افزودن به سبد خرید"
+
+#: plugin-options/general-options.php:55 plugin-options/general-options.php:111
+msgid "Before excerpt"
+msgstr "قبل از چکیده"
+
+#: plugin-options/general-options.php:56 plugin-options/general-options.php:112
+msgid "After excerpt"
+msgstr "بعد از چکیده"
+
+#: plugin-options/general-options.php:57 plugin-options/general-options.php:113
+msgid "After product meta"
+msgstr "بعد از اطلاعات متای محصول"
+
+#: plugin-options/general-options.php:65
+msgid "Display Quantity Table"
+msgstr "نمایش جدول تعداد"
+
+#: plugin-options/general-options.php:73
+msgid "Display Expiring Date In Quantity Table"
+msgstr "نمایش تاریخ انقضا در جدول تعداد"
+
+#: plugin-options/general-options.php:81
+msgid "Quantity Table Title"
+msgstr "عنوان جدول تعداد"
+
+#: plugin-options/general-options.php:82
+msgid "Title of the Quantity Table"
+msgstr "عنوان جدول تعداد"
+
+#: plugin-options/general-options.php:84
+msgid "Discount per Quantity"
+msgstr "تخفیف خرید تعداد"
+
+#: plugin-options/general-options.php:89
+msgid "Label for Quantity"
+msgstr "برچسب برای تعداد"
+
+#: plugin-options/general-options.php:92
+msgid "Quantity"
+msgstr "تعداد"
+
+#: plugin-options/general-options.php:97
+msgid "Label for Price"
+msgstr "برچسب برای قیمت"
+
+#: plugin-options/general-options.php:100
+msgid "Price"
+msgstr "قیمت"
+
+#: plugin-options/general-options.php:105
+msgid "Display Quantity Table Position"
+msgstr "موقعیت نمایش جدول تعداد"
+
+#: plugin-options/general-options.php:123
+msgid "Show minimum price for products with quantity discount enabled"
+msgstr "نمایش کمترین قیمت برای محصولات همراه تخفیف تعداد فعال شده"
+
+#: plugin-options/general-options.php:124
+msgid ""
+"The discount is visible only if the discount starts from quantity equal to 1"
+msgstr "این تخفیف فقط اگر تخفیف از تعداد 1 شروع شود قالب روئیت می باشد"
+
+#: plugin-options/general-options.php:131
+msgid "Price format"
+msgstr "فرمت قیمت"
+
+#: plugin-options/general-options.php:132
+msgid ""
+"You can use: %original_price%, %discounted_price%, %percentual_discount%. "
+"Note: enable the above option to see the minimum discounted amount"
+msgstr ""
+
+#: plugin-options/general-options.php:134
+msgid "<del>%original_price%</del> %discounted_price%"
+msgstr "<del>%original_price%</del> %discounted_price%"
+
+#: plugin-options/general-options.php:140
+msgid "Calculate cart discount starting from"
+msgstr "محاسبه تخفیف سبد خرید شروع از"
+
+#: plugin-options/general-options.php:144
+msgid "Subtotal - tax excluded"
+msgstr "زیرمجموع - بجز مالیات"
+
+#: plugin-options/general-options.php:145
+msgid "Subtotal - tax included"
+msgstr "زیرمجموع - شامل مالیات"
+
+#: plugin-options/general-options.php:153
+msgid "Enable Shop Manager to edit these options"
+msgstr "فعال سازی مدیریت فروشگاه برای ویرایش این گزینه ها"
+
+#: plugin-options/general-options.php:166
+msgid "Extend the rules to translated contents"
+msgstr "گسترین قانون ها برای ترجمه محتواها"
+
+#: plugin-options/metabox/ywdpd_cart_discount.php:12
+#: plugin-options/metabox/ywdpd_pricing_discount.php:13
+msgid "Pricing Discount Settings"
+msgstr ""
+
+#: plugin-options/metabox/ywdpd_cart_discount.php:32
+#: plugin-options/metabox/ywdpd_pricing_discount.php:33
+msgid "Active"
+msgstr ""
+
+#: plugin-options/metabox/ywdpd_cart_discount.php:33
+#: plugin-options/metabox/ywdpd_pricing_discount.php:34
+msgid "Choose if activate or deactivate"
+msgstr ""
+
+#: plugin-options/metabox/ywdpd_cart_discount.php:37
+#: plugin-options/metabox/ywdpd_pricing_discount.php:71
+msgid "Priority"
+msgstr ""
+
+#: plugin-options/metabox/ywdpd_cart_discount.php:43
+#: plugin-options/metabox/ywdpd_pricing_discount.php:93
+msgid "Discount Schedule from"
+msgstr ""
+
+#: plugin-options/metabox/ywdpd_cart_discount.php:48
+#: plugin-options/metabox/ywdpd_pricing_discount.php:98
+msgid "Discount Schedule to"
+msgstr ""
+
+#: plugin-options/metabox/ywdpd_cart_discount.php:53
+msgid "Discount Combined"
+msgstr "تخفیف ترکیبی"
+
+#: plugin-options/metabox/ywdpd_cart_discount.php:54
+msgid "Choose to combine this cart discount with other coupons"
+msgstr ""
+
+#: plugin-options/metabox/ywdpd_cart_discount.php:64
+#: plugin-options/metabox/ywdpd_pricing_discount.php:314
+msgid "Discount Rules"
+msgstr "قوانین تخفیف"
+
+#: plugin-options/metabox/ywdpd_cart_discount.php:71
+#: templates/admin/metaboxes/types/cart_discount_type.php:25
+msgid "Discount Type"
+msgstr "نوع تخفیف"
+
+#: plugin-options/metabox/ywdpd_pricing_discount.php:40
+msgid "Discount mode"
+msgstr "حالت تخفیف"
+
+#: plugin-options/metabox/ywdpd_pricing_discount.php:51
+msgid "Show price table"
+msgstr "نمایش جدول قیمت"
+
+#: plugin-options/metabox/ywdpd_pricing_discount.php:61
+msgid "Show in loop"
+msgstr "نمایش در حلقه"
+
+#: plugin-options/metabox/ywdpd_pricing_discount.php:77
+msgid "Quantity Based"
+msgstr "بر اساس تعداد"
+
+#: plugin-options/metabox/ywdpd_pricing_discount.php:81
+#: plugin-options/pricing-rules-options.php:11
+msgid "Item quantity in cart line"
+msgstr "تعداد موارد در سبد خرید"
+
+#: plugin-options/metabox/ywdpd_pricing_discount.php:82
+#: plugin-options/pricing-rules-options.php:12
+msgid "Single product"
+msgstr "محصول تکی"
+
+#: plugin-options/metabox/ywdpd_pricing_discount.php:83
+#: plugin-options/pricing-rules-options.php:13
+msgid "Single product variation"
+msgstr "محصول تکی متغیر"
+
+#: plugin-options/metabox/ywdpd_pricing_discount.php:84
+#: plugin-options/pricing-rules-options.php:14
+msgid "Sum of all products in list or category list"
+msgstr "حاصل جمع همه محصولات در لیست یا لیست دسته بندی"
+
+#: plugin-options/metabox/ywdpd_pricing_discount.php:106
+msgid "User Status"
+msgstr "وضعیت کاربر"
+
+#: plugin-options/metabox/ywdpd_pricing_discount.php:110
+#: plugin-options/pricing-rules-options.php:45
+msgid "Everyone"
+msgstr "همه"
+
+#: plugin-options/metabox/ywdpd_pricing_discount.php:111
+#: plugin-options/pricing-rules-options.php:46
+msgid "Include a list of roles"
+msgstr "شامل یک لیست از نقش های کاربری"
+
+#: plugin-options/metabox/ywdpd_pricing_discount.php:112
+#: plugin-options/pricing-rules-options.php:47
+msgid "Exclude a list of roles"
+msgstr "بجز یک لیست از نقش های کاربری"
+
+#: plugin-options/metabox/ywdpd_pricing_discount.php:113
+#: plugin-options/pricing-rules-options.php:48
+msgid "Include a list of customers"
+msgstr "شامل یک لیست از مشتریان"
+
+#: plugin-options/metabox/ywdpd_pricing_discount.php:114
+#: plugin-options/pricing-rules-options.php:49
+msgid "Exclude a list of customers"
+msgstr "بجز یک لیست از مشتریان"
+
+#: plugin-options/metabox/ywdpd_pricing_discount.php:119
+msgid "Select Roles"
+msgstr "انتخاب نقش های کاربری"
+
+#: plugin-options/metabox/ywdpd_pricing_discount.php:132
+msgid "Select roles to exclude"
+msgstr "انتخاب نقش های کاربری استثنا"
+
+#: plugin-options/metabox/ywdpd_pricing_discount.php:145
+#: plugin-options/metabox/ywdpd_pricing_discount.php:148
+#: plugin-options/metabox/ywdpd_pricing_discount.php:158
+msgid "Select customers"
+msgstr ""
+
+#: plugin-options/metabox/ywdpd_pricing_discount.php:155
+msgid "Select customers to exclude"
+msgstr "انتخاب مشتریان استثنا"
+
+#: plugin-options/metabox/ywdpd_pricing_discount.php:168
+msgid "Apply to"
+msgstr "اعمال به"
+
+#: plugin-options/metabox/ywdpd_pricing_discount.php:169
+msgid "Select the products to which applying the rule"
+msgstr "محصولاتی که این قانون روی آنها اعمال شود را انتخاب کنید"
+
+#: plugin-options/metabox/ywdpd_pricing_discount.php:175
+#: plugin-options/metabox/ywdpd_pricing_discount.php:178
+#: plugin-options/metabox/ywdpd_pricing_discount.php:185
+#: plugin-options/metabox/ywdpd_pricing_discount.php:188
+#: plugin-options/metabox/ywdpd_pricing_discount.php:250
+#: plugin-options/metabox/ywdpd_pricing_discount.php:253
+#: plugin-options/metabox/ywdpd_pricing_discount.php:260
+#: plugin-options/metabox/ywdpd_pricing_discount.php:263
+#: templates/admin/metaboxes/types/cart_discount.php:228
+#: templates/admin/metaboxes/types/cart_discount.php:268
+#: templates/admin/metaboxes/types/cart_discount.php:308
+#: templates/admin/metaboxes/types/cart_discount.php:846
+msgid "Search for a product"
+msgstr "جستجو برای یک محصول"
+
+#: plugin-options/metabox/ywdpd_pricing_discount.php:195
+#: plugin-options/metabox/ywdpd_pricing_discount.php:198
+#: plugin-options/metabox/ywdpd_pricing_discount.php:205
+#: plugin-options/metabox/ywdpd_pricing_discount.php:208
+#: plugin-options/metabox/ywdpd_pricing_discount.php:270
+#: plugin-options/metabox/ywdpd_pricing_discount.php:273
+#: plugin-options/metabox/ywdpd_pricing_discount.php:280
+#: plugin-options/metabox/ywdpd_pricing_discount.php:283
+#: templates/admin/metaboxes/types/cart_discount.php:347
+#: templates/admin/metaboxes/types/cart_discount.php:387
+#: templates/admin/metaboxes/types/cart_discount.php:426
+#: templates/admin/metaboxes/types/cart_discount.php:886
+msgid "Search for a category"
+msgstr "جستجو برای یک دسته بندی"
+
+#: plugin-options/metabox/ywdpd_pricing_discount.php:215
+#: plugin-options/metabox/ywdpd_pricing_discount.php:218
+#: plugin-options/metabox/ywdpd_pricing_discount.php:225
+#: plugin-options/metabox/ywdpd_pricing_discount.php:228
+#: plugin-options/metabox/ywdpd_pricing_discount.php:290
+#: plugin-options/metabox/ywdpd_pricing_discount.php:293
+#: plugin-options/metabox/ywdpd_pricing_discount.php:300
+#: plugin-options/metabox/ywdpd_pricing_discount.php:303
+msgid "Search for a tags"
+msgstr ""
+
+#: plugin-options/metabox/ywdpd_pricing_discount.php:239
+msgid "Apply adjustment to"
+msgstr "اعمال اصلاحیه به"
+
+#: plugin-options/metabox/ywdpd_pricing_discount.php:240
+msgid "Select the products to which apply the adjustments"
+msgstr "محصولاتی که این اصلاحیه روی آنها اعمال شود را انتخاب کنید"
+
+#: plugin-options/metabox/ywdpd_pricing_discount.php:324
+msgid "Special Offer Rules"
+msgstr "قوانین پیشنهاد ویژه"
+
+#: plugin-options/metabox/ywdpd_pricing_discount.php:338
+msgid "Notes shown on \"Apply to\" products"
+msgstr "یادداشت نمایش داده شده در \"اعمال به\" محصولات"
+
+#: plugin-options/metabox/ywdpd_pricing_discount.php:348
+msgid "Notes shown on \"Apply adjustment to\" products"
+msgstr "یادداشت های نمایش داده شده در \"اعمال اصلاحیه به\" محصولات"
+
+#: plugin-options/metabox/ywdpd_pricing_discount.php:358
+msgid "Notes shown in quantity table"
+msgstr "یادداشت های نمایش داده شده در جدول تعداد"
+
+#: plugin-options/metabox/ywdpd_pricing_discount.php:368
+msgid "With other rules"
+msgstr ""
+
+#: plugin-options/metabox/ywdpd_pricing_discount.php:369
+msgid "Only one quantity discount per product can be applied at the same time"
+msgstr ""
+
+#: plugin-options/metabox/ywdpd_pricing_discount.php:379
+msgid "Apply if the product is on sale"
+msgstr ""
+
+#: plugin-options/metabox/ywdpd_pricing_discount.php:390
+msgid "Disable with other coupon"
+msgstr "غیرفعال شدن با کوپن های تخفیف دیگر"
+
+#: plugin-options/pricing-rules-options.php:18
+#: plugin-options/pricing-rules-options.php:29
+msgid "All products"
+msgstr "همه محصولات"
+
+#: plugin-options/pricing-rules-options.php:19
+#: plugin-options/pricing-rules-options.php:30
+msgid "Include a list of products"
+msgstr "شامل یک لیست از محصولات"
+
+#: plugin-options/pricing-rules-options.php:20
+#: plugin-options/pricing-rules-options.php:31
+msgid "Exclude a list of products"
+msgstr "بجز یک لیست از محصولات"
+
+#: plugin-options/pricing-rules-options.php:21
+#: plugin-options/pricing-rules-options.php:32
+msgid "Include a list of categories"
+msgstr "شامل یک لیست از دسته بندی ها"
+
+#: plugin-options/pricing-rules-options.php:22
+#: plugin-options/pricing-rules-options.php:33
+msgid "Exclude a list of categories"
+msgstr "بجز یک لیست از دسته بندی ها"
+
+#: plugin-options/pricing-rules-options.php:23
+#: plugin-options/pricing-rules-options.php:34
+msgid "Include a list of tags"
+msgstr "شامل یک لیست از برچسب ها"
+
+#: plugin-options/pricing-rules-options.php:24
+#: plugin-options/pricing-rules-options.php:35
+msgid "Exclude a list of tags"
+msgstr "بجز یک لیست از برچسب ها"
+
+#: plugin-options/pricing-rules-options.php:28
+msgid "Same product"
+msgstr "همان محصول"
+
+#: templates/admin/metaboxes/types/cart_discount.php:25
+msgid "Rule"
+msgstr "قانون"
+
+#: templates/admin/metaboxes/types/cart_discount.php:26
+msgid "Value"
+msgstr "مقدار"
+
+#: templates/admin/metaboxes/types/cart_discount.php:61
+#: templates/admin/metaboxes/types/cart_discount.php:77
+msgid "Select a role"
+msgstr "انتخاب یک نقش"
+
+#: templates/admin/metaboxes/types/cart_discount.php:111
+#: templates/admin/metaboxes/types/cart_discount.php:150
+msgid "Search for a customer"
+msgstr "جستجو برای یک مشتری"
+
+#: templates/admin/metaboxes/types/cart_discount.php:465
+#: templates/admin/metaboxes/types/cart_discount.php:504
+#: templates/admin/metaboxes/types/cart_discount.php:543
+#: templates/admin/metaboxes/types/cart_discount.php:924
+msgid "Search for a tag"
+msgstr "جستجو برای یک برچسب"
+
+#: templates/admin/metaboxes/types/cart_discount.php:945
+msgid "No"
+msgstr ""
+
+#: templates/admin/metaboxes/types/cart_discount.php:946
+msgid "Yes"
+msgstr ""
+
+#: templates/admin/metaboxes/types/cart_discount_type.php:26
+msgid "Amount"
+msgstr "مقدار"
+
+#: templates/admin/metaboxes/types/quantity_discount.php:24
+msgid "Minimum Quantity"
+msgstr "کمترین تعداد"
+
+#: templates/admin/metaboxes/types/quantity_discount.php:25
+msgid "Maximum Quantity"
+msgstr "بیشترین تعداد"
+
+#: templates/admin/metaboxes/types/quantity_discount.php:26
+#: templates/admin/metaboxes/types/special_offer_discount.php:27
+msgid "Type of Discount"
+msgstr "نوع تخفیف"
+
+#: templates/admin/metaboxes/types/quantity_discount.php:27
+#: templates/admin/metaboxes/types/special_offer_discount.php:28
+msgid "Discount Amount"
+msgstr "مقدار تخفیف"
+
+#: templates/admin/metaboxes/types/quantity_discount.php:42
+#: templates/admin/metaboxes/types/quantity_discount.php:77
+#: templates/admin/metaboxes/types/special_offer_discount.php:37
+msgid "e.g. 5"
+msgstr "مثلا 5"
+
+#: templates/admin/metaboxes/types/quantity_discount.php:49
+#: templates/admin/metaboxes/types/quantity_discount.php:80
+#: templates/admin/metaboxes/types/special_offer_discount.php:44
+msgid "e.g. 10 - * for unlimited items"
+msgstr "مثلا 10 - * برای تعداد نامحدود"
+
+#: templates/admin/metaboxes/types/quantity_discount.php:66
+#: templates/admin/metaboxes/types/quantity_discount.php:90
+#: templates/admin/metaboxes/types/special_offer_discount.php:62
+msgid "e.g. 50"
+msgstr "مثلا 50"
+
+#: templates/admin/metaboxes/types/special_offer_discount.php:25
+msgid "Purchase"
+msgstr "خرید"
+
+#: templates/admin/metaboxes/types/special_offer_discount.php:26
+msgid "Receive"
+msgstr "دریافت"
+
+#: templates/admin/metaboxes/types/special_offer_discount.php:29
+msgid "Repeat"
+msgstr "تکرار"
+
+#: templates/admin/rules-panel.php:18
+msgid "Add new rule"
+msgstr "افزودن قانون جدید"
+
+#: templates/yith_ywdpd_table_pricing.php:67
+#: templates/yith_ywdpd_table_pricing.php:68
+#: templates/yith_ywdpd_table_pricing.php:74
+msgctxt "Price range: from-to"
+msgid "%1$s&ndash;%2$s"
+msgstr "%1$s&ndash;%2$s"
+
+#. Plugin Name of the plugin/theme
+#, fuzzy
+#| msgid "Enable Dynamic Pricing and Discounts"
+msgid "YITH WooCommerce Dynamic Pricing and Discounts Premium"
+msgstr "فعال سازی تخفیف و قیمت گذاری پویا"
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://yithemes.com/themes/plugins/yith-woocommerce-dynamic-pricing-and-"
+"discounts/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"<code><strong>YITH WooCommerce Dynamic Pricing and Discounts</code></strong> "
+"allows editing prices and enabling dynamic discounts in a simple, quick and "
+"intuitive way. Keeping a store without this features would be a serious "
+"mistake! <a href=\"https://yithemes.com/\" target=\"_blank\">Get more "
+"plugins for your e-commerce shop on <strong>YITH</strong></a>."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "YITH"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://yithemes.com/"
+msgstr ""
+
+#~ msgid "Dynamic Pricing"
+#~ msgstr "قیمت گذاری پویا"
+
+#~ msgid "Plugin Documentation"
+#~ msgstr "راهنمای افزونه"
+
+#~ msgid "Please, add a description for the rule"
+#~ msgstr "لطفا توضیحاتی برای این قانون وارد کنید"
+
+#~ msgid ""
+#~ "You can use: %original_price%, %discounted_price%, %percentual_discount%. "
+#~ "Note: enable the above option to\r\n"
+#~ "\t\t        see the minimum discounted amount"
+#~ msgstr ""
+#~ "شما می توانید از : %original_price%, %discounted_price%, "
+#~ "%percentual_discount% استفاده کنید. توجه: گزینه بالا را برای دیدن کمترین "
+#~ "مقدار تخفیف روشن کنید."
+
+#~ msgid "Description"
+#~ msgstr "توضیحات"
+
+#~ msgid "Discount Schedule"
+#~ msgstr "برنامه تخفیف"
+
+#~ msgid "From"
+#~ msgstr "از"
+
+#~ msgid "To"
+#~ msgstr "تا"
+
+#~ msgid "Choose if this cart discount must be combined with other coupon"
+#~ msgstr ""
+#~ "اگر این تخفیف سبد خرید باید با یک کوپن تخفیف دیگر ترکیب شود انتخاب کنید"
+
+#~ msgid "Save changes"
+#~ msgstr "ذخیره تغییرات"
+
+#~ msgid "Select Customers"
+#~ msgstr "انتخاب مشتریان"
+
+#~ msgid "Select Products"
+#~ msgstr "انتخاب محصولات"
+
+#~ msgid "Categories"
+#~ msgstr "دسته بندی ها"
+
+#~ msgid "Tags"
+#~ msgstr "برچسب ها"
+
+#~ msgid "Vendors"
+#~ msgstr "فروشندگان"
+
+#~ msgid "Brands"
+#~ msgstr "برندها"
+
+#~ msgid "Apply this discount"
+#~ msgstr "اعمال این تخفیف"
+
+#~ msgid ""
+#~ "With other rules <br><small style=\"font-weight:normal\">Only one "
+#~ "quantity discount per product can be applied at the same time</small>"
+#~ msgstr ""
+#~ "با دیگر قوانین <br><small style=\"font-weight:normal\"> فقط یک تخفیف "
+#~ "تعداد برای هر محصول در یک زمان قابل اعمال می باشد."
+
+#~ msgid "Show Price Table"
+#~ msgstr "نمایش جدول قیمت"
+
+#~ msgid "Select the products to which applying the adjustments"
+#~ msgstr "محصولاتی که اصلاحیه روی آنها اعمال می شود انتخاب کنید"
+
+#~ msgid "Notes shown in the discount table"
+#~ msgstr "یادداشت های در جدول تخفیف"

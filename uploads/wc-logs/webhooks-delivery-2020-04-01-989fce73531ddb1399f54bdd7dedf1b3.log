@@ -1,0 +1,612 @@
+2020-04-01T19:10:15+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 91e948ad01d3cd4241232cef1c82f785
+            [Date] => 1 de Abril de 2020 @ 19:10
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.72438
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.5)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.ideiasbrilhantes.info/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => qGy56u9hZZaHTa4VkYTENiX1XMIXjmya/uw8QNWpHFU=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 91e948ad01d3cd4241232cef1c82f785
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Wed, 01 Apr 2020 19:10:15 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=b2df301e-5368-493e-9ae8-802b5bda56d0; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-01T19:10:16+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 91e948ad01d3cd4241232cef1c82f785
+            [Date] => 1 de Abril de 2020 @ 19:10
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.22913
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.5)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.ideiasbrilhantes.info/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => 8PfDD3hPGWNB7ny+kmkai59w7nUCCvBCF1BvlRBaT9w=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 91e948ad01d3cd4241232cef1c82f785
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Wed, 01 Apr 2020 19:10:16 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=5ff4e860-cf70-4fa7-989c-9b6f21eff928; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-01T19:10:16+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 33a0df1b5e2e26e4b96224351b807f29
+            [Date] => 1 de Abril de 2020 @ 19:10
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.23544
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.5)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.ideiasbrilhantes.info/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => TWL2gfzYQfYSv8YpN1leckEuKM2YcNFBELmN4mBeuW4=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 33a0df1b5e2e26e4b96224351b807f29
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Wed, 01 Apr 2020 19:10:16 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=c0d61088-f916-458b-8428-e09a65bf8799; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-01T19:10:16+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 33a0df1b5e2e26e4b96224351b807f29
+            [Date] => 1 de Abril de 2020 @ 19:10
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.22975
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.5)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.ideiasbrilhantes.info/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => xX/7TgfvX5geqm1lzGUy4afCserteHxjiyt9Egozmss=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 33a0df1b5e2e26e4b96224351b807f29
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Wed, 01 Apr 2020 19:10:16 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=0aa37a53-f77e-4c33-be61-8d218bf7c2af; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-01T19:10:16+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 33a0df1b5e2e26e4b96224351b807f29
+            [Date] => 1 de Abril de 2020 @ 19:10
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.2365
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.5)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.ideiasbrilhantes.info/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => BNX+Hko6MSMwt9IecsntdQbJ6OuQYgIBifuKuKGz/xw=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 33a0df1b5e2e26e4b96224351b807f29
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Wed, 01 Apr 2020 19:10:16 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=aa4b6d17-a272-4540-b0a6-ad907a92b814; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-01T19:10:17+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 33a0df1b5e2e26e4b96224351b807f29
+            [Date] => 1 de Abril de 2020 @ 19:10
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.24065
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.5)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.ideiasbrilhantes.info/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => ed2smmb1bg8mP+lnpoUtR2DRYE3e3WiLoZOV5UssKJ8=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 33a0df1b5e2e26e4b96224351b807f29
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Wed, 01 Apr 2020 19:10:17 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=6c0f6af9-6885-4fca-9bc8-f3cd6361554e; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-01T19:10:17+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => d24671a94b6a0670c435c27a0d9b5d7e
+            [Date] => 1 de Abril de 2020 @ 19:10
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.22608
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.5)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.ideiasbrilhantes.info/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => pLJEaTE7qlgf7uuH0AD0sDHgVToNCqispEIQ7M7CTzk=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => d24671a94b6a0670c435c27a0d9b5d7e
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Wed, 01 Apr 2020 19:10:17 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=fa1f7c78-bece-44e0-b64b-9155bf410dd0; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-01T19:44:47+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 00d7b114ca7a8b4fa81ab110a15196e0
+            [Date] => 1 de Abril de 2020 @ 19:44
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.72447
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.5)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.ideiasbrilhantes.info/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => /AS58KR7w7MZ+hvVJ2bz4Ci7Ketq2t7jlu7V1xGx7PM=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 00d7b114ca7a8b4fa81ab110a15196e0
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Wed, 01 Apr 2020 19:44:47 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=96e7f211-04d0-429e-81d4-ca0a1a4c8a7f; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-01T19:44:47+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => ff0ede07d2594235fc8681f60f47e4ab
+            [Date] => 1 de Abril de 2020 @ 19:44
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.23811
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.5)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.ideiasbrilhantes.info/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => vCsMFz2Xc1+G71EKi6gD0/oPf/DBdryV09HgMuzOTvU=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => ff0ede07d2594235fc8681f60f47e4ab
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Wed, 01 Apr 2020 19:44:47 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=100fe7de-7402-45f2-912f-befaa37f8d55; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-01T19:44:48+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => ff0ede07d2594235fc8681f60f47e4ab
+            [Date] => 1 de Abril de 2020 @ 19:44
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.23855
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.5)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.ideiasbrilhantes.info/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => TS14EEv3VL43LcjB9vm5aaSDTZU7PAECShUlFyVbFbI=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => ff0ede07d2594235fc8681f60f47e4ab
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Wed, 01 Apr 2020 19:44:48 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=85300a71-5024-4a69-9dd9-25c3c6b8d2ad; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-01T19:44:48+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => eb8e9cce6c20466c52d33cc3ddcd7cb7
+            [Date] => 1 de Abril de 2020 @ 19:44
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.23862
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.5)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.ideiasbrilhantes.info/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => OOGWso/aOcafVwH57jbCHAeMmHHWUbVPzrwTn2JrToE=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => eb8e9cce6c20466c52d33cc3ddcd7cb7
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Wed, 01 Apr 2020 19:44:48 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=cc4455f0-fc5e-4f0b-ac55-206b4099d899; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-01T19:44:48+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => eb8e9cce6c20466c52d33cc3ddcd7cb7
+            [Date] => 1 de Abril de 2020 @ 19:44
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.23007
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.2.5)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.ideiasbrilhantes.info/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => 92p8hfui6UeFhaDO7iE2jnY/A0lJvzcGvETFCag9gIk=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => eb8e9cce6c20466c52d33cc3ddcd7cb7
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Wed, 01 Apr 2020 19:44:48 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=aefa25bd-0dea-4305-8124-e8a5ee246b32; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+

@@ -1,0 +1,1088 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Notification Premium\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-09 08:06+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.3"
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/woocommerce-notification.php:45
+msgid ""
+"Please install WooCommerce and active. WooCommerce Notification is going to "
+"working."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/admin.php:163
+msgid "Settings"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/admin.php:201
+msgid "WooCommerce Notification"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/admin.php:201
+msgid "Woo Notification"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/report.php:69
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/report.php:76
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/report.php:142
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/report.php:150
+msgid "Click"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/report.php:290
+msgid "WooCommerce Notification Reporting"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/report.php:293
+msgid "Clicks by date"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/report.php:295
+msgid "Clicks by product"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/report.php:303
+msgid "From"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/report.php:308
+msgid "To"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/report.php:313
+msgid "SUBMIT"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/report.php:323
+msgid "Top Click"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/report.php:327
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:320
+msgid "Products"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/report.php:329
+msgid "Clicked"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/report.php:369
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/report.php:370
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:335
+msgid "Report"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:305
+msgid "WooCommerce Notification Settings"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:311
+msgid "General"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:314
+msgid "Design"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:317
+msgid "Messages"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:323
+msgid "Product Detail"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:326
+msgid "Time"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:329
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1692
+msgid "Sound"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:332
+msgid "Assign"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:338
+msgid "Update"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:348
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1677
+msgid "Enable"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:364
+msgid "Mobile"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:388
+msgid "Show Products"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:394
+msgid "Get from Billing"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:396
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:659
+msgid "Select Products"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:398
+msgid "Latest Products"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:400
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:426
+msgid "Select Categories"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:402
+msgid "Recently Viewed Products"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:405
+msgid ""
+"You can arrange product order or special product which you want to up-sell."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:410
+msgid "Out-of-stock products"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:420
+msgid "Turn on to show out-of-stock products on notifications."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:434
+msgid "Please select category"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:456
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:530
+msgid "Exclude Products"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:513
+msgid "These products will not display on notification."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:518
+msgid "Product limit"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:525
+msgid "Product quantity will be got in list latest products."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:588
+msgid "These products will not show on notification."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:593
+msgid "External link"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:603
+msgid "Working with  External/Affiliate product. Product link is product URL."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:608
+msgid "Order Time"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:621
+msgid "Hours"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:623
+msgid "Days"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:625
+msgid "Minutes"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:629
+msgid "Products in this recently time will get from order.  "
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:634
+msgid "Order Status"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:667
+msgid "Please select products"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:713
+msgid "Virtual First Name"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:722
+msgid ""
+"Virtual first name what will show on notification. Each first name on a line."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:769
+msgid "Virtual Time"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:775
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/frontend/notify.php:892
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/frontend/notify.php:1236
+msgid "hours"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:778
+msgid "Time will auto get random in this time threshold ago."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:783
+msgid "Address"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:787
+msgid "Auto Detect"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:789
+msgid "Virtual"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:792
+msgid "You can use auto detect address or make virtual address of customer."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:797
+msgid "Virtual City"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:805
+msgid ""
+"Virtual city name what will show on notification. Each city name on a line."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:852
+msgid "Virtual Country"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:858
+msgid "Virtual country name what will show on notification."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:906
+msgid "Product image size"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:914
+msgid "shop_thumbnail"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:917
+msgid "shop_catalog"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:920
+msgid "shop_single"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:924
+msgid "Image size will get form your WordPress site."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:929
+msgid "Non Ajax"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:939
+msgid ""
+"Load popup will not use ajax. Your site will be load faster. It creates "
+"cache. It is not working with Get product from Billing feature and options "
+"of Product detail tab."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:952
+msgid "Run single product"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:962
+msgid ""
+"Notification will only display current product in product detail page that "
+"they are viewing."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:967
+msgid "Notification show"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:974
+msgid "Current product"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:976
+msgid "Products in the same category"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:979
+msgid ""
+"In product single page, Notification can only display current product or "
+"other products in the same category."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:984
+msgid "Show variation"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:994
+msgid "Show variation instead of product variable."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1008
+msgid "Highlight color"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1019
+msgid "Text color"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1031
+msgid "Background color"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1042
+msgid "Image padding"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1048
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1191
+msgid "px"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1050
+msgid "Gap between product image and notification's border"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1055
+msgid "Templates"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1065
+msgid "None"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1094
+msgid "Image Position"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1100
+msgid "Left"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1102
+msgid "Right"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1108
+msgid "Position"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1122
+msgid "Bottom left"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1135
+msgid "Bottom right"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1147
+msgid "Top left"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1159
+msgid "Top right"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1169
+msgid "Rounded corner style"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1180
+msgid "Message will be rounded and product image is round instead of square"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1185
+msgid "Custom Rounded corner"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1193
+msgid "This option is used only if you do not select any background templates"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1199
+msgid "Show Close Icon"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1215
+msgid "Time close"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1221
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/frontend/notify.php:894
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/frontend/notify.php:1235
+msgid "hour"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1227
+msgid "Close icon color"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1240
+msgid "Image redirect"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1251
+msgid "When click image, you will redirect to product single page."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1257
+msgid "Link target"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1268
+msgid "Open link on new tab."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1275
+msgid "Message display effect"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1284
+msgid "bounceIn"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1286
+msgid "bounceInDown"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1288
+msgid "bounceInLeft"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1290
+msgid "bounceInRight"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1292
+msgid "bounceInUp"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1296
+msgid "fadeIn"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1298
+msgid "fadeInDown"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1300
+msgid "fadeInDownBig"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1302
+msgid "fadeInLeft"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1304
+msgid "fadeInLeftBig"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1306
+msgid "fadeInRight"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1308
+msgid "fadeInRightBig"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1310
+msgid "fadeInUp"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1312
+msgid "fadeInUpBig"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1316
+msgid "flipInX"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1318
+msgid "flipInY"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1322
+msgid "lightSpeedIn"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1326
+msgid "rotateIn"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1328
+msgid "rotateInDownLeft"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1330
+msgid "rotateInDownRight"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1332
+msgid "rotateInUpLeft"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1334
+msgid "rotateInUpRight"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1338
+msgid "slideInUp"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1340
+msgid "slideInDown"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1342
+msgid "slideInLeft"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1344
+msgid "slideInRight"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1348
+msgid "zoomIn"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1350
+msgid "zoomInDown"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1352
+msgid "zoomInLeft"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1354
+msgid "zoomInRight"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1356
+msgid "zoomInUp"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1360
+msgid "rollIn"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1368
+msgid "Message popup animation"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1377
+msgid "bounceOut"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1379
+msgid "bounceOutDown"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1381
+msgid "bounceOutLeft"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1383
+msgid "bounceOutRight"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1385
+msgid "bounceOutUp"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1389
+msgid "fadeOut"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1391
+msgid "fadeOutDown"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1393
+msgid "fadeOutDownBig"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1395
+msgid "fadeOutLeft"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1397
+msgid "fadeOutLeftBig"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1399
+msgid "fadeOutRight"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1401
+msgid "fadeOutRightBig"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1403
+msgid "fadeOutUp"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1405
+msgid "fadeOutUpBig"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1409
+msgid "flipOutX"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1411
+msgid "flipOutY"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1415
+msgid "lightSpeedOut"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1419
+msgid "rotateOut"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1421
+msgid "rotateOutDownLeft"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1423
+msgid "rotateOutDownRight"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1425
+msgid "rotateOutUpLeft"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1427
+msgid "rotateOutUpRight"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1431
+msgid "slideOutUp"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1433
+msgid "slideOutDown"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1435
+msgid "slideOutLeft"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1437
+msgid "slideOutRight"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1441
+msgid "zoomOut"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1443
+msgid "zoomOutDown"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1445
+msgid "zoomOutLeft"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1447
+msgid "zoomOutRight"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1449
+msgid "zoomOutUp"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1453
+msgid "rollOut"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1461
+msgid "Custom CSS"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1521
+msgid "Loop"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1534
+msgid "Loop by session"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1545
+msgid ""
+"\"Next time display\" applies for notifications of the whole site instead of "
+"each page"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1546
+msgid ""
+"\"Initial time\" is applied only for the first notification of a session"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1547
+msgid ""
+"Count variable for \"Notifications per page\" is reset after a session "
+"expires"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1552
+msgid "Notifications per session"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1557
+msgid "Number of notifications in a session."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1562
+msgid "Session duration"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1574
+msgid "Hour"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1575
+msgid "Minute"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1576
+msgid "Second"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1581
+msgid "How long should a session last?"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1586
+msgid "Next time display"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1593
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1634
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/frontend/notify.php:906
+msgid "seconds"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1596
+msgid "Time to show next notification "
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1601
+msgid "Notifications per page"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1607
+msgid "Number of notifications on a page."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1612
+msgid "Initial time random"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1622
+msgid "Initial time will be random from 0 to current value."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1627
+msgid "Minimum initial delay time"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1637
+msgid "Time will be random from Initial delay time min to Initial time."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1642
+msgid "Initial delay"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1648
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1662
+msgid "second"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1650
+msgid "When your site loads, notifications will show after this amount of time"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1656
+msgid "Display time"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1664
+msgid "Time your notification display."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1687
+#, php-format
+msgid ""
+"Modern browsers recently changed their policy to let users able to disable "
+"auto play audio so this option is not working correctly now. More details at "
+"<a href=\"%s\" target=\"_blank\">%s</a>"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1705
+msgid "Please select sound. Notification rings when show."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1718
+msgid "Message purchased"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1788
+msgid "Remove"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1795
+msgid "Add New"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1800
+msgid "Customer's first name"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1804
+msgid "Customer's city"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1808
+msgid "Customer's state"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1812
+msgid "Customer's country"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1816
+msgid "Product title"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1820
+msgid "Product title with link"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1824
+msgid "Time after purchase"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1828
+msgid "Use custom shortcode"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1846
+msgid "Custom"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1854
+msgid "This is {custom} shortcode content."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1907
+msgid "Min Number"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1917
+msgid "Max number"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1924
+msgid "Number will random from Min number to Max number"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1937
+msgid "Home page"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1947
+msgid "Turn on to hide notification on Home page"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1952
+msgid "Checkout page"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1962
+msgid "Turn on to hide notification on Checkout page"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1967
+msgid "Cart page"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1977
+msgid "Turn on to hide notification on Cart page"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1982
+msgid "Conditional Tags"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1985
+msgid "eg: !is_page(array(34,98,73))"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:1990
+msgid "Let you adjust which pages will appear using WP's conditional tags."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:2003
+msgid "Save Logs"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:2017
+msgid "History time"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:2024
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/frontend/notify.php:883
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/frontend/notify.php:1234
+msgid "days"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:2027
+msgid "Logs will be saved at "
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:2027
+msgid " in time"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:2040
+msgid "Auto Update Key"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:2052
+msgid "Get Key"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:2056
+msgid "Please fill your key what you get from "
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:2056
+msgid "You can auto update WooCommerce Notification plugin. See guide "
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:2064
+msgid "Save"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/settings.php:2068
+msgid "Save & Check Key"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/system.php:19
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/system.php:99
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/system.php:100
+msgid "System Status"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/system.php:24
+msgid "Log Directory Writable"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/system.php:30
+#, php-format
+msgid ""
+"To allow logging, make <code>%s</code> writable or define a custom <code>"
+"VI_WNOTIFICATION_CACHE</code>."
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/system.php:75
+msgid "PHP Time Limit"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/system.php:79
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/admin/system.php:84
+msgid "Memory Limit"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/frontend/notify.php:885
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/frontend/notify.php:1233
+msgid "day"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/frontend/notify.php:901
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/frontend/notify.php:1238
+msgid "minutes"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/frontend/notify.php:903
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/frontend/notify.php:1237
+msgid "minute"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/frontend/notify.php:909
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/frontend/notify.php:1240
+msgid "a few seconds"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/frontend/notify.php:1017
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/frontend/notify.php:1231
+msgid "About"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/frontend/notify.php:1017
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/frontend/notify.php:1232
+msgid "ago"
+msgstr ""
+
+#: E:/Git/VILLAT~1/WO0D11~1/woocommerce-notification/frontend/notify.php:1239
+msgid "secs"
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce Notification Premium"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Increase conversion rate by highlighting other customers that have bought "
+"products."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://villatheme.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "Andy Ha (villatheme.com)"
+msgstr ""

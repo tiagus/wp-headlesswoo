@@ -1,0 +1,768 @@
+[PHP ERR][WARN] MSG:filter_var_array() expects parameter 1 to be array, null given [CODE:2|FILE:/home/ideias/public_html/dup-installer/ctrls/ctrl.s1.extraction.php|LINE:99]
+[PHP ERR][NOTICE] MSG:Undefined property: stdClass::$failures [CODE:8|FILE:/home/ideias/public_html/dup-installer/ctrls/ctrl.s1.extraction.php|LINE:101]
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 12:43:20
+* VERSION: 3.8.3
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ CURRENT SERVER                         |ORIGINAL SERVER
+PHP VERSION_________: 5.6.35                                |5.6.35
+OS__________________: Linux                                 |Linux
+CREATED_____________: 2019-08-05 12:37:01
+WP VERSION__________: 5.2.2
+DUP VERSION_________: 3.8.3
+DB__________________: 5.6.41
+DB TABLES___________: 46
+DB ROWS_____________: 6282
+DB FILE SIZE________: 7784319
+********************************************************************************
+SERVER INFO
+PHP_________________: 5.6.35 | SAPI: cgi-fcgi
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+SERVER______________: Apache
+DOC ROOT____________: "/home/ideias/public_html"
+DOC ROOT 755________: true
+LOG FILE 644________: true
+REQUEST URL_________: "https://www.ideiasbrilhantes.info/dup-installer/main.installer.php"
+********************************************************************************
+USER INPUTS
+ARCHIVE ENGINE______: "ziparchivechunking"
+[PHP ERR][NOTICE] MSG:Undefined index: clientside_kickoff [CODE:8|FILE:/home/ideias/public_html/dup-installer/ctrls/ctrl.s1.extraction.php|LINE:490]
+CLIENT KICKOFF______: NULL
+SET DIR PERMS_______: true
+DIR PERMS VALUE_____: 755
+SET FILE PERMS______: true
+FILE PERMS VALUE____: 644
+SAFE MODE___________: "0"
+LOGGING_____________: "1"
+RETAIN CONFIG_______: false
+FILE TIME___________: "current"
+[PHP ERR][NOTICE] MSG:Undefined index: remove-redundant [CODE:8|FILE:/home/ideias/public_html/dup-installer/ctrls/ctrl.s1.extraction.php|LINE:499]
+REMOVE RENDUNDANT___: NULL
+********************************************************************************
+
+
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME________________: "20190805_easyshop_eb45dae9373ef2a32180_20190805123701_archive.zip"
+SIZE________________: 69.61MB
+
+>>> Starting ZipArchive Chunking Unzip
+archive offset 0
+Archive just got done processing last file in list of 14584
+Expected total archive extract time: 1.8298584428194
+Total extraction elapsed time until now: 1.8298584428194
+Resetting permissions
+
+WEB SERVER CONFIGURATION FILE STATUS:
+- .htaccess file was not reset or backed up.
+- .user.ini file was not reset or backed up.
+- web.config file was not reset or backed up.
+
+STEP-1 COMPLETE @ 12:43:25 - RUNTIME: 5.6362 sec.
+
+
+
+********************************************************************************
+* DUPLICATOR PRO INSTALL-LOG
+* STEP-2 START @ 12:48:37
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+NON-BREAKING SPACES_: false
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8"
+COLLATE_____________: "utf8_general_ci"
+COLLATE FB__________: false
+CUNKING_____________: false
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 5.6.41 -- Build Server: 5.6.41
+FILE SIZE:	dup-database__eb45dae-05123701.sql (7.24MB) - installer-data.sql (0B)
+TIMEOUT:	5000
+MAXPACK:	16777216
+SQLMODE-GLOBAL:	NO_ENGINE_SUBSTITUTION
+SQLMODE-SESSION:NO_AUTO_VALUE_ON_ZERO
+NEW SQL FILE:	[/home/ideias/public_html/dup-installer/dup-installer-data__eb45dae-05123701.sql]
+COLLATE FB:	Off
+DB CHUNKING:	disabled
+DB VIEWS:	enabled
+DB PROCEDURES:	enabled
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+Starting Cleanup Routine...
+Cleanup Routine Complete
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	412
+
+TABLES ROWS
+
+TABLE "wp9s_automatewoo_abandoned_carts"________________[ROWS:     2]
+TABLE "wp9s_automatewoo_customers"______________________[ROWS:    16]
+TABLE "wp9s_automatewoo_events"_________________________[ROWS:    15]
+TABLE "wp9s_automatewoo_guest_meta"_____________________[ROWS:    73]
+TABLE "wp9s_automatewoo_guests"_________________________[ROWS:    14]
+TABLE "wp9s_automatewoo_log_meta"_______________________[ROWS:     0]
+TABLE "wp9s_automatewoo_logs"___________________________[ROWS:     0]
+TABLE "wp9s_automatewoo_queue"__________________________[ROWS:     0]
+TABLE "wp9s_automatewoo_queue_meta"_____________________[ROWS:     0]
+TABLE "wp9s_automatewoo_unsubscribes"___________________[ROWS:     0]
+TABLE "wp9s_commentmeta"________________________________[ROWS:     0]
+TABLE "wp9s_comments"___________________________________[ROWS:    57]
+TABLE "wp9s_duplicator_pro_entities"____________________[ROWS:     5]
+TABLE "wp9s_duplicator_pro_packages"____________________[ROWS:     0]
+TABLE "wp9s_links"______________________________________[ROWS:     0]
+TABLE "wp9s_options"____________________________________[ROWS:   567]
+TABLE "wp9s_postmeta"___________________________________[ROWS:  4109]
+TABLE "wp9s_posts"______________________________________[ROWS:   407]
+TABLE "wp9s_redirection_404"____________________________[ROWS:     0]
+TABLE "wp9s_redirection_groups"_________________________[ROWS:     2]
+TABLE "wp9s_redirection_items"__________________________[ROWS:     1]
+TABLE "wp9s_redirection_logs"___________________________[ROWS:     0]
+TABLE "wp9s_term_relationships"_________________________[ROWS:    43]
+TABLE "wp9s_term_taxonomy"______________________________[ROWS:    56]
+TABLE "wp9s_termmeta"___________________________________[ROWS:    64]
+TABLE "wp9s_terms"______________________________________[ROWS:    56]
+TABLE "wp9s_usermeta"___________________________________[ROWS:   123]
+TABLE "wp9s_users"______________________________________[ROWS:     2]
+TABLE "wp9s_wc_download_log"____________________________[ROWS:     0]
+TABLE "wp9s_wc_product_meta_lookup"_____________________[ROWS:    11]
+TABLE "wp9s_wc_webhooks"________________________________[ROWS:     0]
+TABLE "wp9s_woocommerce_api_keys"_______________________[ROWS:     1]
+TABLE "wp9s_woocommerce_attribute_taxonomies"___________[ROWS:     2]
+TABLE "wp9s_woocommerce_downloadable_product_permissions"[ROWS:     0]
+TABLE "wp9s_woocommerce_log"____________________________[ROWS:     0]
+TABLE "wp9s_woocommerce_order_itemmeta"_________________[ROWS:   432]
+TABLE "wp9s_woocommerce_order_items"____________________[ROWS:    50]
+TABLE "wp9s_woocommerce_payment_tokenmeta"______________[ROWS:     0]
+TABLE "wp9s_woocommerce_payment_tokens"_________________[ROWS:     0]
+TABLE "wp9s_woocommerce_sessions"_______________________[ROWS:     6]
+TABLE "wp9s_woocommerce_shipping_zone_locations"________[ROWS:     4]
+TABLE "wp9s_woocommerce_shipping_zone_methods"__________[ROWS:     2]
+TABLE "wp9s_woocommerce_shipping_zones"_________________[ROWS:     2]
+TABLE "wp9s_woocommerce_tax_rate_locations"_____________[ROWS:     0]
+TABLE "wp9s_woocommerce_tax_rates"______________________[ROWS:     0]
+TABLE "wp9s_wpfm_backup"________________________________[ROWS:     0]
+
+DATABASE CACHE/TRANSITIENT [ROWS:   159]
+
+INSERT DATA RUNTIME: 0.8384 sec.
+STEP-2 COMPLETE @ 12:48:38 - RUNTIME: 0.8441 sec.
+
+====================================
+SET SEARCH AND REPLACE LIST
+====================================
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 12:49:17
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8"
+CHARSET CLIENT:	"utf8"
+********************************************************************************
+OPTIONS:
+blogname______________: "Ideias Brilhantes"
+postguid______________: false
+fullsearch____________: false
+replace_mode__________: "legacy"
+path_old______________: "/home/easy1/public_html/"
+path_new______________: "/home/ideias/public_html/"
+siteurl_______________: "https://www.ideiasbrilhantes.info"
+url_old_______________: "https://www.easyshop.com"
+url_new_______________: "https://www.ideiasbrilhantes.info"
+cross_search__________: false
+subsite_id____________: -1
+remove_redundant______: false
+replaceMail___________: false
+dbhost________________: "localhost"
+dbuser________________: "ideias_wp5323"
+dbname________________: "ideias_wp5323"
+dbcharset_____________: "utf8"
+dbcollate_____________: "utf8_general_ci"
+wp_username___________: ""
+wp_mail_______________: ""
+wp_nickname___________: ""
+wp_first_name_________: ""
+wp_last_name__________: ""
+ssl_admin_____________: false
+auth_keys_and_salts___: false
+cache_wp______________: false
+cache_path____________: false
+wp_debug______________: false
+wp_debug_log__________: false
+wp_debug_display______: false
+script_debug__________: false
+savequeries___________: false
+wp_memory_limit_______: ""
+wp_max_memory_limit___: ""
+disallow_file_edit____: false
+cookie_domain_________: ""
+autosave_interval_____: 0
+wp_auto_update_core___: ""
+wp_post_revisions_____: "remove"
+empty_schedule_storage: true
+exe_safe_mode_________: false
+retain_config_________: false
+mode_chunking_________: 1
+action_mu_mode________: -1
+********************************************************************************
+
+
+====================================
+RUN SEARCH AND REPLACE
+====================================
+
+EVALUATE TABLE: "wp9s_automatewoo_abandoned_carts"________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/easy1/public_html/" ========================> "/home/ideias/public_html/"
+	SEARCH  2:"\/home\/easy1\/public_html\/" ====================> "\/home\/ideias\/public_html\/"
+	SEARCH  3:"%2Fhome%2Feasy1%2Fpublic_html%2F" ================> "%2Fhome%2Fideias%2Fpublic_html%2F"
+	SEARCH  4:"\home\easy1\public_html" =========================> "/home/ideias/public_html"
+	SEARCH  5:"\\home\\easy1\\public_html" ======================> "\/home\/ideias\/public_html"
+	SEARCH  6:"%5Chome%5Ceasy1%5Cpublic_html" ===================> "%2Fhome%2Fideias%2Fpublic_html"
+	SEARCH  7:"//www.easyshop.com" ==============================> "//www.ideiasbrilhantes.info"
+	SEARCH  8:"\/\/www.easyshop.com" ============================> "\/\/www.ideiasbrilhantes.info"
+	SEARCH  9:"%2F%2Fwww.easyshop.com" ==========================> "%2F%2Fwww.ideiasbrilhantes.info"
+	SEARCH 10:"http://www.ideiasbrilhantes.info" ================> "https://www.ideiasbrilhantes.info"
+	SEARCH 11:"http:\/\/www.ideiasbrilhantes.info" ==============> "https:\/\/www.ideiasbrilhantes.info"
+	SEARCH 12:"http%3A%2F%2Fwww.ideiasbrilhantes.info" ==========> "https%3A%2F%2Fwww.ideiasbrilhantes.info"
+
+EVALUATE TABLE: "wp9s_automatewoo_customers"______________________[ROWS:    16][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/easy1/public_html/" ========================> "/home/ideias/public_html/"
+	SEARCH  2:"\/home\/easy1\/public_html\/" ====================> "\/home\/ideias\/public_html\/"
+	SEARCH  3:"%2Fhome%2Feasy1%2Fpublic_html%2F" ================> "%2Fhome%2Fideias%2Fpublic_html%2F"
+	SEARCH  4:"\home\easy1\public_html" =========================> "/home/ideias/public_html"
+	SEARCH  5:"\\home\\easy1\\public_html" ======================> "\/home\/ideias\/public_html"
+	SEARCH  6:"%5Chome%5Ceasy1%5Cpublic_html" ===================> "%2Fhome%2Fideias%2Fpublic_html"
+	SEARCH  7:"//www.easyshop.com" ==============================> "//www.ideiasbrilhantes.info"
+	SEARCH  8:"\/\/www.easyshop.com" ============================> "\/\/www.ideiasbrilhantes.info"
+	SEARCH  9:"%2F%2Fwww.easyshop.com" ==========================> "%2F%2Fwww.ideiasbrilhantes.info"
+	SEARCH 10:"http://www.ideiasbrilhantes.info" ================> "https://www.ideiasbrilhantes.info"
+	SEARCH 11:"http:\/\/www.ideiasbrilhantes.info" ==============> "https:\/\/www.ideiasbrilhantes.info"
+	SEARCH 12:"http%3A%2F%2Fwww.ideiasbrilhantes.info" ==========> "https%3A%2F%2Fwww.ideiasbrilhantes.info"
+
+EVALUATE TABLE: "wp9s_automatewoo_events"_________________________[ROWS:    15][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/easy1/public_html/" ========================> "/home/ideias/public_html/"
+	SEARCH  2:"\/home\/easy1\/public_html\/" ====================> "\/home\/ideias\/public_html\/"
+	SEARCH  3:"%2Fhome%2Feasy1%2Fpublic_html%2F" ================> "%2Fhome%2Fideias%2Fpublic_html%2F"
+	SEARCH  4:"\home\easy1\public_html" =========================> "/home/ideias/public_html"
+	SEARCH  5:"\\home\\easy1\\public_html" ======================> "\/home\/ideias\/public_html"
+	SEARCH  6:"%5Chome%5Ceasy1%5Cpublic_html" ===================> "%2Fhome%2Fideias%2Fpublic_html"
+	SEARCH  7:"//www.easyshop.com" ==============================> "//www.ideiasbrilhantes.info"
+	SEARCH  8:"\/\/www.easyshop.com" ============================> "\/\/www.ideiasbrilhantes.info"
+	SEARCH  9:"%2F%2Fwww.easyshop.com" ==========================> "%2F%2Fwww.ideiasbrilhantes.info"
+	SEARCH 10:"http://www.ideiasbrilhantes.info" ================> "https://www.ideiasbrilhantes.info"
+	SEARCH 11:"http:\/\/www.ideiasbrilhantes.info" ==============> "https:\/\/www.ideiasbrilhantes.info"
+	SEARCH 12:"http%3A%2F%2Fwww.ideiasbrilhantes.info" ==========> "https%3A%2F%2Fwww.ideiasbrilhantes.info"
+
+EVALUATE TABLE: "wp9s_automatewoo_guest_meta"_____________________[ROWS:    73][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/easy1/public_html/" ========================> "/home/ideias/public_html/"
+	SEARCH  2:"\/home\/easy1\/public_html\/" ====================> "\/home\/ideias\/public_html\/"
+	SEARCH  3:"%2Fhome%2Feasy1%2Fpublic_html%2F" ================> "%2Fhome%2Fideias%2Fpublic_html%2F"
+	SEARCH  4:"\home\easy1\public_html" =========================> "/home/ideias/public_html"
+	SEARCH  5:"\\home\\easy1\\public_html" ======================> "\/home\/ideias\/public_html"
+	SEARCH  6:"%5Chome%5Ceasy1%5Cpublic_html" ===================> "%2Fhome%2Fideias%2Fpublic_html"
+	SEARCH  7:"//www.easyshop.com" ==============================> "//www.ideiasbrilhantes.info"
+	SEARCH  8:"\/\/www.easyshop.com" ============================> "\/\/www.ideiasbrilhantes.info"
+	SEARCH  9:"%2F%2Fwww.easyshop.com" ==========================> "%2F%2Fwww.ideiasbrilhantes.info"
+	SEARCH 10:"http://www.ideiasbrilhantes.info" ================> "https://www.ideiasbrilhantes.info"
+	SEARCH 11:"http:\/\/www.ideiasbrilhantes.info" ==============> "https:\/\/www.ideiasbrilhantes.info"
+	SEARCH 12:"http%3A%2F%2Fwww.ideiasbrilhantes.info" ==========> "https%3A%2F%2Fwww.ideiasbrilhantes.info"
+
+EVALUATE TABLE: "wp9s_automatewoo_guests"_________________________[ROWS:    14][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/easy1/public_html/" ========================> "/home/ideias/public_html/"
+	SEARCH  2:"\/home\/easy1\/public_html\/" ====================> "\/home\/ideias\/public_html\/"
+	SEARCH  3:"%2Fhome%2Feasy1%2Fpublic_html%2F" ================> "%2Fhome%2Fideias%2Fpublic_html%2F"
+	SEARCH  4:"\home\easy1\public_html" =========================> "/home/ideias/public_html"
+	SEARCH  5:"\\home\\easy1\\public_html" ======================> "\/home\/ideias\/public_html"
+	SEARCH  6:"%5Chome%5Ceasy1%5Cpublic_html" ===================> "%2Fhome%2Fideias%2Fpublic_html"
+	SEARCH  7:"//www.easyshop.com" ==============================> "//www.ideiasbrilhantes.info"
+	SEARCH  8:"\/\/www.easyshop.com" ============================> "\/\/www.ideiasbrilhantes.info"
+	SEARCH  9:"%2F%2Fwww.easyshop.com" ==========================> "%2F%2Fwww.ideiasbrilhantes.info"
+	SEARCH 10:"http://www.ideiasbrilhantes.info" ================> "https://www.ideiasbrilhantes.info"
+	SEARCH 11:"http:\/\/www.ideiasbrilhantes.info" ==============> "https:\/\/www.ideiasbrilhantes.info"
+	SEARCH 12:"http%3A%2F%2Fwww.ideiasbrilhantes.info" ==========> "https%3A%2F%2Fwww.ideiasbrilhantes.info"
+
+EVALUATE TABLE: "wp9s_automatewoo_log_meta"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp9s_automatewoo_logs"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp9s_automatewoo_queue"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp9s_automatewoo_queue_meta"_____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp9s_automatewoo_unsubscribes"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp9s_commentmeta"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp9s_comments"___________________________________[ROWS:    57][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/easy1/public_html/" ========================> "/home/ideias/public_html/"
+	SEARCH  2:"\/home\/easy1\/public_html\/" ====================> "\/home\/ideias\/public_html\/"
+	SEARCH  3:"%2Fhome%2Feasy1%2Fpublic_html%2F" ================> "%2Fhome%2Fideias%2Fpublic_html%2F"
+	SEARCH  4:"\home\easy1\public_html" =========================> "/home/ideias/public_html"
+	SEARCH  5:"\\home\\easy1\\public_html" ======================> "\/home\/ideias\/public_html"
+	SEARCH  6:"%5Chome%5Ceasy1%5Cpublic_html" ===================> "%2Fhome%2Fideias%2Fpublic_html"
+	SEARCH  7:"//www.easyshop.com" ==============================> "//www.ideiasbrilhantes.info"
+	SEARCH  8:"\/\/www.easyshop.com" ============================> "\/\/www.ideiasbrilhantes.info"
+	SEARCH  9:"%2F%2Fwww.easyshop.com" ==========================> "%2F%2Fwww.ideiasbrilhantes.info"
+	SEARCH 10:"http://www.ideiasbrilhantes.info" ================> "https://www.ideiasbrilhantes.info"
+	SEARCH 11:"http:\/\/www.ideiasbrilhantes.info" ==============> "https:\/\/www.ideiasbrilhantes.info"
+	SEARCH 12:"http%3A%2F%2Fwww.ideiasbrilhantes.info" ==========> "https%3A%2F%2Fwww.ideiasbrilhantes.info"
+
+EVALUATE TABLE: "wp9s_duplicator_pro_entities"____________________[ROWS:     5][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/easy1/public_html/" ========================> "/home/ideias/public_html/"
+	SEARCH  2:"\/home\/easy1\/public_html\/" ====================> "\/home\/ideias\/public_html\/"
+	SEARCH  3:"%2Fhome%2Feasy1%2Fpublic_html%2F" ================> "%2Fhome%2Fideias%2Fpublic_html%2F"
+	SEARCH  4:"\home\easy1\public_html" =========================> "/home/ideias/public_html"
+	SEARCH  5:"\\home\\easy1\\public_html" ======================> "\/home\/ideias\/public_html"
+	SEARCH  6:"%5Chome%5Ceasy1%5Cpublic_html" ===================> "%2Fhome%2Fideias%2Fpublic_html"
+	SEARCH  7:"//www.easyshop.com" ==============================> "//www.ideiasbrilhantes.info"
+	SEARCH  8:"\/\/www.easyshop.com" ============================> "\/\/www.ideiasbrilhantes.info"
+	SEARCH  9:"%2F%2Fwww.easyshop.com" ==========================> "%2F%2Fwww.ideiasbrilhantes.info"
+	SEARCH 10:"http://www.ideiasbrilhantes.info" ================> "https://www.ideiasbrilhantes.info"
+	SEARCH 11:"http:\/\/www.ideiasbrilhantes.info" ==============> "https:\/\/www.ideiasbrilhantes.info"
+	SEARCH 12:"http%3A%2F%2Fwww.ideiasbrilhantes.info" ==========> "https%3A%2F%2Fwww.ideiasbrilhantes.info"
+
+EVALUATE TABLE: "wp9s_duplicator_pro_packages"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp9s_links"______________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp9s_options"____________________________________[ROWS:   567][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/easy1/public_html/" ========================> "/home/ideias/public_html/"
+	SEARCH  2:"\/home\/easy1\/public_html\/" ====================> "\/home\/ideias\/public_html\/"
+	SEARCH  3:"%2Fhome%2Feasy1%2Fpublic_html%2F" ================> "%2Fhome%2Fideias%2Fpublic_html%2F"
+	SEARCH  4:"\home\easy1\public_html" =========================> "/home/ideias/public_html"
+	SEARCH  5:"\\home\\easy1\\public_html" ======================> "\/home\/ideias\/public_html"
+	SEARCH  6:"%5Chome%5Ceasy1%5Cpublic_html" ===================> "%2Fhome%2Fideias%2Fpublic_html"
+	SEARCH  7:"//www.easyshop.com" ==============================> "//www.ideiasbrilhantes.info"
+	SEARCH  8:"\/\/www.easyshop.com" ============================> "\/\/www.ideiasbrilhantes.info"
+	SEARCH  9:"%2F%2Fwww.easyshop.com" ==========================> "%2F%2Fwww.ideiasbrilhantes.info"
+	SEARCH 10:"http://www.ideiasbrilhantes.info" ================> "https://www.ideiasbrilhantes.info"
+	SEARCH 11:"http:\/\/www.ideiasbrilhantes.info" ==============> "https:\/\/www.ideiasbrilhantes.info"
+	SEARCH 12:"http%3A%2F%2Fwww.ideiasbrilhantes.info" ==========> "https%3A%2F%2Fwww.ideiasbrilhantes.info"
+
+EVALUATE TABLE: "wp9s_postmeta"___________________________________[ROWS:  4109][PG:   2][SCAN:text columns]
+	SEARCH  1:"/home/easy1/public_html/" ========================> "/home/ideias/public_html/"
+	SEARCH  2:"\/home\/easy1\/public_html\/" ====================> "\/home\/ideias\/public_html\/"
+	SEARCH  3:"%2Fhome%2Feasy1%2Fpublic_html%2F" ================> "%2Fhome%2Fideias%2Fpublic_html%2F"
+	SEARCH  4:"\home\easy1\public_html" =========================> "/home/ideias/public_html"
+	SEARCH  5:"\\home\\easy1\\public_html" ======================> "\/home\/ideias\/public_html"
+	SEARCH  6:"%5Chome%5Ceasy1%5Cpublic_html" ===================> "%2Fhome%2Fideias%2Fpublic_html"
+	SEARCH  7:"//www.easyshop.com" ==============================> "//www.ideiasbrilhantes.info"
+	SEARCH  8:"\/\/www.easyshop.com" ============================> "\/\/www.ideiasbrilhantes.info"
+	SEARCH  9:"%2F%2Fwww.easyshop.com" ==========================> "%2F%2Fwww.ideiasbrilhantes.info"
+	SEARCH 10:"http://www.ideiasbrilhantes.info" ================> "https://www.ideiasbrilhantes.info"
+	SEARCH 11:"http:\/\/www.ideiasbrilhantes.info" ==============> "https:\/\/www.ideiasbrilhantes.info"
+	SEARCH 12:"http%3A%2F%2Fwww.ideiasbrilhantes.info" ==========> "https%3A%2F%2Fwww.ideiasbrilhantes.info"
+
+EVALUATE TABLE: "wp9s_posts"______________________________________[ROWS:   407][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/easy1/public_html/" ========================> "/home/ideias/public_html/"
+	SEARCH  2:"\/home\/easy1\/public_html\/" ====================> "\/home\/ideias\/public_html\/"
+	SEARCH  3:"%2Fhome%2Feasy1%2Fpublic_html%2F" ================> "%2Fhome%2Fideias%2Fpublic_html%2F"
+	SEARCH  4:"\home\easy1\public_html" =========================> "/home/ideias/public_html"
+	SEARCH  5:"\\home\\easy1\\public_html" ======================> "\/home\/ideias\/public_html"
+	SEARCH  6:"%5Chome%5Ceasy1%5Cpublic_html" ===================> "%2Fhome%2Fideias%2Fpublic_html"
+	SEARCH  7:"//www.easyshop.com" ==============================> "//www.ideiasbrilhantes.info"
+	SEARCH  8:"\/\/www.easyshop.com" ============================> "\/\/www.ideiasbrilhantes.info"
+	SEARCH  9:"%2F%2Fwww.easyshop.com" ==========================> "%2F%2Fwww.ideiasbrilhantes.info"
+	SEARCH 10:"http://www.ideiasbrilhantes.info" ================> "https://www.ideiasbrilhantes.info"
+	SEARCH 11:"http:\/\/www.ideiasbrilhantes.info" ==============> "https:\/\/www.ideiasbrilhantes.info"
+	SEARCH 12:"http%3A%2F%2Fwww.ideiasbrilhantes.info" ==========> "https%3A%2F%2Fwww.ideiasbrilhantes.info"
+
+EVALUATE TABLE: "wp9s_redirection_404"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp9s_redirection_groups"_________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/easy1/public_html/" ========================> "/home/ideias/public_html/"
+	SEARCH  2:"\/home\/easy1\/public_html\/" ====================> "\/home\/ideias\/public_html\/"
+	SEARCH  3:"%2Fhome%2Feasy1%2Fpublic_html%2F" ================> "%2Fhome%2Fideias%2Fpublic_html%2F"
+	SEARCH  4:"\home\easy1\public_html" =========================> "/home/ideias/public_html"
+	SEARCH  5:"\\home\\easy1\\public_html" ======================> "\/home\/ideias\/public_html"
+	SEARCH  6:"%5Chome%5Ceasy1%5Cpublic_html" ===================> "%2Fhome%2Fideias%2Fpublic_html"
+	SEARCH  7:"//www.easyshop.com" ==============================> "//www.ideiasbrilhantes.info"
+	SEARCH  8:"\/\/www.easyshop.com" ============================> "\/\/www.ideiasbrilhantes.info"
+	SEARCH  9:"%2F%2Fwww.easyshop.com" ==========================> "%2F%2Fwww.ideiasbrilhantes.info"
+	SEARCH 10:"http://www.ideiasbrilhantes.info" ================> "https://www.ideiasbrilhantes.info"
+	SEARCH 11:"http:\/\/www.ideiasbrilhantes.info" ==============> "https:\/\/www.ideiasbrilhantes.info"
+	SEARCH 12:"http%3A%2F%2Fwww.ideiasbrilhantes.info" ==========> "https%3A%2F%2Fwww.ideiasbrilhantes.info"
+
+EVALUATE TABLE: "wp9s_redirection_items"__________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/easy1/public_html/" ========================> "/home/ideias/public_html/"
+	SEARCH  2:"\/home\/easy1\/public_html\/" ====================> "\/home\/ideias\/public_html\/"
+	SEARCH  3:"%2Fhome%2Feasy1%2Fpublic_html%2F" ================> "%2Fhome%2Fideias%2Fpublic_html%2F"
+	SEARCH  4:"\home\easy1\public_html" =========================> "/home/ideias/public_html"
+	SEARCH  5:"\\home\\easy1\\public_html" ======================> "\/home\/ideias\/public_html"
+	SEARCH  6:"%5Chome%5Ceasy1%5Cpublic_html" ===================> "%2Fhome%2Fideias%2Fpublic_html"
+	SEARCH  7:"//www.easyshop.com" ==============================> "//www.ideiasbrilhantes.info"
+	SEARCH  8:"\/\/www.easyshop.com" ============================> "\/\/www.ideiasbrilhantes.info"
+	SEARCH  9:"%2F%2Fwww.easyshop.com" ==========================> "%2F%2Fwww.ideiasbrilhantes.info"
+	SEARCH 10:"http://www.ideiasbrilhantes.info" ================> "https://www.ideiasbrilhantes.info"
+	SEARCH 11:"http:\/\/www.ideiasbrilhantes.info" ==============> "https:\/\/www.ideiasbrilhantes.info"
+	SEARCH 12:"http%3A%2F%2Fwww.ideiasbrilhantes.info" ==========> "https%3A%2F%2Fwww.ideiasbrilhantes.info"
+
+EVALUATE TABLE: "wp9s_redirection_logs"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp9s_term_relationships"_________________________[ROWS:    43][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/easy1/public_html/" ========================> "/home/ideias/public_html/"
+	SEARCH  2:"\/home\/easy1\/public_html\/" ====================> "\/home\/ideias\/public_html\/"
+	SEARCH  3:"%2Fhome%2Feasy1%2Fpublic_html%2F" ================> "%2Fhome%2Fideias%2Fpublic_html%2F"
+	SEARCH  4:"\home\easy1\public_html" =========================> "/home/ideias/public_html"
+	SEARCH  5:"\\home\\easy1\\public_html" ======================> "\/home\/ideias\/public_html"
+	SEARCH  6:"%5Chome%5Ceasy1%5Cpublic_html" ===================> "%2Fhome%2Fideias%2Fpublic_html"
+	SEARCH  7:"//www.easyshop.com" ==============================> "//www.ideiasbrilhantes.info"
+	SEARCH  8:"\/\/www.easyshop.com" ============================> "\/\/www.ideiasbrilhantes.info"
+	SEARCH  9:"%2F%2Fwww.easyshop.com" ==========================> "%2F%2Fwww.ideiasbrilhantes.info"
+	SEARCH 10:"http://www.ideiasbrilhantes.info" ================> "https://www.ideiasbrilhantes.info"
+	SEARCH 11:"http:\/\/www.ideiasbrilhantes.info" ==============> "https:\/\/www.ideiasbrilhantes.info"
+	SEARCH 12:"http%3A%2F%2Fwww.ideiasbrilhantes.info" ==========> "https%3A%2F%2Fwww.ideiasbrilhantes.info"
+
+EVALUATE TABLE: "wp9s_term_taxonomy"______________________________[ROWS:    56][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/easy1/public_html/" ========================> "/home/ideias/public_html/"
+	SEARCH  2:"\/home\/easy1\/public_html\/" ====================> "\/home\/ideias\/public_html\/"
+	SEARCH  3:"%2Fhome%2Feasy1%2Fpublic_html%2F" ================> "%2Fhome%2Fideias%2Fpublic_html%2F"
+	SEARCH  4:"\home\easy1\public_html" =========================> "/home/ideias/public_html"
+	SEARCH  5:"\\home\\easy1\\public_html" ======================> "\/home\/ideias\/public_html"
+	SEARCH  6:"%5Chome%5Ceasy1%5Cpublic_html" ===================> "%2Fhome%2Fideias%2Fpublic_html"
+	SEARCH  7:"//www.easyshop.com" ==============================> "//www.ideiasbrilhantes.info"
+	SEARCH  8:"\/\/www.easyshop.com" ============================> "\/\/www.ideiasbrilhantes.info"
+	SEARCH  9:"%2F%2Fwww.easyshop.com" ==========================> "%2F%2Fwww.ideiasbrilhantes.info"
+	SEARCH 10:"http://www.ideiasbrilhantes.info" ================> "https://www.ideiasbrilhantes.info"
+	SEARCH 11:"http:\/\/www.ideiasbrilhantes.info" ==============> "https:\/\/www.ideiasbrilhantes.info"
+	SEARCH 12:"http%3A%2F%2Fwww.ideiasbrilhantes.info" ==========> "https%3A%2F%2Fwww.ideiasbrilhantes.info"
+
+EVALUATE TABLE: "wp9s_termmeta"___________________________________[ROWS:    64][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/easy1/public_html/" ========================> "/home/ideias/public_html/"
+	SEARCH  2:"\/home\/easy1\/public_html\/" ====================> "\/home\/ideias\/public_html\/"
+	SEARCH  3:"%2Fhome%2Feasy1%2Fpublic_html%2F" ================> "%2Fhome%2Fideias%2Fpublic_html%2F"
+	SEARCH  4:"\home\easy1\public_html" =========================> "/home/ideias/public_html"
+	SEARCH  5:"\\home\\easy1\\public_html" ======================> "\/home\/ideias\/public_html"
+	SEARCH  6:"%5Chome%5Ceasy1%5Cpublic_html" ===================> "%2Fhome%2Fideias%2Fpublic_html"
+	SEARCH  7:"//www.easyshop.com" ==============================> "//www.ideiasbrilhantes.info"
+	SEARCH  8:"\/\/www.easyshop.com" ============================> "\/\/www.ideiasbrilhantes.info"
+	SEARCH  9:"%2F%2Fwww.easyshop.com" ==========================> "%2F%2Fwww.ideiasbrilhantes.info"
+	SEARCH 10:"http://www.ideiasbrilhantes.info" ================> "https://www.ideiasbrilhantes.info"
+	SEARCH 11:"http:\/\/www.ideiasbrilhantes.info" ==============> "https:\/\/www.ideiasbrilhantes.info"
+	SEARCH 12:"http%3A%2F%2Fwww.ideiasbrilhantes.info" ==========> "https%3A%2F%2Fwww.ideiasbrilhantes.info"
+
+EVALUATE TABLE: "wp9s_terms"______________________________________[ROWS:    56][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/easy1/public_html/" ========================> "/home/ideias/public_html/"
+	SEARCH  2:"\/home\/easy1\/public_html\/" ====================> "\/home\/ideias\/public_html\/"
+	SEARCH  3:"%2Fhome%2Feasy1%2Fpublic_html%2F" ================> "%2Fhome%2Fideias%2Fpublic_html%2F"
+	SEARCH  4:"\home\easy1\public_html" =========================> "/home/ideias/public_html"
+	SEARCH  5:"\\home\\easy1\\public_html" ======================> "\/home\/ideias\/public_html"
+	SEARCH  6:"%5Chome%5Ceasy1%5Cpublic_html" ===================> "%2Fhome%2Fideias%2Fpublic_html"
+	SEARCH  7:"//www.easyshop.com" ==============================> "//www.ideiasbrilhantes.info"
+	SEARCH  8:"\/\/www.easyshop.com" ============================> "\/\/www.ideiasbrilhantes.info"
+	SEARCH  9:"%2F%2Fwww.easyshop.com" ==========================> "%2F%2Fwww.ideiasbrilhantes.info"
+	SEARCH 10:"http://www.ideiasbrilhantes.info" ================> "https://www.ideiasbrilhantes.info"
+	SEARCH 11:"http:\/\/www.ideiasbrilhantes.info" ==============> "https:\/\/www.ideiasbrilhantes.info"
+	SEARCH 12:"http%3A%2F%2Fwww.ideiasbrilhantes.info" ==========> "https%3A%2F%2Fwww.ideiasbrilhantes.info"
+
+EVALUATE TABLE: "wp9s_usermeta"___________________________________[ROWS:   123][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/easy1/public_html/" ========================> "/home/ideias/public_html/"
+	SEARCH  2:"\/home\/easy1\/public_html\/" ====================> "\/home\/ideias\/public_html\/"
+	SEARCH  3:"%2Fhome%2Feasy1%2Fpublic_html%2F" ================> "%2Fhome%2Fideias%2Fpublic_html%2F"
+	SEARCH  4:"\home\easy1\public_html" =========================> "/home/ideias/public_html"
+	SEARCH  5:"\\home\\easy1\\public_html" ======================> "\/home\/ideias\/public_html"
+	SEARCH  6:"%5Chome%5Ceasy1%5Cpublic_html" ===================> "%2Fhome%2Fideias%2Fpublic_html"
+	SEARCH  7:"//www.easyshop.com" ==============================> "//www.ideiasbrilhantes.info"
+	SEARCH  8:"\/\/www.easyshop.com" ============================> "\/\/www.ideiasbrilhantes.info"
+	SEARCH  9:"%2F%2Fwww.easyshop.com" ==========================> "%2F%2Fwww.ideiasbrilhantes.info"
+	SEARCH 10:"http://www.ideiasbrilhantes.info" ================> "https://www.ideiasbrilhantes.info"
+	SEARCH 11:"http:\/\/www.ideiasbrilhantes.info" ==============> "https:\/\/www.ideiasbrilhantes.info"
+	SEARCH 12:"http%3A%2F%2Fwww.ideiasbrilhantes.info" ==========> "https%3A%2F%2Fwww.ideiasbrilhantes.info"
+
+EVALUATE TABLE: "wp9s_users"______________________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/easy1/public_html/" ========================> "/home/ideias/public_html/"
+	SEARCH  2:"\/home\/easy1\/public_html\/" ====================> "\/home\/ideias\/public_html\/"
+	SEARCH  3:"%2Fhome%2Feasy1%2Fpublic_html%2F" ================> "%2Fhome%2Fideias%2Fpublic_html%2F"
+	SEARCH  4:"\home\easy1\public_html" =========================> "/home/ideias/public_html"
+	SEARCH  5:"\\home\\easy1\\public_html" ======================> "\/home\/ideias\/public_html"
+	SEARCH  6:"%5Chome%5Ceasy1%5Cpublic_html" ===================> "%2Fhome%2Fideias%2Fpublic_html"
+	SEARCH  7:"//www.easyshop.com" ==============================> "//www.ideiasbrilhantes.info"
+	SEARCH  8:"\/\/www.easyshop.com" ============================> "\/\/www.ideiasbrilhantes.info"
+	SEARCH  9:"%2F%2Fwww.easyshop.com" ==========================> "%2F%2Fwww.ideiasbrilhantes.info"
+	SEARCH 10:"http://www.ideiasbrilhantes.info" ================> "https://www.ideiasbrilhantes.info"
+	SEARCH 11:"http:\/\/www.ideiasbrilhantes.info" ==============> "https:\/\/www.ideiasbrilhantes.info"
+	SEARCH 12:"http%3A%2F%2Fwww.ideiasbrilhantes.info" ==========> "https%3A%2F%2Fwww.ideiasbrilhantes.info"
+
+EVALUATE TABLE: "wp9s_wc_download_log"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp9s_wc_product_meta_lookup"_____________________[ROWS:    11][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/easy1/public_html/" ========================> "/home/ideias/public_html/"
+	SEARCH  2:"\/home\/easy1\/public_html\/" ====================> "\/home\/ideias\/public_html\/"
+	SEARCH  3:"%2Fhome%2Feasy1%2Fpublic_html%2F" ================> "%2Fhome%2Fideias%2Fpublic_html%2F"
+	SEARCH  4:"\home\easy1\public_html" =========================> "/home/ideias/public_html"
+	SEARCH  5:"\\home\\easy1\\public_html" ======================> "\/home\/ideias\/public_html"
+	SEARCH  6:"%5Chome%5Ceasy1%5Cpublic_html" ===================> "%2Fhome%2Fideias%2Fpublic_html"
+	SEARCH  7:"//www.easyshop.com" ==============================> "//www.ideiasbrilhantes.info"
+	SEARCH  8:"\/\/www.easyshop.com" ============================> "\/\/www.ideiasbrilhantes.info"
+	SEARCH  9:"%2F%2Fwww.easyshop.com" ==========================> "%2F%2Fwww.ideiasbrilhantes.info"
+	SEARCH 10:"http://www.ideiasbrilhantes.info" ================> "https://www.ideiasbrilhantes.info"
+	SEARCH 11:"http:\/\/www.ideiasbrilhantes.info" ==============> "https:\/\/www.ideiasbrilhantes.info"
+	SEARCH 12:"http%3A%2F%2Fwww.ideiasbrilhantes.info" ==========> "https%3A%2F%2Fwww.ideiasbrilhantes.info"
+
+EVALUATE TABLE: "wp9s_wc_webhooks"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp9s_woocommerce_api_keys"_______________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/easy1/public_html/" ========================> "/home/ideias/public_html/"
+	SEARCH  2:"\/home\/easy1\/public_html\/" ====================> "\/home\/ideias\/public_html\/"
+	SEARCH  3:"%2Fhome%2Feasy1%2Fpublic_html%2F" ================> "%2Fhome%2Fideias%2Fpublic_html%2F"
+	SEARCH  4:"\home\easy1\public_html" =========================> "/home/ideias/public_html"
+	SEARCH  5:"\\home\\easy1\\public_html" ======================> "\/home\/ideias\/public_html"
+	SEARCH  6:"%5Chome%5Ceasy1%5Cpublic_html" ===================> "%2Fhome%2Fideias%2Fpublic_html"
+	SEARCH  7:"//www.easyshop.com" ==============================> "//www.ideiasbrilhantes.info"
+	SEARCH  8:"\/\/www.easyshop.com" ============================> "\/\/www.ideiasbrilhantes.info"
+	SEARCH  9:"%2F%2Fwww.easyshop.com" ==========================> "%2F%2Fwww.ideiasbrilhantes.info"
+	SEARCH 10:"http://www.ideiasbrilhantes.info" ================> "https://www.ideiasbrilhantes.info"
+	SEARCH 11:"http:\/\/www.ideiasbrilhantes.info" ==============> "https:\/\/www.ideiasbrilhantes.info"
+	SEARCH 12:"http%3A%2F%2Fwww.ideiasbrilhantes.info" ==========> "https%3A%2F%2Fwww.ideiasbrilhantes.info"
+
+EVALUATE TABLE: "wp9s_woocommerce_attribute_taxonomies"___________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/easy1/public_html/" ========================> "/home/ideias/public_html/"
+	SEARCH  2:"\/home\/easy1\/public_html\/" ====================> "\/home\/ideias\/public_html\/"
+	SEARCH  3:"%2Fhome%2Feasy1%2Fpublic_html%2F" ================> "%2Fhome%2Fideias%2Fpublic_html%2F"
+	SEARCH  4:"\home\easy1\public_html" =========================> "/home/ideias/public_html"
+	SEARCH  5:"\\home\\easy1\\public_html" ======================> "\/home\/ideias\/public_html"
+	SEARCH  6:"%5Chome%5Ceasy1%5Cpublic_html" ===================> "%2Fhome%2Fideias%2Fpublic_html"
+	SEARCH  7:"//www.easyshop.com" ==============================> "//www.ideiasbrilhantes.info"
+	SEARCH  8:"\/\/www.easyshop.com" ============================> "\/\/www.ideiasbrilhantes.info"
+	SEARCH  9:"%2F%2Fwww.easyshop.com" ==========================> "%2F%2Fwww.ideiasbrilhantes.info"
+	SEARCH 10:"http://www.ideiasbrilhantes.info" ================> "https://www.ideiasbrilhantes.info"
+	SEARCH 11:"http:\/\/www.ideiasbrilhantes.info" ==============> "https:\/\/www.ideiasbrilhantes.info"
+	SEARCH 12:"http%3A%2F%2Fwww.ideiasbrilhantes.info" ==========> "https%3A%2F%2Fwww.ideiasbrilhantes.info"
+
+EVALUATE TABLE: "wp9s_woocommerce_downloadable_product_permissions"[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp9s_woocommerce_log"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp9s_woocommerce_order_itemmeta"_________________[ROWS:   432][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/easy1/public_html/" ========================> "/home/ideias/public_html/"
+	SEARCH  2:"\/home\/easy1\/public_html\/" ====================> "\/home\/ideias\/public_html\/"
+	SEARCH  3:"%2Fhome%2Feasy1%2Fpublic_html%2F" ================> "%2Fhome%2Fideias%2Fpublic_html%2F"
+	SEARCH  4:"\home\easy1\public_html" =========================> "/home/ideias/public_html"
+	SEARCH  5:"\\home\\easy1\\public_html" ======================> "\/home\/ideias\/public_html"
+	SEARCH  6:"%5Chome%5Ceasy1%5Cpublic_html" ===================> "%2Fhome%2Fideias%2Fpublic_html"
+	SEARCH  7:"//www.easyshop.com" ==============================> "//www.ideiasbrilhantes.info"
+	SEARCH  8:"\/\/www.easyshop.com" ============================> "\/\/www.ideiasbrilhantes.info"
+	SEARCH  9:"%2F%2Fwww.easyshop.com" ==========================> "%2F%2Fwww.ideiasbrilhantes.info"
+	SEARCH 10:"http://www.ideiasbrilhantes.info" ================> "https://www.ideiasbrilhantes.info"
+	SEARCH 11:"http:\/\/www.ideiasbrilhantes.info" ==============> "https:\/\/www.ideiasbrilhantes.info"
+	SEARCH 12:"http%3A%2F%2Fwww.ideiasbrilhantes.info" ==========> "https%3A%2F%2Fwww.ideiasbrilhantes.info"
+
+EVALUATE TABLE: "wp9s_woocommerce_order_items"____________________[ROWS:    50][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/easy1/public_html/" ========================> "/home/ideias/public_html/"
+	SEARCH  2:"\/home\/easy1\/public_html\/" ====================> "\/home\/ideias\/public_html\/"
+	SEARCH  3:"%2Fhome%2Feasy1%2Fpublic_html%2F" ================> "%2Fhome%2Fideias%2Fpublic_html%2F"
+	SEARCH  4:"\home\easy1\public_html" =========================> "/home/ideias/public_html"
+	SEARCH  5:"\\home\\easy1\\public_html" ======================> "\/home\/ideias\/public_html"
+	SEARCH  6:"%5Chome%5Ceasy1%5Cpublic_html" ===================> "%2Fhome%2Fideias%2Fpublic_html"
+	SEARCH  7:"//www.easyshop.com" ==============================> "//www.ideiasbrilhantes.info"
+	SEARCH  8:"\/\/www.easyshop.com" ============================> "\/\/www.ideiasbrilhantes.info"
+	SEARCH  9:"%2F%2Fwww.easyshop.com" ==========================> "%2F%2Fwww.ideiasbrilhantes.info"
+	SEARCH 10:"http://www.ideiasbrilhantes.info" ================> "https://www.ideiasbrilhantes.info"
+	SEARCH 11:"http:\/\/www.ideiasbrilhantes.info" ==============> "https:\/\/www.ideiasbrilhantes.info"
+	SEARCH 12:"http%3A%2F%2Fwww.ideiasbrilhantes.info" ==========> "https%3A%2F%2Fwww.ideiasbrilhantes.info"
+
+EVALUATE TABLE: "wp9s_woocommerce_payment_tokenmeta"______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp9s_woocommerce_payment_tokens"_________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp9s_woocommerce_sessions"_______________________[ROWS:     6][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/easy1/public_html/" ========================> "/home/ideias/public_html/"
+	SEARCH  2:"\/home\/easy1\/public_html\/" ====================> "\/home\/ideias\/public_html\/"
+	SEARCH  3:"%2Fhome%2Feasy1%2Fpublic_html%2F" ================> "%2Fhome%2Fideias%2Fpublic_html%2F"
+	SEARCH  4:"\home\easy1\public_html" =========================> "/home/ideias/public_html"
+	SEARCH  5:"\\home\\easy1\\public_html" ======================> "\/home\/ideias\/public_html"
+	SEARCH  6:"%5Chome%5Ceasy1%5Cpublic_html" ===================> "%2Fhome%2Fideias%2Fpublic_html"
+	SEARCH  7:"//www.easyshop.com" ==============================> "//www.ideiasbrilhantes.info"
+	SEARCH  8:"\/\/www.easyshop.com" ============================> "\/\/www.ideiasbrilhantes.info"
+	SEARCH  9:"%2F%2Fwww.easyshop.com" ==========================> "%2F%2Fwww.ideiasbrilhantes.info"
+	SEARCH 10:"http://www.ideiasbrilhantes.info" ================> "https://www.ideiasbrilhantes.info"
+	SEARCH 11:"http:\/\/www.ideiasbrilhantes.info" ==============> "https:\/\/www.ideiasbrilhantes.info"
+	SEARCH 12:"http%3A%2F%2Fwww.ideiasbrilhantes.info" ==========> "https%3A%2F%2Fwww.ideiasbrilhantes.info"
+
+EVALUATE TABLE: "wp9s_woocommerce_shipping_zone_locations"________[ROWS:     4][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/easy1/public_html/" ========================> "/home/ideias/public_html/"
+	SEARCH  2:"\/home\/easy1\/public_html\/" ====================> "\/home\/ideias\/public_html\/"
+	SEARCH  3:"%2Fhome%2Feasy1%2Fpublic_html%2F" ================> "%2Fhome%2Fideias%2Fpublic_html%2F"
+	SEARCH  4:"\home\easy1\public_html" =========================> "/home/ideias/public_html"
+	SEARCH  5:"\\home\\easy1\\public_html" ======================> "\/home\/ideias\/public_html"
+	SEARCH  6:"%5Chome%5Ceasy1%5Cpublic_html" ===================> "%2Fhome%2Fideias%2Fpublic_html"
+	SEARCH  7:"//www.easyshop.com" ==============================> "//www.ideiasbrilhantes.info"
+	SEARCH  8:"\/\/www.easyshop.com" ============================> "\/\/www.ideiasbrilhantes.info"
+	SEARCH  9:"%2F%2Fwww.easyshop.com" ==========================> "%2F%2Fwww.ideiasbrilhantes.info"
+	SEARCH 10:"http://www.ideiasbrilhantes.info" ================> "https://www.ideiasbrilhantes.info"
+	SEARCH 11:"http:\/\/www.ideiasbrilhantes.info" ==============> "https:\/\/www.ideiasbrilhantes.info"
+	SEARCH 12:"http%3A%2F%2Fwww.ideiasbrilhantes.info" ==========> "https%3A%2F%2Fwww.ideiasbrilhantes.info"
+
+EVALUATE TABLE: "wp9s_woocommerce_shipping_zone_methods"__________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/easy1/public_html/" ========================> "/home/ideias/public_html/"
+	SEARCH  2:"\/home\/easy1\/public_html\/" ====================> "\/home\/ideias\/public_html\/"
+	SEARCH  3:"%2Fhome%2Feasy1%2Fpublic_html%2F" ================> "%2Fhome%2Fideias%2Fpublic_html%2F"
+	SEARCH  4:"\home\easy1\public_html" =========================> "/home/ideias/public_html"
+	SEARCH  5:"\\home\\easy1\\public_html" ======================> "\/home\/ideias\/public_html"
+	SEARCH  6:"%5Chome%5Ceasy1%5Cpublic_html" ===================> "%2Fhome%2Fideias%2Fpublic_html"
+	SEARCH  7:"//www.easyshop.com" ==============================> "//www.ideiasbrilhantes.info"
+	SEARCH  8:"\/\/www.easyshop.com" ============================> "\/\/www.ideiasbrilhantes.info"
+	SEARCH  9:"%2F%2Fwww.easyshop.com" ==========================> "%2F%2Fwww.ideiasbrilhantes.info"
+	SEARCH 10:"http://www.ideiasbrilhantes.info" ================> "https://www.ideiasbrilhantes.info"
+	SEARCH 11:"http:\/\/www.ideiasbrilhantes.info" ==============> "https:\/\/www.ideiasbrilhantes.info"
+	SEARCH 12:"http%3A%2F%2Fwww.ideiasbrilhantes.info" ==========> "https%3A%2F%2Fwww.ideiasbrilhantes.info"
+
+EVALUATE TABLE: "wp9s_woocommerce_shipping_zones"_________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/easy1/public_html/" ========================> "/home/ideias/public_html/"
+	SEARCH  2:"\/home\/easy1\/public_html\/" ====================> "\/home\/ideias\/public_html\/"
+	SEARCH  3:"%2Fhome%2Feasy1%2Fpublic_html%2F" ================> "%2Fhome%2Fideias%2Fpublic_html%2F"
+	SEARCH  4:"\home\easy1\public_html" =========================> "/home/ideias/public_html"
+	SEARCH  5:"\\home\\easy1\\public_html" ======================> "\/home\/ideias\/public_html"
+	SEARCH  6:"%5Chome%5Ceasy1%5Cpublic_html" ===================> "%2Fhome%2Fideias%2Fpublic_html"
+	SEARCH  7:"//www.easyshop.com" ==============================> "//www.ideiasbrilhantes.info"
+	SEARCH  8:"\/\/www.easyshop.com" ============================> "\/\/www.ideiasbrilhantes.info"
+	SEARCH  9:"%2F%2Fwww.easyshop.com" ==========================> "%2F%2Fwww.ideiasbrilhantes.info"
+	SEARCH 10:"http://www.ideiasbrilhantes.info" ================> "https://www.ideiasbrilhantes.info"
+	SEARCH 11:"http:\/\/www.ideiasbrilhantes.info" ==============> "https:\/\/www.ideiasbrilhantes.info"
+	SEARCH 12:"http%3A%2F%2Fwww.ideiasbrilhantes.info" ==========> "https%3A%2F%2Fwww.ideiasbrilhantes.info"
+
+EVALUATE TABLE: "wp9s_woocommerce_tax_rate_locations"_____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp9s_woocommerce_tax_rates"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp9s_wpfm_backup"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+--------------------------------------
+SCANNED:	Tables:46 	|	 Rows:6122 	|	 Cells:33251 
+UPDATED:	Tables:7 	|	 Rows:550 	|	 Cells:609 
+ERRORS:		3 
+RUNTIME:	0.857600 sec
+--------------------------------------
+DATA-REPLACE ERRORS (Serialization):
+ENGINE: serialize data serial check error
+	DATA: s:90085:"a:5:{i:0;a:5:{s:2:"id";s:7:"8c39fce";s:8:"settings";a:29:{s:3:"gap";s:2:"no";s:16:"content_position";s:6:"middle";s:21:"background_back [...]
+	TABLE:wp9s_postmeta COLUMN: meta_value WHERE: `meta_id` = "5507"
+ENGINE: serialize data serial check error
+	DATA: s:102044:"a:3:{i:0;a:5:{s:2:"id";s:8:"5ffd1adc";s:8:"settings";a:28:{s:21:"background_background";s:7:"classic";s:16:"background_image";a:2:{s:2 [...]
+	TABLE:wp9s_postmeta COLUMN: meta_value WHERE: `meta_id` = "4593"
+ENGINE: serialize data serial check error
+	DATA: s:10570:"a:2:{i:0;a:5:{s:2:"id";s:7:"0e916b3";s:8:"settings";a:26:{s:7:"padding";a:6:{s:4:"unit";s:2:"px";s:3:"top";s:3:"100";s:5:"right";s:1:"0 [...]
+	TABLE:wp9s_postmeta COLUMN: meta_value WHERE: `meta_id` = "6462"
+
+
+====================================
+REMOVE MAINTENANCE MODE
+====================================
+
+====================================
+REMOVE LICENSE KEY
+====================================
+
+====================================
+CREATE NEW ADMIN USER
+====================================
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE DB_NAME ""ideias_wp5323""
+	UPDATE DB_USER ""ideias_wp5323""
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	REMOVE WPCACHEHOME
+	UPDATE WP_DEBUG false
+	REMOVE WP_MEMORY_LIMIT
+	REMOVE WP_MAX_MEMORY_LIMIT
+	REMOVE DISALLOW_FILE_EDIT
+	UPDATE WP_AUTO_UPDATE_CORE ""
+	
+UPDATED WP-CONFIG ARK FILE: - 'dup-wp-config-arc__[HASH].txt'
+
+====================================
+HTACCESS UPDATE
+====================================
+
+WEB SERVER CONFIGURATION FILE UPDATED:
+- Preparing .htaccess file with multisite subdirectory setup.
+- Successfully updated the .htaccess file setting.
+
+====================================
+GENERAL UPDATES & CLEANUP
+====================================
+- Removed '0' schedule storage items
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+
+====================================
+CLEANUP TMP FILES
+====================================
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 12:49:18 - RUNTIME: 0.8999 sec. 
+
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[WARNING] SERIALIZATION NOTICES  (3)
+	SECTIONS: search_replace
+	LONG MSG: Notices should be ignored unless issues are found after you have tested an installed site.
+The SQL below will show data that may have not been updated during the serialization process.
+Best practices for serialization notices is to just re-save the plugin/post/page in question.
+
+-----------------------
+[INFO] No general notices
+	SECTIONS: general
+
+-----------------------
+[INFO] No errors in database
+	SECTIONS: database
+
+-----------------------
+[INFO] No files extraction errors
+	SECTIONS: files
+
+-----------------------
+[WARNING] DATA-REPLACE ERROR: Serialization
+	SECTIONS: search_replace
+	LONG MSG: ENGINE: serialize data serial check error
+	DATA: s:102044:"a:3:{i:0;a:5:{s:2:"id";s:8:"5ffd1adc";s:8:"settings";a:28:{s:21:"background_background";s:7:"classic";s:16:"background_image";a:2:{s:2 [...]
+	TABLE:wp9s_postmeta COLUMN: meta_value WHERE: `meta_id` = "4593"
+
+-----------------------
+[WARNING] DATA-REPLACE ERROR: Serialization
+	SECTIONS: search_replace
+	LONG MSG: ENGINE: serialize data serial check error
+	DATA: s:10570:"a:2:{i:0;a:5:{s:2:"id";s:7:"0e916b3";s:8:"settings";a:26:{s:7:"padding";a:6:{s:4:"unit";s:2:"px";s:3:"top";s:3:"100";s:5:"right";s:1:"0 [...]
+	TABLE:wp9s_postmeta COLUMN: meta_value WHERE: `meta_id` = "6462"
+
+-----------------------
+[WARNING] DATA-REPLACE ERROR: Serialization
+	SECTIONS: search_replace
+	LONG MSG: ENGINE: serialize data serial check error
+	DATA: s:90085:"a:5:{i:0;a:5:{s:2:"id";s:7:"8c39fce";s:8:"settings";a:29:{s:3:"gap";s:2:"no";s:16:"content_position";s:6:"middle";s:21:"background_back [...]
+	TABLE:wp9s_postmeta COLUMN: meta_value WHERE: `meta_id` = "5507"
+
+====================================

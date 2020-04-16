@@ -1,0 +1,1632 @@
+2020-04-16T20:18:56+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => c91ed36f7c50b9674bb4d2c4984ab70f
+            [Date] => 16 de Abril de 2020 @ 20:18
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 4.63557
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://headlesswoo.local/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => mteGyBSw3PKXDjIUG2tNDTkwGoIO1C8kehE+7Hpe1Cw=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => c91ed36f7c50b9674bb4d2c4984ab70f
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Thu, 16 Apr 2020 20:18:55 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=e35990c6-c4ff-452e-b57c-fab9c9c09ebd; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-16T20:18:56+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 2ad908a699145e19f2c75abc3bfb0c53
+            [Date] => 16 de Abril de 2020 @ 20:18
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.7445
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://headlesswoo.local/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => c87tSeXoVxmCSh7pQtNTUO6O+ByPmnD56QHarqWD3/0=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 2ad908a699145e19f2c75abc3bfb0c53
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Thu, 16 Apr 2020 20:18:56 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=bbf700c3-ff3c-4387-aac1-038f130519fd; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-16T20:18:57+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 2ad908a699145e19f2c75abc3bfb0c53
+            [Date] => 16 de Abril de 2020 @ 20:18
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.7141
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://headlesswoo.local/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => Vmn58GlpZ4lyM4Uq2EoerDIphQGF4zvPlBrVwjrxLqQ=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 2ad908a699145e19f2c75abc3bfb0c53
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Thu, 16 Apr 2020 20:18:57 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=72b6e3b7-7288-41ae-9cd0-beae21e33178; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-16T20:18:58+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 69475113b902599fdfc6f9ca9b3990fd
+            [Date] => 16 de Abril de 2020 @ 20:18
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.69214
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://headlesswoo.local/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => AUspc1wq3tNTUgtgpH9n/Oz7ZKFMM1s7Wwy4+RqJ69M=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 69475113b902599fdfc6f9ca9b3990fd
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Thu, 16 Apr 2020 20:18:58 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=238de29e-8633-4f7f-bf73-c2ae7be170be; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-16T20:18:59+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 56010fb9163c254f96557e8a4a1085bd
+            [Date] => 16 de Abril de 2020 @ 20:18
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.72413
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://headlesswoo.local/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => MNxmYJ5pQ9iSVewjt9FGngqIZAKJLncJN1wb52MyvQg=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 56010fb9163c254f96557e8a4a1085bd
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Thu, 16 Apr 2020 20:18:58 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=7c8d27bd-8225-436c-bc60-3b11780b29c6; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-16T20:18:59+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 671b664c9795a28fa691f0ff2bd398c2
+            [Date] => 16 de Abril de 2020 @ 20:18
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.71081
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://headlesswoo.local/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => 3dnFvLerZTAuXedu1d7396uIS8STZeCOef+bSzIf0sE=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 671b664c9795a28fa691f0ff2bd398c2
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Thu, 16 Apr 2020 20:18:59 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=3c43152c-494e-48bd-9e68-35f28a6755f0; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-16T20:19:00+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 671b664c9795a28fa691f0ff2bd398c2
+            [Date] => 16 de Abril de 2020 @ 20:19
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.71701
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://headlesswoo.local/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => SRmODlIocUOML/urNhD4C3WO3Pgk1xorcLUmA01yLS0=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 671b664c9795a28fa691f0ff2bd398c2
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Thu, 16 Apr 2020 20:19:00 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=96f667b2-ec90-4ce1-9292-060095a060c4; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-16T20:19:01+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => fdfe1605dd5f49f9b2f298a460bc45c2
+            [Date] => 16 de Abril de 2020 @ 20:19
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.74324
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://headlesswoo.local/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => //5nNKPV041zsi4qU24RWolCJPb4nblMyMfbuECESSs=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => fdfe1605dd5f49f9b2f298a460bc45c2
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Thu, 16 Apr 2020 20:19:01 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=1f59c108-c269-4b1a-a3bf-4f68c123e0fc; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-16T20:19:02+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => ad6826b2201f565d69de0aa35fea57ca
+            [Date] => 16 de Abril de 2020 @ 20:19
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.71154
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://headlesswoo.local/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => lzgyYsevbqkcOzdalrD32EkUdg8c2SosGq+0K1YjanU=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => ad6826b2201f565d69de0aa35fea57ca
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Thu, 16 Apr 2020 20:19:01 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=929855dd-5687-48dd-a708-e9d9e5d0845b; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-16T20:19:02+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => d83f9121d2dc1f30f09a1f5e4709798e
+            [Date] => 16 de Abril de 2020 @ 20:19
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.72319
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://headlesswoo.local/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => dFDoIlBW+fslDXCU3MHDqDcnp/cA4Xjg5PEAfAhYtKo=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => d83f9121d2dc1f30f09a1f5e4709798e
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Thu, 16 Apr 2020 20:19:02 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=52191fde-8e2a-4391-a24e-6ed7ee92f392; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-16T20:19:03+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => d83f9121d2dc1f30f09a1f5e4709798e
+            [Date] => 16 de Abril de 2020 @ 20:19
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.69919
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://headlesswoo.local/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => 5dAipQqo0ZcP282eylqjTagljHVb5SdDaXO7mm9PtkE=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => d83f9121d2dc1f30f09a1f5e4709798e
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Thu, 16 Apr 2020 20:19:03 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=ef39b87f-1b4a-42e4-aa5c-a20294df400f; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-16T20:19:04+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 9e809df2adcca2b4dccdac0665e394aa
+            [Date] => 16 de Abril de 2020 @ 20:19
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.72921
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://headlesswoo.local/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => elB0MxJHaed///SuzBn9jGuS9QPF/kSDCnu/22XyHes=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 9e809df2adcca2b4dccdac0665e394aa
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Thu, 16 Apr 2020 20:19:04 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=9d0d4edc-7d41-4e6d-8af9-d689b93d5fd5; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-16T20:19:05+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 93fcca9f75d8a652d125b21ce16a364c
+            [Date] => 16 de Abril de 2020 @ 20:19
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.75639
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://headlesswoo.local/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => SrjZhTRLEWUgzkxRtc47QdcBIIGUxQEHWwqzicVpCz8=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 93fcca9f75d8a652d125b21ce16a364c
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Thu, 16 Apr 2020 20:19:04 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=08f293e0-257b-41b6-afc5-8cd12051bb0b; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-16T20:19:05+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => e276e1e9672e3126b5478d80aa13711f
+            [Date] => 16 de Abril de 2020 @ 20:19
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.70267
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://headlesswoo.local/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => fZes+CVw3I6Z5/F5vh0WhqimNptT4G22+CfZtXIpB+k=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => e276e1e9672e3126b5478d80aa13711f
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Thu, 16 Apr 2020 20:19:05 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=dcae81e4-0eb2-4a07-ba9d-845891777491; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-16T20:19:06+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => e276e1e9672e3126b5478d80aa13711f
+            [Date] => 16 de Abril de 2020 @ 20:19
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.72398
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://headlesswoo.local/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => Tu0KrBBknVcsaC71/NZtdhirktGMCwar7CgqGrSQjbQ=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => e276e1e9672e3126b5478d80aa13711f
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Thu, 16 Apr 2020 20:19:06 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=36f27f82-0c9c-4e80-b97d-153753c86951; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-16T20:19:07+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 0aa981a31a2739b93ecc824dee2ae754
+            [Date] => 16 de Abril de 2020 @ 20:19
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.73457
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://headlesswoo.local/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => BoBfyZZi/mK2Uwl33Q7G7wShTbO2ZoBTmqc+v40FiCY=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 0aa981a31a2739b93ecc824dee2ae754
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Thu, 16 Apr 2020 20:19:07 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=81c87210-ed6d-4b85-8875-be357ef44ed3; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-16T20:19:08+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 579a7f846d5c3c5beabe3f64ca1b93a5
+            [Date] => 16 de Abril de 2020 @ 20:19
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.76533
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://headlesswoo.local/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => hRmCsVQE+hljMrkVRONZPdKqSXqsTZxZsl/EqrEyuWo=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 579a7f846d5c3c5beabe3f64ca1b93a5
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Thu, 16 Apr 2020 20:19:07 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=91c47d35-c4fc-4cdb-aed8-eb3669ecfd17; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-16T20:19:08+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => ebf9648c5649b68cecfe1b1eb624dca2
+            [Date] => 16 de Abril de 2020 @ 20:19
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.7313
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://headlesswoo.local/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => KFFiE+DptefvvHbhz3IKP983d3cD0gtmdlHZeZmXfSU=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => ebf9648c5649b68cecfe1b1eb624dca2
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Thu, 16 Apr 2020 20:19:08 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=833505dc-9ce8-403e-959b-25cdcaf3a416; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-16T20:19:09+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => ebf9648c5649b68cecfe1b1eb624dca2
+            [Date] => 16 de Abril de 2020 @ 20:19
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.70889
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://headlesswoo.local/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => ezYV3wpMe5mhuQa1uevh7RrX6aD2v5h94j5xkNm4gv4=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => ebf9648c5649b68cecfe1b1eb624dca2
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Thu, 16 Apr 2020 20:19:09 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=8feb107e-397a-424e-be4b-cddf1a0aec25; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-16T20:19:10+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 0ac25c7d62ffff6739240d8a299c6f69
+            [Date] => 16 de Abril de 2020 @ 20:19
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.75358
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://headlesswoo.local/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => AKlJTTnxyGdg0AYvq5mpJgOW22Cihr1BWgUu3PIARfs=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 0ac25c7d62ffff6739240d8a299c6f69
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Thu, 16 Apr 2020 20:19:10 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=b545110b-64ad-4c87-a4b4-028cfe518c28; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-16T20:19:11+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => f05c6400441d35ffa767fc5da0aa9fab
+            [Date] => 16 de Abril de 2020 @ 20:19
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.74189
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://headlesswoo.local/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => 8tF57V+9zJORlSFyKOfIYVLuvuQdEWiNBSdCf0nGlK0=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => f05c6400441d35ffa767fc5da0aa9fab
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Thu, 16 Apr 2020 20:19:11 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=6be8e5db-7d14-43f1-95ef-f8d49349c6b5; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-16T20:19:11+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => f19802468e45454fec4cf103e0060e0e
+            [Date] => 16 de Abril de 2020 @ 20:19
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.75233
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://headlesswoo.local/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => O0NRDXo+vqS1PQU43ObJzFPSfsG5BFWAFQR+NlT7GiE=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => f19802468e45454fec4cf103e0060e0e
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Thu, 16 Apr 2020 20:19:11 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=afc828be-4e5f-4b83-b17b-25ffa282ac21; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-16T20:19:12+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => f19802468e45454fec4cf103e0060e0e
+            [Date] => 16 de Abril de 2020 @ 20:19
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.709
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://headlesswoo.local/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => 0bebsu8kLqdUtxrJtylbf+vl5oFy/1bMtOyB/0OdHHU=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => f19802468e45454fec4cf103e0060e0e
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Thu, 16 Apr 2020 20:19:12 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=304fd0b0-8320-4754-b806-58476c0905a5; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-16T20:19:13+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 5b19b4cab0cc4b20560b413d744c0bc6
+            [Date] => 16 de Abril de 2020 @ 20:19
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.72252
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://headlesswoo.local/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => wUZIoS94ByCZFy0CVoJdldt3dPst/9y8UVzOijEh8h0=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 5b19b4cab0cc4b20560b413d744c0bc6
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Thu, 16 Apr 2020 20:19:13 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=d2a2f174-09ca-4cd0-8d5c-a43389721c98; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-16T20:19:14+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => c98e9f85c76664bff46dbd8d0fe70363
+            [Date] => 16 de Abril de 2020 @ 20:19
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.7626
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://headlesswoo.local/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => kbvxYiqv+nmad/jJFx/qDr46NFTB55LCwzyZ3kE4iX8=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => c98e9f85c76664bff46dbd8d0fe70363
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Thu, 16 Apr 2020 20:19:14 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=a73958dd-7a2d-47d2-9130-816f64d2a878; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-16T20:19:14+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 813930659a9852e6e87217588d63bdf9
+            [Date] => 16 de Abril de 2020 @ 20:19
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.71003
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://headlesswoo.local/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => OUdpKTIZPe3Iy1eTjS12IqVnFxEDt9xPnv6ZiR9kZ4w=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 813930659a9852e6e87217588d63bdf9
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Thu, 16 Apr 2020 20:19:14 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=41e215ea-ffcc-42f4-bdeb-2b451859cd32; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-16T20:19:16+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 813930659a9852e6e87217588d63bdf9
+            [Date] => 16 de Abril de 2020 @ 20:19
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 1.1711
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://headlesswoo.local/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => bWAb6cCD9axoophorJBJQBnTrTjZPBGM5TZXzrSUG/M=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 813930659a9852e6e87217588d63bdf9
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Thu, 16 Apr 2020 20:19:15 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=f5e3a44a-94b9-4bb7-9add-9399ac620c45; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-16T20:19:16+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 3067a23a07f6cdebd17525d89b0bc162
+            [Date] => 16 de Abril de 2020 @ 20:19
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.72907
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://headlesswoo.local/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => zkca57fDGaVJPSkTtmaVN6XuBzvxCDB/iNXfPbrquak=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 3067a23a07f6cdebd17525d89b0bc162
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Thu, 16 Apr 2020 20:19:16 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=5a73f553-11b3-4eb0-b080-92cb1c961e70; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-16T20:19:17+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 3067a23a07f6cdebd17525d89b0bc162
+            [Date] => 16 de Abril de 2020 @ 20:19
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.71494
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://headlesswoo.local/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => ZFfg3dOmmc+fh7Unolz9TuBSgVaS8wHpH8QycD+T0a4=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 3067a23a07f6cdebd17525d89b0bc162
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Thu, 16 Apr 2020 20:19:17 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=a9d7bdf4-e88b-483d-a61e-7f17f899d4cc; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-16T20:19:18+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 303a6f2aa4a5460f88074c3966924ae7
+            [Date] => 16 de Abril de 2020 @ 20:19
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.77556
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://headlesswoo.local/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => haU5hppbqqIaD0UcKBsj0H7/LEezJVd69MO4+y+X4Xs=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 303a6f2aa4a5460f88074c3966924ae7
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Thu, 16 Apr 2020 20:19:18 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=bca39d67-b84c-430b-a3df-ca322c0980f8; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-16T20:50:51+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 851b892a232187776e408a6ea362c939
+            [Date] => 16 de Abril de 2020 @ 20:50
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 1.58977
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://headlesswoo.local/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => g1lgXWUO//hu5Yu7guSR62O2AfGqFjrJxGcqqDQdHdY=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 851b892a232187776e408a6ea362c939
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Thu, 16 Apr 2020 20:50:51 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=01b5cf30-b892-4c7a-a6b9-eb570ec7dd86; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-04-16T20:50:52+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 3c6cc3642f60fa1ca6ed99b658d55bf1
+            [Date] => 16 de Abril de 2020 @ 20:50
+            [URL] => https://www.shopmaster.com/woocommerce/webhook/product.json
+            [Duration] => 0.7393
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.6.5 Hookshot (WordPress/5.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://headlesswoo.local/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => Ae0hTcHR5bzUkwwNZ4pW6ZmoCKT5vEj17PwBc6vcHl4=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 3c6cc3642f60fa1ca6ed99b658d55bf1
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx
+                                    [date] => Thu, 16 Apr 2020 20:50:52 GMT
+                                    [content-length] => 2
+                                    [set-cookie] => SHAREJSESSIONID=623804c4-cc8d-4dd4-b79e-b2a59117653f; Path=/; HttpOnly
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+

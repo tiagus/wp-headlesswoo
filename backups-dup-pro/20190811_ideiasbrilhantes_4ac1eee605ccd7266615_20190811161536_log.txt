@@ -1,0 +1,64 @@
+********************************************************************************
+DUPLICATOR PRO PACKAGE-LOG: 2019-08-11 16:16:20
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	3.8.3
+WORDPRESS:	5.2.2
+PHP INFO:	5.6.35 | SAPI: cgi-fcgi
+SERVER:		Apache 
+ARCHITECTURE:	64-bit 
+CLIENT KICKOFF: on 
+PHP TIME LIMIT: [7200] not allowed 
+PHP MAX MEMORY: 4294967296 (256M default) 
+RUN TYPE: Manual
+MEMORY STACK: 123.75MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP 
+MYSQLDUMP:    Is Supported
+MYSQLTIMEOUT: 5000 
+SQL CREATED: 20190811_ideiasbrilhantes_4ac1eee605ccd7266615_20190811161536_database.sql 
+SQL FILE SIZE: 8.18MB 
+SQL FILE TIME: 2019-08-11 16:16:20 
+SQL RUNTIME: 0.468 sec. 
+MEMORY STACK: 123.75MB 
+
+******************************************************************************** 
+ARCHIVE  Type=ZIP Mode=Shell 
+******************************************************************************** 
+ARCHIVE DIR:  /home/ideias/public_html 
+ARCHIVE FILE: 20190811_ideiasbrilhantes_4ac1eee605ccd7266615_20190811161536_archive.zip 
+FILTERS: *OFF* 
+DIRS:  not set 
+EXTS:  not set 
+FILES:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	206.71MB 
+STATS:	Dirs 2,209 | Files 12,371 | Total 14,580 
+COMPRESSED SIZE: 69.6MB 
+ARCHIVE RUNTIME: 8.669 sec. 
+MEMORY STACK: 128MB 
+
+******************************************************************************** 
+STORAGE: 
+******************************************************************************** 
+LOCAL: Default, /home/ideias/public_html/wp-content/backups-dup-pro 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL FILE: 8.18MB 
+INSTALLER FILE: 211.67KB 
+ARCHIVE FILE: 71.67MB  
+EXPECTED FILE/DIRECTORY COUNT: 14,580 
+ACTUAL FILE/DIRECTORY COUNT: 14,585 
+
+********************************************************************************
+RECORD ID:[13]
+TOTAL PROCESS RUNTIME: 49.016 sec.
+PEAK PHP MEMORY USED: 123MB
+DONE PROCESSING => 20190811_ideiasbrilhantes 2019-08-11 16:17:09
+ 

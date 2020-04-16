@@ -1,0 +1,183 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Notification Premium\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-08 17:20+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.3"
+
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:890
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:1158
+msgid "a few seconds"
+msgstr ""
+
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:996
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:1149
+msgid "About"
+msgstr ""
+
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:996
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:1150
+msgid "ago"
+msgstr ""
+
+#. Author of the plugin
+msgid "Andy Ha (villatheme.com)"
+msgstr ""
+
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:64
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:71
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:137
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:145
+msgid "Click"
+msgstr ""
+
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:311
+msgid "Clicked"
+msgstr ""
+
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:282
+msgid "Clicks by date"
+msgstr ""
+
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:283
+msgid "Clicks by product"
+msgstr ""
+
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:866
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:1151
+msgid "day"
+msgstr ""
+
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:864
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:1152
+msgid "days"
+msgstr ""
+
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:290
+msgid "From"
+msgstr ""
+
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:875
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:1153
+msgid "hour"
+msgstr ""
+
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:873
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:1154
+msgid "hours"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://villatheme.com"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Increase conversion rate by highlighting other customers that have bought "
+"products."
+msgstr ""
+
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/system.php:24
+msgid "Log Directory Writable"
+msgstr ""
+
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/system.php:84
+msgid "Memory Limit"
+msgstr ""
+
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:884
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:1155
+msgid "minute"
+msgstr ""
+
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:882
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:1156
+msgid "minutes"
+msgstr ""
+
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/system.php:79
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/system.php:75
+msgid "PHP Time Limit"
+msgstr ""
+
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/woocommerce-notification.php:45
+msgid ""
+"Please install WooCommerce and active. WooCommerce Notification is going to "
+"working."
+msgstr ""
+
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:310
+msgid "Products"
+msgstr ""
+
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:351
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:352
+msgid "Report"
+msgstr ""
+
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:887
+msgid "seconds"
+msgstr ""
+
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/frontend/notify.php:1157
+msgid "secs"
+msgstr ""
+
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/admin.php:120
+msgid "Settings"
+msgstr ""
+
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:298
+msgid "SUBMIT"
+msgstr ""
+
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/system.php:19
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/system.php:99
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/system.php:100
+msgid "System Status"
+msgstr ""
+
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:294
+msgid "To"
+msgstr ""
+
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/system.php:30
+#, php-format
+msgid ""
+"To allow logging, make <code>%s</code> writable or define a custom <code>"
+"VI_WNOTIFICATION_CACHE</code>."
+msgstr ""
+
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:307
+msgid "Top Click"
+msgstr ""
+
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/admin.php:158
+msgid "Woo Notification"
+msgstr ""
+
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/admin.php:158
+msgid "WooCommerce Notification"
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce Notification Premium"
+msgstr ""
+
+#: /Volumes/DATA/Git/VillaTheme2017/woocommerce-notification/woocommerce-notification/admin/report.php:280
+msgid "WooCommerce Notification Reporting"
+msgstr ""

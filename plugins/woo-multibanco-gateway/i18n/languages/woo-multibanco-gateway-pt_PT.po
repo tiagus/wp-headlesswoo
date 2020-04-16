@@ -1,0 +1,333 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Multibanco Gateway\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-11 12:54+0000\n"
+"PO-Revision-Date: 2018-02-11 12:55+0000\n"
+"Last-Translator: Maria <ciberdata@gmail.com>\n"
+"Language-Team: Portuguese (Portugal)\n"
+"Language: pt_PT\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: woo-multibanco-gateway.php:62
+msgid "Settings"
+msgstr "Configurações"
+
+#: woo-multibanco-gateway.php:63
+msgid "Support"
+msgstr "Suporte"
+
+#: woo-multibanco-gateway.php:106
+msgid "Multibanco"
+msgstr "Multibanco"
+
+#: woo-multibanco-gateway.php:108
+msgid ""
+"WooCommerce Multibanco Gateway will generate a Multibanco source at Stripe "
+"using their API, then receive an entity and a reference from Stripe. At this "
+"point the order is put on-hold, once the order is payed, Stripe will use a "
+"webhook to let WooCommerce know the payment succeeded. To use this payment "
+"gateway you are required to have a <a href=\"https://stripe.com/\">Stripe "
+"API key</a>, you can read more about Stripe's Authentication <a href=\"https:"
+"//stripe.com/docs/api#authentication\">here</a>."
+msgstr ""
+"O Plugin Woocommerce Gateway vai gerar uma source Stripe usando a API, e "
+"então vai receber uma Entidade e uma Referência do Stripe. Neste ponto a "
+"encomenda fica no estado \"Hold\" (em espera). Uma vez que o cliente pague "
+"na maquina ATM, o Stripe vai enviar um webhook para o woocommerce, para este "
+"reconhecer que o pagamento teve sucesso. Para usar este Processador de "
+"pagamentos deve ter uma <a href=\"https://stripe.com/\"> Chave API  Stripe "
+"API</a>. Pode saber mais sobre a autenticação Stripe <a href=\"https:"
+"//stripe.com/docs/api#authentication\">aqui</a>. É necessário criar um "
+"webhook no painel de controle do Stripe com source.chargeable ativo."
+
+#: woo-multibanco-gateway.php:135
+msgid "test"
+msgstr "Teste"
+
+#: woo-multibanco-gateway.php:139
+msgid "live"
+msgstr "Produção"
+
+#: woo-multibanco-gateway.php:230
+msgid "Enable/Disable"
+msgstr "Ativar/Desativar"
+
+#: woo-multibanco-gateway.php:232
+msgid "Enable Stripe Multibanco payments"
+msgstr "Ativar os Pagamentos Multibanco Stripe"
+
+#: woo-multibanco-gateway.php:237
+msgid "Title"
+msgstr "Titulo"
+
+#: woo-multibanco-gateway.php:239
+msgid "Title of this payment gateway a customer sees when checking out"
+msgstr ""
+"Titulo deste Processador de Pagamentos que o cliente vai ver na página de "
+"checkout."
+
+#: woo-multibanco-gateway.php:240
+msgid "Multibanco Stripe"
+msgstr "Multibanco Stripe"
+
+#: woo-multibanco-gateway.php:245
+msgid "Description in the checkout page"
+msgstr "Descrição na página de checkout"
+
+#: woo-multibanco-gateway.php:248
+msgid "This controls the description which the user sees during checkout."
+msgstr "Isto controla a descrição que o cliente vê no checkout."
+
+#: woo-multibanco-gateway.php:249
+msgid ""
+"Receive a Reference to pay in the ATM or Home Banking. You have 72 hours to "
+"complete the payment."
+msgstr ""
+"Receba uma Referência para pagar no Multibanco ou Home Banking. Tem 3 dias "
+"para efetuar o pagamento."
+
+#: woo-multibanco-gateway.php:254
+msgid "Enable/Disable Test Mode"
+msgstr "Ativar/Desativar o Modo de Teste"
+
+#: woo-multibanco-gateway.php:256
+msgid ""
+"Enable test mode to see if you have correctly setup Stripe Multibanco "
+"payements"
+msgstr ""
+"Ativar o modo de teste para verificar se configurou corretamente os "
+"pagamentos Multibanco por Stripe"
+
+#: woo-multibanco-gateway.php:261
+msgid "Stripe Secret API Key (Live)"
+msgstr "Stripe Secret API Key (Live)"
+
+#: woo-multibanco-gateway.php:263
+msgid "Secret API Key from Stripe used for live payments"
+msgstr "Secret API Key from Stripe used for live payments"
+
+#: woo-multibanco-gateway.php:264
+msgid "sk_live_XXXXXXXXXXXXXXXXXXXXXXXX"
+msgstr "sk_live_XXXXXXXXXXXXXXXXXXXXXXXX"
+
+#: woo-multibanco-gateway.php:269
+msgid "Stripe Secret API Key (Test)"
+msgstr "Stripe Secret API Key (Test)"
+
+#: woo-multibanco-gateway.php:271
+msgid "Secret API Key from Stripe used for test payments"
+msgstr "Secret API Key from Stripe used for test payments"
+
+#: woo-multibanco-gateway.php:272
+msgid "sk_test_XXXXXXXXXXXXXXXXXXXXXXXX"
+msgstr "sk_test_XXXXXXXXXXXXXXXXXXXXXXXX"
+
+#: woo-multibanco-gateway.php:277
+msgid "Stripe Webhook Key"
+msgstr "Stripe Webhook Key"
+
+#: woo-multibanco-gateway.php:279
+msgid "Your webhook URL:"
+msgstr "Your webhook URL:"
+
+#: woo-multibanco-gateway.php:280
+msgid ""
+"Read <a href=\"https://nl.wordpress.org/plugins/woo-multibanco-"
+"gateway/#installation\">here</a> how to setup this webhook"
+msgstr " "
+
+#: woo-multibanco-gateway.php:286
+msgid "Payment reference"
+msgstr "Referência do Pagamento"
+
+#: woo-multibanco-gateway.php:288
+msgid "Payment reference a customer sees in their Multibanco-enviroment"
+msgstr "Referência de pagamento que o cliente vê no seu ambiente Multibanco"
+
+#: woo-multibanco-gateway.php:289
+msgid "Payment for #{order_number}"
+msgstr "Pagamento da encomenda #{order_number}"
+
+#: woo-multibanco-gateway.php:294
+msgid "Details in Order Mail"
+msgstr "Detalhes no email de confirmação de encomenda"
+
+#: woo-multibanco-gateway.php:296
+msgid "Do not send Multibanco details in order mail"
+msgstr ""
+"Não enviar os detalhes de pagamento Multibanco no email de confirmação da "
+"encomenda (para usar email enviado pelo Automatewoo)"
+
+#: woo-multibanco-gateway.php:301
+msgid "Visible error codes"
+msgstr "Códigos de erro visiveis"
+
+#: woo-multibanco-gateway.php:303
+msgid ""
+"If there is an error while checking out, show the error code to the user. "
+"This might be useful for you to solve an issue a customer has."
+msgstr ""
+"Se correr um erro no checkout, mostrar o código de erro ao cliente. Esta "
+"funcionalidade pode ser útil para resolver um problema que o cliente reporte."
+
+#: woo-multibanco-gateway.php:361
+msgid "Multibanco Payment canceled by customer"
+msgstr "Pagamento Multibanco cancelado pelo cliente"
+
+#: woo-multibanco-gateway.php:400 woo-multibanco-gateway.php:468
+msgid "Stripe error"
+msgstr "Erro de Stripe"
+
+#: woo-multibanco-gateway.php:401 woo-multibanco-gateway.php:402
+msgid "Multibanco payment failed, please try again"
+msgstr "O pagamento Multibanco falhou, por favor tente de novo"
+
+#: woo-multibanco-gateway.php:401
+msgid "Error"
+msgstr "Erro"
+
+#: woo-multibanco-gateway.php:421
+msgid "New Multibanco payment initiated by customer"
+msgstr "Novo pagamento Multibanco iniciado pelo cliente"
+
+#: woo-multibanco-gateway.php:455
+msgid ""
+"A refund through MULTIBANCO is not possible because the order has not been "
+"paid yet. Or the order was initially not using this payment gateway."
+msgstr ""
+"Uma devolução através do Multibanco não é possível porque esta encomenda "
+"ainda não foi paga. Ou a encomenda não foi iniciada por este Processador de "
+"Pagamentos."
+
+#: includes/woo-multibanco-gateway-class-notification.php:16
+msgid "Notice"
+msgstr "Aviso"
+
+#: includes/woo-multibanco-gateway-class-notification.php:16
+msgid ""
+"The API Key you are currently using for %api_key_type% payments is the "
+"default one. Please change it to a working one found in your Stripe "
+"Dashboard."
+msgstr ""
+"The API Key you are currently using for %api_key_type% payments is the "
+"default one. Please change it to a working one found in your Stripe "
+"Dashboard."
+
+#: includes/woo-multibanco-gateway-class-stripe.php:185
+msgid "Refund for order"
+msgstr "Devolução para a encomenda"
+
+#: includes/woo-multibanco-gateway-class-stripe.php:193
+msgid ""
+"Could not refund because Charge ID required to refund the payment is for "
+"some reason not found"
+msgstr ""
+"Não foi possível a devolução porque a \"Charge ID\" necessária para iniciar "
+"o processo de devolução não foi encontrada"
+
+#: includes/woo-multibanco-gateway-class-stripe.php:243
+msgid "MULTIBANCO Payment refunded"
+msgstr "O pagamento Multibanco foi devolvido"
+
+#: includes/woo-multibanco-gateway-class-stripe.php:243
+msgid "Refund ID:"
+msgstr "Refund ID:"
+
+#: includes/woo-multibanco-gateway-class-stripe-webhook.php:113
+msgid "Multibanco Payment succeeded"
+msgstr "Pagamento Multibanco completado com sucesso"
+
+#: includes/woo-multibanco-gateway-class-stripe-webhook.php:113
+msgid "Entity "
+msgstr "Entidade"
+
+#: includes/woo-multibanco-gateway-class-stripe-webhook.php:123
+msgid "Order status has been changed to processing"
+msgstr "O estado da encomenda passou para \"em processamento\""
+
+#: includes/woo-multibanco-gateway-class-stripe-webhook.php:130
+msgid "Multibanco payment failed - Error #0003!"
+msgstr "O pagamento Multibanco falhou - Erro #0003!"
+
+#: includes/woo-multibanco-gateway-class-stripe-webhook.php:134
+msgid "Source is not successfully charged"
+msgstr "Source is not successfully charged"
+
+#: includes/woo-multibanco-gateway-class-stripe-webhook.php:144
+msgid "Multibanco payment failed - Error #0001!"
+msgstr "O pagamento Multibanco falhou - Erro #0001!"
+
+#: includes/woo-multibanco-gateway-class-stripe-webhook.php:148
+msgid "Stripe source and WooCommerce Order Source are not the same!"
+msgstr "Stripe source and WooCommerce Order Source are not the same!"
+
+#: includes/woo-multibanco-gateway-class-stripe-webhook.php:155
+msgid "Multibanco payment failed - Error: #0002"
+msgstr "O pagamento Multibanco falhou - Erro #0002!"
+
+#: includes/woo-multibanco-gateway-class-stripe-webhook.php:160
+msgid "Source is not in a chargeable state"
+msgstr "Source is not in a chargeable state"
+
+#: includes/woo-multibanco-gateway-class-stripe-webhook.php:169
+#: includes/woo-multibanco-gateway-class-stripe-webhook.php:176
+msgid "Source is not using the Multibanco payment method!"
+msgstr "Source is not using the Multibanco payment method!"
+
+#: templates/payment-instructions.php:23
+#: templates/emails/html-instructions.php:19
+#: templates/emails/plain-instructions.php:17
+msgid "Payment instructions"
+msgstr "Instruções de Pagamento"
+
+#: templates/payment-instructions.php:29
+#: templates/emails/html-instructions.php:25
+#: templates/emails/plain-instructions.php:19
+msgid "Entity"
+msgstr "Entidade"
+
+#: templates/payment-instructions.php:33
+#: templates/emails/html-instructions.php:29
+#: templates/emails/plain-instructions.php:21
+msgid "Reference"
+msgstr "Referência"
+
+#: templates/payment-instructions.php:37
+#: templates/emails/html-instructions.php:33
+#: templates/emails/plain-instructions.php:23
+msgid "Value"
+msgstr "Valor"
+
+#: templates/payment-instructions.php:41
+#: templates/emails/html-instructions.php:37
+#: templates/emails/plain-instructions.php:25
+msgid "The receipt issued by the ATM machine is a proof of payment. Keep it."
+msgstr ""
+"O talão emitido pela máquina Multibanco faz prova de pagamento. Conserve-o."
+
+#. Name of the plugin
+msgid "WooCommerce Multibanco Gateway"
+msgstr "WooCommerce Multibanco Gateway"
+
+#. Description of the plugin
+msgid "Payment gateway for WooCommerce that allows MULTIBANCO via Stripe."
+msgstr ""
+"Processador de pagamentos para o Woocommerce que permite pagamentos "
+"MULTIBANCO via Stripe."
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/woo-multibanco-gateway/"
+msgstr "https://wordpress.org/plugins/woo-multibanco-gateway/"
+
+#. Author of the plugin
+msgid "Jose Vieira"
+msgstr "José Vieira"
+
+#. Author URI of the plugin
+msgid "https://convertodigital.com"
+msgstr "https://convertodigital.com"

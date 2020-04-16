@@ -1,0 +1,406 @@
+a:2:{s:4:"time";i:1569002172;s:5:"value";a:10:{s:24:"_wfacp_selected_products";a:5:{s:19:"wfacp_5d432d17ab485";a:10:{s:5:"title";s:48:"FlexiCovers - Super Flexible Silicon Food Covers";s:13:"discount_type";s:20:"percent_discount_reg";s:15:"discount_amount";s:7:"17.1429";s:14:"discount_price";s:1:"0";s:8:"quantity";s:1:"1";s:4:"type";s:6:"simple";s:2:"id";s:4:"1125";s:17:"parent_product_id";s:1:"0";s:5:"stock";s:4:"true";s:20:"is_sold_individually";s:5:"false";}s:19:"wfacp_5d432d2429193";a:11:{s:5:"title";s:48:"FlexiCovers - Super Flexible Silicon Food Covers";s:13:"discount_type";s:20:"percent_discount_reg";s:15:"discount_amount";s:2:"30";s:14:"discount_price";s:1:"0";s:8:"quantity";s:1:"2";s:4:"type";s:6:"simple";s:2:"id";s:4:"1125";s:17:"parent_product_id";s:1:"0";s:5:"stock";s:4:"true";s:20:"is_sold_individually";s:5:"false";s:17:"discount_quantity";s:1:"2";}s:19:"wfacp_5d432d33d5eea";a:11:{s:5:"title";s:48:"FlexiCovers - Super Flexible Silicon Food Covers";s:13:"discount_type";s:20:"percent_discount_reg";s:15:"discount_amount";s:7:"43.8095";s:14:"discount_price";s:1:"0";s:8:"quantity";s:1:"3";s:4:"type";s:6:"simple";s:2:"id";s:4:"1125";s:17:"parent_product_id";s:1:"0";s:5:"stock";s:4:"true";s:20:"is_sold_individually";s:5:"false";s:17:"discount_quantity";s:1:"3";}s:19:"wfacp_5d432d412fc26";a:11:{s:5:"title";s:48:"FlexiCovers - Super Flexible Silicon Food Covers";s:13:"discount_type";s:20:"percent_discount_reg";s:15:"discount_amount";s:7:"46.4286";s:14:"discount_price";s:1:"0";s:8:"quantity";s:1:"4";s:4:"type";s:6:"simple";s:2:"id";s:4:"1125";s:17:"parent_product_id";s:1:"0";s:5:"stock";s:4:"true";s:20:"is_sold_individually";s:5:"false";s:17:"discount_quantity";s:1:"4";}s:19:"wfacp_5d432d4d3fbb5";a:11:{s:5:"title";s:48:"FlexiCovers - Super Flexible Silicon Food Covers";s:13:"discount_type";s:20:"percent_discount_reg";s:15:"discount_amount";s:7:"48.5714";s:14:"discount_price";s:1:"0";s:8:"quantity";s:1:"5";s:4:"type";s:6:"simple";s:2:"id";s:4:"1125";s:17:"parent_product_id";s:1:"0";s:5:"stock";s:4:"true";s:20:"is_sold_individually";s:5:"false";s:17:"discount_quantity";s:1:"5";}}s:33:"_wfacp_selected_products_settings";a:1:{s:19:"add_to_cart_setting";s:1:"2";}s:22:"_wfacp_selected_design";s:0:"";s:18:"_wfacp_page_layout";a:13:{s:5:"steps";a:3:{s:11:"single_step";a:4:{s:4:"name";s:6:"Step 1";s:4:"slug";s:11:"single_step";s:13:"friendly_name";s:25:"Single Step Checkout Form";s:6:"active";s:3:"yes";}s:8:"two_step";a:4:{s:4:"name";s:6:"Step 2";s:4:"slug";s:8:"two_step";s:13:"friendly_name";s:22:"Two Step Checkout Form";s:6:"active";s:2:"no";}s:10:"third_step";a:4:{s:4:"name";s:6:"Step 3";s:4:"slug";s:10:"third_step";s:13:"friendly_name";s:24:"Three Step Checkout Form";s:6:"active";s:2:"no";}}s:9:"fieldsets";a:1:{s:11:"single_step";a:4:{i:0;a:4:{s:4:"name";s:30:"PASSO 1: SELECIONAR QUANTIDADE";s:5:"class";s:22:"wfacp_product_switcher";s:11:"sub_heading";s:0:"";s:6:"fields";a:1:{i:0;a:14:{s:4:"type";s:7:"product";s:5:"class";a:1:{i:0;s:22:"wfacp_product_switcher";}s:8:"cssready";a:1:{i:0;s:14:"wfacp-col-full";}s:2:"id";s:17:"product_switching";s:5:"label";s:8:"Produtos";s:30:"is_hide_additional_information";s:5:"false";s:28:"additional_information_title";s:29:"WHAT'S INCLUDED IN YOUR PLAN?";s:22:"hide_quantity_switcher";s:5:"false";s:13:"hide_you_save";s:4:"true";s:7:"default";s:66:"Buy {{quantity}} and Save {{saving_value}} ({{saving_percentage}})";s:10:"field_type";s:7:"product";s:11:"placeholder";s:0:"";s:7:"options";a:1:{i:0;s:1:"0";}s:8:"required";s:5:"false";}}}i:1;a:4:{s:4:"name";s:36:"PASSO 2: INSIRA O CUPÃO DE DESCONTO";s:5:"class";s:5:"sec-3";s:11:"sub_heading";s:0:"";s:6:"fields";a:1:{i:0;a:12:{s:4:"type";s:10:"wfacp_html";s:10:"field_type";s:8:"advanced";s:5:"class";a:1:{i:0;s:18:"wfacp_order_coupon";}s:2:"id";s:12:"order_coupon";s:12:"coupon_style";s:4:"true";s:30:"coupon_success_message_heading";s:63:"Parabéns! O cupão "{{coupon_code}}" foi aplicado com sucesso.";s:29:"coupon_remove_message_heading";s:39:"Código de cupão removido com sucesso.";s:5:"label";s:6:"Cupão";s:11:"placeholder";s:0:"";s:8:"cssready";a:1:{i:0;s:0:"";}s:7:"options";a:1:{i:0;s:1:"0";}s:8:"required";s:5:"false";}}}i:2;a:4:{s:4:"name";s:30:"PASSO 3: VERIFIQUE A ENCOMENDA";s:5:"class";s:0:"";s:11:"sub_heading";s:0:"";s:6:"fields";a:2:{i:0;a:11:{s:5:"label";s:4:"dois";s:11:"placeholder";s:0:"";s:4:"type";s:6:"hidden";s:8:"required";s:4:"true";s:7:"default";s:4:"dois";s:29:"show_custom_field_at_thankyou";s:5:"false";s:26:"show_custom_field_at_email";s:5:"false";s:14:"is_wfacp_field";s:4:"true";s:9:"unique_id";s:4:"dois";s:10:"field_type";s:8:"advanced";s:2:"id";s:4:"dois";}i:1;a:5:{s:4:"type";s:10:"wfacp_html";s:10:"field_type";s:8:"advanced";s:5:"class";a:1:{i:0;s:19:"wfacp_order_summary";}s:2:"id";s:13:"order_summary";s:5:"label";s:13:"Order Summary";}}}i:3;a:5:{s:4:"name";s:33:"PASSO 4: INFORMAÇÕES DE ENTREGA";s:5:"class";s:25:"wfacp_contact_information";s:10:"is_default";s:3:"yes";s:11:"sub_heading";s:0:"";s:6:"fields";a:5:{i:0;a:11:{s:5:"label";s:13:"Primeiro nome";s:8:"required";s:4:"true";s:5:"class";a:1:{i:0;s:14:"form-row-first";}s:12:"autocomplete";s:10:"given-name";s:8:"priority";s:2:"10";s:4:"type";s:4:"text";s:2:"id";s:18:"billing_first_name";s:10:"field_type";s:7:"billing";s:11:"placeholder";s:0:"";s:8:"cssready";a:1:{i:0;s:0:"";}s:7:"options";a:1:{i:0;s:1:"0";}}i:1;a:11:{s:5:"label";s:7:"Apelido";s:8:"required";s:4:"true";s:5:"class";a:1:{i:0;s:13:"form-row-last";}s:12:"autocomplete";s:11:"family-name";s:8:"priority";s:2:"20";s:4:"type";s:4:"text";s:2:"id";s:17:"billing_last_name";s:10:"field_type";s:7:"billing";s:11:"placeholder";s:0:"";s:8:"cssready";a:1:{i:0;s:0:"";}s:7:"options";a:1:{i:0;s:1:"0";}}i:2;a:12:{s:5:"label";s:8:"Telefone";s:4:"type";s:3:"tel";s:5:"class";a:1:{i:0;s:13:"form-row-wide";}s:2:"id";s:13:"billing_phone";s:10:"field_type";s:7:"billing";s:8:"validate";a:1:{i:0;s:5:"phone";}s:11:"placeholder";s:0:"";s:12:"autocomplete";s:3:"tel";s:8:"priority";s:3:"100";s:8:"cssready";a:1:{i:0;s:0:"";}s:7:"options";a:1:{i:0;s:1:"0";}s:8:"required";s:4:"true";}i:3;a:12:{s:5:"label";s:5:"Email";s:8:"required";s:4:"true";s:4:"type";s:5:"email";s:5:"class";a:1:{i:0;s:13:"form-row-wide";}s:8:"validate";a:1:{i:0;s:5:"email";}s:12:"autocomplete";s:14:"email username";s:8:"priority";s:3:"110";s:2:"id";s:13:"billing_email";s:10:"field_type";s:7:"billing";s:11:"placeholder";s:0:"";s:8:"cssready";a:1:{i:0;s:0:"";}s:7:"options";a:1:{i:0;s:1:"0";}}i:4;a:9:{s:5:"class";a:1:{i:0;s:14:"wfacp-col-half";}s:8:"cssready";a:1:{i:0;s:14:"wfacp-col-half";}s:2:"id";s:16:"shipping-address";s:10:"field_type";s:7:"billing";s:5:"label";s:20:"Adresse de livraison";s:14:"fields_options";a:10:{s:15:"same_as_billing";a:2:{s:15:"same_as_billing";s:5:"false";s:21:"same_as_billing_label";s:32:"Use a different shipping address";}s:10:"first_name";a:4:{s:10:"first_name";s:5:"false";s:16:"first_name_label";s:10:"First Name";s:22:"first_name_placeholder";s:4:"John";s:4:"hint";s:24:"Field ID: shipping_state";}s:9:"last_name";a:4:{s:9:"last_name";s:5:"false";s:15:"last_name_label";s:9:"Last Name";s:21:"last_name_placeholder";s:3:"Doe";s:4:"hint";s:24:"Field ID: shipping_state";}s:7:"company";a:4:{s:7:"company";s:5:"false";s:13:"company_label";s:7:"Company";s:19:"company_placeholder";s:0:"";s:4:"hint";s:24:"Field ID: shipping_state";}s:9:"address_1";a:4:{s:15:"street_address1";s:4:"true";s:22:"street_address_1_label";s:6:"Morada";s:28:"street_address_1_placeholder";s:0:"";s:4:"hint";s:24:"Field ID: shipping_state";}s:9:"address_2";a:4:{s:15:"street_address2";s:5:"false";s:22:"street_address_2_label";s:24:"Appartement, suite, etc.";s:28:"street_address_2_placeholder";s:0:"";s:4:"hint";s:24:"Field ID: shipping_state";}s:4:"city";a:4:{s:12:"address_city";s:4:"true";s:18:"address_city_label";s:10:"Localidade";s:24:"address_city_placeholder";s:0:"";s:4:"hint";s:24:"Field ID: shipping_state";}s:8:"postcode";a:4:{s:16:"address_postcode";s:4:"true";s:22:"address_postcode_label";s:14:"Código Postal";s:28:"address_postcode_placeholder";s:0:"";s:4:"hint";s:24:"Field ID: shipping_state";}s:7:"country";a:4:{s:15:"address_country";s:4:"true";s:21:"address_country_label";s:5:"País";s:27:"address_country_placeholder";s:0:"";s:4:"hint";s:24:"Field ID: shipping_state";}s:5:"state";a:4:{s:13:"address_state";s:5:"false";s:19:"address_state_label";s:0:"";s:25:"address_state_placeholder";s:0:"";s:4:"hint";s:24:"Field ID: shipping_state";}}s:11:"placeholder";s:0:"";s:7:"options";a:1:{i:0;s:1:"0";}s:8:"required";s:5:"false";}}}}}s:8:"products";a:5:{s:19:"wfacp_5d432d17ab485";a:6:{s:5:"title";s:22:"FlexiCovers 6 Unidades";s:13:"you_save_text";s:45:"DESCONTO DE 50% JÁ APLICADO + PORTES GRÁTIS";s:14:"whats_included";s:0:"";s:13:"enable_delete";s:5:"false";s:9:"old_title";s:48:"FlexiCovers - Super Flexible Silicon Food Covers";s:21:"whats_include_heading";s:48:"FlexiCovers - Super Flexible Silicon Food Covers";}s:19:"wfacp_5d432d2429193";a:6:{s:5:"title";s:23:"FlexiCovers 12 Unidades";s:13:"you_save_text";s:45:"DESCONTO DE 50% JÁ APLICADO + PORTES GRÁTIS";s:14:"whats_included";s:0:"";s:13:"enable_delete";s:5:"false";s:9:"old_title";s:48:"FlexiCovers - Super Flexible Silicon Food Covers";s:21:"whats_include_heading";s:48:"FlexiCovers - Super Flexible Silicon Food Covers";}s:19:"wfacp_5d432d33d5eea";a:6:{s:5:"title";s:23:"FlexiCovers 18 Unidades";s:13:"you_save_text";s:45:"DESCONTO DE 50% JÁ APLICADO + PORTES GRÁTIS";s:14:"whats_included";s:0:"";s:13:"enable_delete";s:5:"false";s:9:"old_title";s:48:"FlexiCovers - Super Flexible Silicon Food Covers";s:21:"whats_include_heading";s:48:"FlexiCovers - Super Flexible Silicon Food Covers";}s:19:"wfacp_5d432d412fc26";a:6:{s:5:"title";s:23:"FlexiCovers 24 Unidades";s:13:"you_save_text";s:45:"DESCONTO DE 50% JÁ APLICADO + PORTES GRÁTIS";s:14:"whats_included";s:0:"";s:13:"enable_delete";s:5:"false";s:9:"old_title";s:48:"FlexiCovers - Super Flexible Silicon Food Covers";s:21:"whats_include_heading";s:48:"FlexiCovers - Super Flexible Silicon Food Covers";}s:19:"wfacp_5d432d4d3fbb5";a:6:{s:5:"title";s:23:"FlexiCovers 30 Unidades";s:13:"you_save_text";s:45:"DESCONTO DE 50% JÁ APLICADO + PORTES GRÁTIS";s:14:"whats_included";s:0:"";s:13:"enable_delete";s:5:"false";s:9:"old_title";s:48:"FlexiCovers - Super Flexible Silicon Food Covers";s:21:"whats_include_heading";s:48:"FlexiCovers - Super Flexible Silicon Food Covers";}}s:16:"default_products";s:19:"wfacp_5d432d17ab485";s:16:"product_settings";a:14:{s:13:"header_script";s:2651:"<style>
+
+
+
+.discount_circle_text {
+    flex: 1;
+    padding: 0 17.6px;
+}
+.discount_circle_inner {
+    width: 85%;
+    height: 85%;
+    border: 2px dashed #fff;
+    position: absolute;
+    border-radius: 100%;
+    -webkit-animation: spin 12s linear infinite;
+    animation: spin 12s linear infinite;
+}
+.discount_circle {
+    width: 110px;
+    height: 110px;
+    background-color: #d82828;
+    border-radius: 100%;
+    justify-content: center;
+    position: relative;
+    font-size: 28px;
+    color: #fff;
+    font-weight: 700;
+    letter-spacing: 1px;
+    line-height: 110%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+
+
+/* CSS do DISCOUNT */
+
+.raw-complete {
+    border: 3px dashed red;
+    overflow: auto;
+}
+.column-left {
+    padding: 10px;
+    float: left;
+}
+.column-right {
+    text-align: center;
+    padding: 10px;
+}
+.discount h3 {
+    font-family: 'Noto Sans', sans-serif !important;
+    font-size: 20px;
+    font-weight: 700;
+    color: #d82828;
+}
+.discount h4 {
+    font-family: 'Noto Sans', sans-serif !important;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+
+
+
+
+/* CSS to TIMER */
+.wfacp-comm-title none{
+display: none;
+}
+.timer {
+  
+    /* margin-top: 23px; */
+    /* margin-bottom: 30px; */
+    margin-right: 0px;
+    border-radius: 0;
+    background-color: #ffeb3b1a;
+    padding: 20px 20px 12px;
+    border: 1px dashed #FFC107;
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+.timer p{
+    font-weight: bolder;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 16px;
+}
+.sec-1 h2{
+    display: none;
+}
+.text-center {
+    text-align: center;
+}
+
+.text-center {
+    text-align: center;
+}
+#timer.clock.red {
+    color: red;
+}
+.raw .timer .text-center {
+max-width: 100%;
+    margin: 0 auto;
+    height: 150px;
+    border: 1px dashed orange;
+}
+</style>
+<link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.7.0/css/all.css' integrity='sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ' crossorigin='anonymous'>
+
+
+<script type="text/javascript">
+function startTimer(duration, display) {
+    var timer = duration, minutes, seconds;
+    setInterval(function () {
+        minutes = parseInt(timer / 60, 10);
+        seconds = parseInt(timer % 60, 10);
+
+        minutes = minutes < 10 ? "0" + minutes : minutes;
+        seconds = seconds < 10 ? "0" + seconds : seconds;
+
+        display.textContent = minutes + ":" + seconds;
+
+        if (--timer < 0) {
+            timer = duration;
+        }
+    }, 1000);
+}
+
+window.onload = function () {
+    var fiveMinutes = 60 * 7.5,
+        display = document.querySelector('#timer');
+    startTimer(fiveMinutes, display);
+};
+</script>
+";s:22:"hide_quantity_switcher";s:4:"true";s:15:"hide_quick_view";s:4:"true";s:13:"hide_you_save";s:4:"true";s:18:"enable_delete_item";s:5:"false";s:18:"hide_product_image";s:4:"true";s:30:"is_hide_additional_information";s:4:"true";s:28:"additional_information_title";s:29:"WHAT'S INCLUDED IN YOUR PLAN?";s:15:"hide_best_value";s:5:"false";s:18:"best_value_product";s:19:"wfacp_5d432d33d5eea";s:15:"best_value_text";s:12:"MAIS VENDIDO";s:19:"best_value_position";s:15:"top_left_corner";s:35:"enable_custom_name_in_order_summary";s:4:"true";s:25:"product_switcher_template";s:7:"default";}s:17:"have_coupon_field";s:4:"true";s:20:"have_billing_address";s:5:"false";s:21:"have_shipping_address";s:4:"true";s:26:"have_billing_address_index";s:1:"0";s:27:"have_shipping_address_index";s:1:"9";s:25:"enabled_product_switching";s:3:"yes";s:20:"have_shipping_method";s:5:"false";s:12:"current_step";s:11:"single_step";}s:20:"_wfacp_page_settings";a:23:{s:13:"header_script";s:2651:"<style>
+
+
+
+.discount_circle_text {
+    flex: 1;
+    padding: 0 17.6px;
+}
+.discount_circle_inner {
+    width: 85%;
+    height: 85%;
+    border: 2px dashed #fff;
+    position: absolute;
+    border-radius: 100%;
+    -webkit-animation: spin 12s linear infinite;
+    animation: spin 12s linear infinite;
+}
+.discount_circle {
+    width: 110px;
+    height: 110px;
+    background-color: #d82828;
+    border-radius: 100%;
+    justify-content: center;
+    position: relative;
+    font-size: 28px;
+    color: #fff;
+    font-weight: 700;
+    letter-spacing: 1px;
+    line-height: 110%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+
+
+/* CSS do DISCOUNT */
+
+.raw-complete {
+    border: 3px dashed red;
+    overflow: auto;
+}
+.column-left {
+    padding: 10px;
+    float: left;
+}
+.column-right {
+    text-align: center;
+    padding: 10px;
+}
+.discount h3 {
+    font-family: 'Noto Sans', sans-serif !important;
+    font-size: 20px;
+    font-weight: 700;
+    color: #d82828;
+}
+.discount h4 {
+    font-family: 'Noto Sans', sans-serif !important;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+
+
+
+
+/* CSS to TIMER */
+.wfacp-comm-title none{
+display: none;
+}
+.timer {
+  
+    /* margin-top: 23px; */
+    /* margin-bottom: 30px; */
+    margin-right: 0px;
+    border-radius: 0;
+    background-color: #ffeb3b1a;
+    padding: 20px 20px 12px;
+    border: 1px dashed #FFC107;
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+.timer p{
+    font-weight: bolder;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 16px;
+}
+.sec-1 h2{
+    display: none;
+}
+.text-center {
+    text-align: center;
+}
+
+.text-center {
+    text-align: center;
+}
+#timer.clock.red {
+    color: red;
+}
+.raw .timer .text-center {
+max-width: 100%;
+    margin: 0 auto;
+    height: 150px;
+    border: 1px dashed orange;
+}
+</style>
+<link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.7.0/css/all.css' integrity='sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ' crossorigin='anonymous'>
+
+
+<script type="text/javascript">
+function startTimer(duration, display) {
+    var timer = duration, minutes, seconds;
+    setInterval(function () {
+        minutes = parseInt(timer / 60, 10);
+        seconds = parseInt(timer % 60, 10);
+
+        minutes = minutes < 10 ? "0" + minutes : minutes;
+        seconds = seconds < 10 ? "0" + seconds : seconds;
+
+        display.textContent = minutes + ":" + seconds;
+
+        if (--timer < 0) {
+            timer = duration;
+        }
+    }, 1000);
+}
+
+window.onload = function () {
+    var fiveMinutes = 60 * 7.5,
+        display = document.querySelector('#timer');
+    startTimer(fiveMinutes, display);
+};
+</script>
+";s:13:"enable_coupon";s:5:"false";s:14:"disable_coupon";s:5:"false";s:22:"hide_quantity_switcher";s:5:"false";s:15:"hide_quick_view";s:5:"false";s:13:"hide_you_save";s:4:"true";s:22:"close_after_x_purchase";s:5:"false";s:23:"total_purchased_allowed";s:0:"";s:28:"total_purchased_redirect_url";s:0:"";s:25:"close_checkout_after_date";s:5:"false";s:17:"close_checkout_on";s:0:"";s:27:"close_checkout_redirect_url";s:0:"";s:15:"selected_coupon";a:0:{}s:18:"enable_delete_item";b:0;s:18:"hide_product_image";b:1;s:30:"is_hide_additional_information";b:0;s:28:"additional_information_title";s:29:"WHAT'S INCLUDED IN YOUR PLAN?";s:15:"hide_best_value";b:0;s:18:"best_value_product";s:0:"";s:15:"best_value_text";s:10:"Best Value";s:19:"best_value_position";s:5:"below";s:35:"enable_custom_name_in_order_summary";s:5:"false";s:15:"setting_migrate";s:5:"1.8.4";}s:24:"_wfacp_page_custom_field";a:1:{s:8:"advanced";a:3:{i:1559592287812;a:10:{s:5:"label";s:5:"Timer";s:11:"placeholder";s:0:"";s:8:"cssready";a:0:{}s:4:"type";s:13:"wfacp_wysiwyg";s:8:"required";s:4:"true";s:7:"options";a:0:{}s:7:"default";s:0:"";s:29:"show_custom_field_at_thankyou";s:5:"false";s:26:"show_custom_field_at_email";s:5:"false";s:14:"is_wfacp_field";b:1;}i:1559592464085;a:10:{s:5:"label";s:15:"Discount Circle";s:11:"placeholder";s:0:"";s:8:"cssready";a:0:{}s:4:"type";s:13:"wfacp_wysiwyg";s:8:"required";s:4:"true";s:7:"options";a:0:{}s:7:"default";s:0:"";s:29:"show_custom_field_at_thankyou";s:5:"false";s:26:"show_custom_field_at_email";s:5:"false";s:14:"is_wfacp_field";b:1;}s:4:"dois";a:10:{s:5:"label";s:4:"dois";s:11:"placeholder";s:0:"";s:8:"cssready";a:0:{}s:4:"type";s:6:"hidden";s:8:"required";s:4:"true";s:7:"options";a:0:{}s:7:"default";s:4:"dois";s:29:"show_custom_field_at_thankyou";s:5:"false";s:26:"show_custom_field_at_email";s:5:"false";s:14:"is_wfacp_field";b:1;}}}s:21:"_wfacp_fieldsets_data";a:9:{s:20:"have_billing_address";s:5:"false";s:21:"have_shipping_address";s:4:"true";s:26:"have_billing_address_index";s:1:"0";s:27:"have_shipping_address_index";s:1:"9";s:25:"enabled_product_switching";s:3:"yes";s:17:"have_coupon_field";s:4:"true";s:20:"have_shipping_method";s:5:"false";s:12:"current_step";s:11:"single_step";s:9:"fieldsets";a:1:{s:11:"single_step";a:4:{i:0;a:4:{s:4:"name";s:30:"PASSO 1: SELECIONAR QUANTIDADE";s:5:"class";s:22:"wfacp_product_switcher";s:11:"sub_heading";s:0:"";s:6:"fields";a:1:{i:0;a:13:{s:4:"type";s:7:"product";s:5:"class";a:1:{i:0;s:22:"wfacp_product_switcher";}s:8:"cssready";a:1:{i:0;s:14:"wfacp-col-full";}s:2:"id";s:17:"product_switching";s:5:"label";s:8:"Produtos";s:30:"is_hide_additional_information";s:5:"false";s:28:"additional_information_title";s:29:"WHAT'S INCLUDED IN YOUR PLAN?";s:22:"hide_quantity_switcher";s:5:"false";s:13:"hide_you_save";s:4:"true";s:7:"default";s:66:"Buy {{quantity}} and Save {{saving_value}} ({{saving_percentage}})";s:10:"field_type";s:7:"product";s:11:"placeholder";s:0:"";s:7:"options";a:1:{i:0;s:1:"0";}}}}i:1;a:4:{s:4:"name";s:36:"PASSO 2: INSIRA O CUPÃO DE DESCONTO";s:5:"class";s:5:"sec-3";s:11:"sub_heading";s:0:"";s:6:"fields";a:1:{i:0;a:11:{s:4:"type";s:10:"wfacp_html";s:10:"field_type";s:8:"advanced";s:5:"class";a:1:{i:0;s:18:"wfacp_order_coupon";}s:2:"id";s:12:"order_coupon";s:12:"coupon_style";s:4:"true";s:30:"coupon_success_message_heading";s:63:"Parabéns! O cupão "{{coupon_code}}" foi aplicado com sucesso.";s:29:"coupon_remove_message_heading";s:39:"Código de cupão removido com sucesso.";s:5:"label";s:6:"Cupão";s:11:"placeholder";s:0:"";s:8:"cssready";a:1:{i:0;s:0:"";}s:7:"options";a:1:{i:0;s:1:"0";}}}}i:2;a:4:{s:4:"name";s:30:"PASSO 3: VERIFIQUE A ENCOMENDA";s:5:"class";s:0:"";s:11:"sub_heading";s:0:"";s:6:"fields";a:2:{i:0;a:11:{s:5:"label";s:4:"dois";s:11:"placeholder";s:0:"";s:4:"type";s:6:"hidden";s:8:"required";s:4:"true";s:7:"default";s:4:"dois";s:29:"show_custom_field_at_thankyou";s:5:"false";s:26:"show_custom_field_at_email";s:5:"false";s:14:"is_wfacp_field";s:4:"true";s:9:"unique_id";s:4:"dois";s:10:"field_type";s:8:"advanced";s:2:"id";s:4:"dois";}i:1;a:5:{s:4:"type";s:10:"wfacp_html";s:10:"field_type";s:8:"advanced";s:5:"class";a:1:{i:0;s:19:"wfacp_order_summary";}s:2:"id";s:13:"order_summary";s:5:"label";s:13:"Order Summary";}}}i:3;a:5:{s:4:"name";s:33:"PASSO 4: INFORMAÇÕES DE ENTREGA";s:5:"class";s:25:"wfacp_contact_information";s:10:"is_default";s:3:"yes";s:11:"sub_heading";s:0:"";s:6:"fields";a:10:{i:0;a:11:{s:5:"label";s:13:"Primeiro nome";s:8:"required";s:4:"true";s:5:"class";a:1:{i:0;s:14:"form-row-first";}s:12:"autocomplete";s:10:"given-name";s:8:"priority";s:2:"10";s:4:"type";s:4:"text";s:2:"id";s:18:"billing_first_name";s:10:"field_type";s:7:"billing";s:11:"placeholder";s:0:"";s:8:"cssready";a:1:{i:0;s:0:"";}s:7:"options";a:1:{i:0;s:1:"0";}}i:1;a:11:{s:5:"label";s:7:"Apelido";s:8:"required";s:4:"true";s:5:"class";a:1:{i:0;s:13:"form-row-last";}s:12:"autocomplete";s:11:"family-name";s:8:"priority";s:2:"20";s:4:"type";s:4:"text";s:2:"id";s:17:"billing_last_name";s:10:"field_type";s:7:"billing";s:11:"placeholder";s:0:"";s:8:"cssready";a:1:{i:0;s:0:"";}s:7:"options";a:1:{i:0;s:1:"0";}}i:2;a:12:{s:5:"label";s:8:"Telefone";s:4:"type";s:3:"tel";s:5:"class";a:1:{i:0;s:13:"form-row-wide";}s:2:"id";s:13:"billing_phone";s:10:"field_type";s:7:"billing";s:8:"validate";a:1:{i:0;s:5:"phone";}s:11:"placeholder";s:0:"";s:12:"autocomplete";s:3:"tel";s:8:"priority";s:3:"100";s:8:"cssready";a:1:{i:0;s:0:"";}s:7:"options";a:1:{i:0;s:1:"0";}s:8:"required";s:4:"true";}i:3;a:12:{s:5:"label";s:5:"Email";s:8:"required";s:4:"true";s:4:"type";s:5:"email";s:5:"class";a:1:{i:0;s:13:"form-row-wide";}s:8:"validate";a:1:{i:0;s:5:"email";}s:12:"autocomplete";s:14:"email username";s:8:"priority";s:3:"110";s:2:"id";s:13:"billing_email";s:10:"field_type";s:7:"billing";s:11:"placeholder";s:0:"";s:8:"cssready";a:1:{i:0;s:0:"";}s:7:"options";a:1:{i:0;s:1:"0";}}s:28:"wfacp_start_divider_shipping";a:3:{s:4:"type";s:19:"wfacp_start_divider";s:11:"label_class";a:2:{i:0;s:19:"wfacp_divider_field";i:1;s:22:"wfacp_divider_shipping";}s:2:"id";s:22:"wfacp_divider_shipping";}i:4;a:10:{s:5:"label";s:6:"Morada";s:11:"placeholder";s:6:"Morada";s:8:"required";b:1;s:5:"class";a:2:{i:0;s:13:"form-row-wide";i:1;s:13:"address-field";}s:12:"autocomplete";s:13:"address-line1";s:8:"priority";i:50;s:4:"type";s:4:"text";s:8:"cssready";a:0:{}s:2:"id";s:18:"shipping_address_1";s:13:"address_group";b:1;}i:5;a:10:{s:5:"label";s:10:"Localidade";s:8:"required";b:1;s:5:"class";a:2:{i:0;s:13:"form-row-wide";i:1;s:13:"address-field";}s:12:"autocomplete";s:14:"address-level2";s:8:"priority";i:70;s:4:"type";s:4:"text";s:8:"cssready";a:0:{}s:11:"placeholder";s:10:"Localidade";s:2:"id";s:13:"shipping_city";s:13:"address_group";b:1;}i:6;a:11:{s:5:"label";s:14:"Código Postal";s:8:"required";b:1;s:5:"class";a:2:{i:0;s:13:"form-row-wide";i:1;s:13:"address-field";}s:8:"validate";a:1:{i:0;s:8:"postcode";}s:12:"autocomplete";s:11:"postal-code";s:8:"priority";i:90;s:4:"type";s:4:"text";s:8:"cssready";a:0:{}s:11:"placeholder";s:14:"Código postal";s:2:"id";s:17:"shipping_postcode";s:13:"address_group";b:1;}i:7;a:10:{s:4:"type";s:7:"country";s:5:"label";s:5:"País";s:8:"required";b:1;s:5:"class";a:3:{i:0;s:13:"form-row-wide";i:1;s:13:"address-field";i:2;s:23:"update_totals_on_change";}s:12:"autocomplete";s:7:"country";s:8:"priority";i:40;s:8:"cssready";a:0:{}s:11:"placeholder";s:5:"País";s:2:"id";s:16:"shipping_country";s:13:"address_group";b:1;}s:26:"wfacp_end_divider_shipping";a:1:{s:4:"type";s:17:"wfacp_end_divider";}}}}}}s:22:"_wfacp_checkout_fields";a:4:{s:7:"product";a:1:{s:17:"product_switching";a:13:{s:4:"type";s:7:"product";s:5:"class";a:1:{i:0;s:22:"wfacp_product_switcher";}s:8:"cssready";a:1:{i:0;s:14:"wfacp-col-full";}s:2:"id";s:17:"product_switching";s:5:"label";s:8:"Produtos";s:30:"is_hide_additional_information";s:5:"false";s:28:"additional_information_title";s:29:"WHAT'S INCLUDED IN YOUR PLAN?";s:22:"hide_quantity_switcher";s:5:"false";s:13:"hide_you_save";s:4:"true";s:7:"default";s:66:"Buy {{quantity}} and Save {{saving_value}} ({{saving_percentage}})";s:10:"field_type";s:7:"product";s:11:"placeholder";s:0:"";s:7:"options";a:1:{i:0;s:1:"0";}}}s:8:"advanced";a:3:{s:12:"order_coupon";a:11:{s:4:"type";s:10:"wfacp_html";s:10:"field_type";s:8:"advanced";s:5:"class";a:1:{i:0;s:18:"wfacp_order_coupon";}s:2:"id";s:12:"order_coupon";s:12:"coupon_style";s:4:"true";s:30:"coupon_success_message_heading";s:63:"Parabéns! O cupão "{{coupon_code}}" foi aplicado com sucesso.";s:29:"coupon_remove_message_heading";s:39:"Código de cupão removido com sucesso.";s:5:"label";s:6:"Cupão";s:11:"placeholder";s:0:"";s:8:"cssready";a:1:{i:0;s:0:"";}s:7:"options";a:1:{i:0;s:1:"0";}}s:4:"dois";a:11:{s:5:"label";s:4:"dois";s:11:"placeholder";s:0:"";s:4:"type";s:6:"hidden";s:8:"required";s:4:"true";s:7:"default";s:4:"dois";s:29:"show_custom_field_at_thankyou";s:5:"false";s:26:"show_custom_field_at_email";s:5:"false";s:14:"is_wfacp_field";s:4:"true";s:9:"unique_id";s:4:"dois";s:10:"field_type";s:8:"advanced";s:2:"id";s:4:"dois";}s:13:"order_summary";a:5:{s:4:"type";s:10:"wfacp_html";s:10:"field_type";s:8:"advanced";s:5:"class";a:1:{i:0;s:19:"wfacp_order_summary";}s:2:"id";s:13:"order_summary";s:5:"label";s:13:"Order Summary";}}s:7:"billing";a:4:{s:18:"billing_first_name";a:11:{s:5:"label";s:13:"Primeiro nome";s:8:"required";s:4:"true";s:5:"class";a:1:{i:0;s:14:"form-row-first";}s:12:"autocomplete";s:10:"given-name";s:8:"priority";s:2:"10";s:4:"type";s:4:"text";s:2:"id";s:18:"billing_first_name";s:10:"field_type";s:7:"billing";s:11:"placeholder";s:0:"";s:8:"cssready";a:1:{i:0;s:0:"";}s:7:"options";a:1:{i:0;s:1:"0";}}s:17:"billing_last_name";a:11:{s:5:"label";s:7:"Apelido";s:8:"required";s:4:"true";s:5:"class";a:1:{i:0;s:13:"form-row-last";}s:12:"autocomplete";s:11:"family-name";s:8:"priority";s:2:"20";s:4:"type";s:4:"text";s:2:"id";s:17:"billing_last_name";s:10:"field_type";s:7:"billing";s:11:"placeholder";s:0:"";s:8:"cssready";a:1:{i:0;s:0:"";}s:7:"options";a:1:{i:0;s:1:"0";}}s:13:"billing_phone";a:12:{s:5:"label";s:8:"Telefone";s:4:"type";s:3:"tel";s:5:"class";a:1:{i:0;s:13:"form-row-wide";}s:2:"id";s:13:"billing_phone";s:10:"field_type";s:7:"billing";s:8:"validate";a:1:{i:0;s:5:"phone";}s:11:"placeholder";s:0:"";s:12:"autocomplete";s:3:"tel";s:8:"priority";s:3:"100";s:8:"cssready";a:1:{i:0;s:0:"";}s:7:"options";a:1:{i:0;s:1:"0";}s:8:"required";s:4:"true";}s:13:"billing_email";a:12:{s:5:"label";s:5:"Email";s:8:"required";s:4:"true";s:4:"type";s:5:"email";s:5:"class";a:1:{i:0;s:13:"form-row-wide";}s:8:"validate";a:1:{i:0;s:5:"email";}s:12:"autocomplete";s:14:"email username";s:8:"priority";s:3:"110";s:2:"id";s:13:"billing_email";s:10:"field_type";s:7:"billing";s:11:"placeholder";s:0:"";s:8:"cssready";a:1:{i:0;s:0:"";}s:7:"options";a:1:{i:0;s:1:"0";}}}s:8:"shipping";a:4:{s:18:"shipping_address_1";a:10:{s:5:"label";s:6:"Morada";s:11:"placeholder";s:6:"Morada";s:8:"required";b:1;s:5:"class";a:2:{i:0;s:13:"form-row-wide";i:1;s:13:"address-field";}s:12:"autocomplete";s:13:"address-line1";s:8:"priority";i:50;s:4:"type";s:4:"text";s:8:"cssready";a:0:{}s:2:"id";s:18:"shipping_address_1";s:13:"address_group";b:1;}s:13:"shipping_city";a:10:{s:5:"label";s:10:"Localidade";s:8:"required";b:1;s:5:"class";a:2:{i:0;s:13:"form-row-wide";i:1;s:13:"address-field";}s:12:"autocomplete";s:14:"address-level2";s:8:"priority";i:70;s:4:"type";s:4:"text";s:8:"cssready";a:0:{}s:11:"placeholder";s:10:"Localidade";s:2:"id";s:13:"shipping_city";s:13:"address_group";b:1;}s:17:"shipping_postcode";a:11:{s:5:"label";s:14:"Código Postal";s:8:"required";b:1;s:5:"class";a:2:{i:0;s:13:"form-row-wide";i:1;s:13:"address-field";}s:8:"validate";a:1:{i:0;s:8:"postcode";}s:12:"autocomplete";s:11:"postal-code";s:8:"priority";i:90;s:4:"type";s:4:"text";s:8:"cssready";a:0:{}s:11:"placeholder";s:14:"Código postal";s:2:"id";s:17:"shipping_postcode";s:13:"address_group";b:1;}s:16:"shipping_country";a:10:{s:4:"type";s:7:"country";s:5:"label";s:5:"País";s:8:"required";b:1;s:5:"class";a:3:{i:0;s:13:"form-row-wide";i:1;s:13:"address-field";i:2;s:23:"update_totals_on_change";}s:12:"autocomplete";s:7:"country";s:8:"priority";i:40;s:8:"cssready";a:0:{}s:11:"placeholder";s:5:"País";s:2:"id";s:16:"shipping_country";s:13:"address_group";b:1;}}}s:31:"_wfacp_product_switcher_setting";a:3:{s:8:"products";a:5:{s:19:"wfacp_5d432d17ab485";a:6:{s:5:"title";s:22:"FlexiCovers 6 Unidades";s:13:"you_save_text";s:45:"DESCONTO DE 50% JÁ APLICADO + PORTES GRÁTIS";s:14:"whats_included";s:0:"";s:13:"enable_delete";s:5:"false";s:9:"old_title";s:48:"FlexiCovers - Super Flexible Silicon Food Covers";s:21:"whats_include_heading";s:48:"FlexiCovers - Super Flexible Silicon Food Covers";}s:19:"wfacp_5d432d2429193";a:6:{s:5:"title";s:23:"FlexiCovers 12 Unidades";s:13:"you_save_text";s:45:"DESCONTO DE 50% JÁ APLICADO + PORTES GRÁTIS";s:14:"whats_included";s:0:"";s:13:"enable_delete";s:5:"false";s:9:"old_title";s:48:"FlexiCovers - Super Flexible Silicon Food Covers";s:21:"whats_include_heading";s:48:"FlexiCovers - Super Flexible Silicon Food Covers";}s:19:"wfacp_5d432d33d5eea";a:6:{s:5:"title";s:23:"FlexiCovers 18 Unidades";s:13:"you_save_text";s:45:"DESCONTO DE 50% JÁ APLICADO + PORTES GRÁTIS";s:14:"whats_included";s:0:"";s:13:"enable_delete";s:5:"false";s:9:"old_title";s:48:"FlexiCovers - Super Flexible Silicon Food Covers";s:21:"whats_include_heading";s:48:"FlexiCovers - Super Flexible Silicon Food Covers";}s:19:"wfacp_5d432d412fc26";a:6:{s:5:"title";s:23:"FlexiCovers 24 Unidades";s:13:"you_save_text";s:45:"DESCONTO DE 50% JÁ APLICADO + PORTES GRÁTIS";s:14:"whats_included";s:0:"";s:13:"enable_delete";s:5:"false";s:9:"old_title";s:48:"FlexiCovers - Super Flexible Silicon Food Covers";s:21:"whats_include_heading";s:48:"FlexiCovers - Super Flexible Silicon Food Covers";}s:19:"wfacp_5d432d4d3fbb5";a:6:{s:5:"title";s:23:"FlexiCovers 30 Unidades";s:13:"you_save_text";s:45:"DESCONTO DE 50% JÁ APLICADO + PORTES GRÁTIS";s:14:"whats_included";s:0:"";s:13:"enable_delete";s:5:"false";s:9:"old_title";s:48:"FlexiCovers - Super Flexible Silicon Food Covers";s:21:"whats_include_heading";s:48:"FlexiCovers - Super Flexible Silicon Food Covers";}}s:16:"default_products";s:19:"wfacp_5d432d17ab485";s:8:"settings";a:15:{s:13:"header_script";s:2651:"<style>
+
+
+
+.discount_circle_text {
+    flex: 1;
+    padding: 0 17.6px;
+}
+.discount_circle_inner {
+    width: 85%;
+    height: 85%;
+    border: 2px dashed #fff;
+    position: absolute;
+    border-radius: 100%;
+    -webkit-animation: spin 12s linear infinite;
+    animation: spin 12s linear infinite;
+}
+.discount_circle {
+    width: 110px;
+    height: 110px;
+    background-color: #d82828;
+    border-radius: 100%;
+    justify-content: center;
+    position: relative;
+    font-size: 28px;
+    color: #fff;
+    font-weight: 700;
+    letter-spacing: 1px;
+    line-height: 110%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+
+
+/* CSS do DISCOUNT */
+
+.raw-complete {
+    border: 3px dashed red;
+    overflow: auto;
+}
+.column-left {
+    padding: 10px;
+    float: left;
+}
+.column-right {
+    text-align: center;
+    padding: 10px;
+}
+.discount h3 {
+    font-family: 'Noto Sans', sans-serif !important;
+    font-size: 20px;
+    font-weight: 700;
+    color: #d82828;
+}
+.discount h4 {
+    font-family: 'Noto Sans', sans-serif !important;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+
+
+
+
+/* CSS to TIMER */
+.wfacp-comm-title none{
+display: none;
+}
+.timer {
+  
+    /* margin-top: 23px; */
+    /* margin-bottom: 30px; */
+    margin-right: 0px;
+    border-radius: 0;
+    background-color: #ffeb3b1a;
+    padding: 20px 20px 12px;
+    border: 1px dashed #FFC107;
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+.timer p{
+    font-weight: bolder;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 16px;
+}
+.sec-1 h2{
+    display: none;
+}
+.text-center {
+    text-align: center;
+}
+
+.text-center {
+    text-align: center;
+}
+#timer.clock.red {
+    color: red;
+}
+.raw .timer .text-center {
+max-width: 100%;
+    margin: 0 auto;
+    height: 150px;
+    border: 1px dashed orange;
+}
+</style>
+<link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.7.0/css/all.css' integrity='sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ' crossorigin='anonymous'>
+
+
+<script type="text/javascript">
+function startTimer(duration, display) {
+    var timer = duration, minutes, seconds;
+    setInterval(function () {
+        minutes = parseInt(timer / 60, 10);
+        seconds = parseInt(timer % 60, 10);
+
+        minutes = minutes < 10 ? "0" + minutes : minutes;
+        seconds = seconds < 10 ? "0" + seconds : seconds;
+
+        display.textContent = minutes + ":" + seconds;
+
+        if (--timer < 0) {
+            timer = duration;
+        }
+    }, 1000);
+}
+
+window.onload = function () {
+    var fiveMinutes = 60 * 7.5,
+        display = document.querySelector('#timer');
+    startTimer(fiveMinutes, display);
+};
+</script>
+";s:22:"hide_quantity_switcher";s:4:"true";s:15:"hide_quick_view";s:4:"true";s:13:"hide_you_save";s:4:"true";s:18:"enable_delete_item";s:5:"false";s:18:"hide_product_image";s:4:"true";s:30:"is_hide_additional_information";s:4:"true";s:28:"additional_information_title";s:29:"WHAT'S INCLUDED IN YOUR PLAN?";s:15:"hide_best_value";s:5:"false";s:18:"best_value_product";s:19:"wfacp_5d432d33d5eea";s:15:"best_value_text";s:12:"MAIS VENDIDO";s:19:"best_value_position";s:15:"top_left_corner";s:35:"enable_custom_name_in_order_summary";s:4:"true";s:25:"product_switcher_template";s:7:"default";s:15:"setting_migrate";s:5:"1.8.4";}}s:12:"_wp_old_slug";s:14:"flexicover-s02";}}
