@@ -1,0 +1,371 @@
+[2020-04-17 15:56:32.032189] [INFO] Running sync controller loop - With allotted time: 26.727030992508 seconds
+[2020-04-17 15:56:32.033472] [INFO] Initating with remote and local host with remaining time:26.725746154785
+[2020-04-17 15:56:36.867462] [INFO] Initation completed on: 4.8340170383453 seconds
+[2020-04-17 15:56:36.868934] [INFO] Ending sync controller loop - with remaining time: 21.890277147293
+[2020-04-17 15:56:37.036454] [INFO] Running sync controller loop - With allotted time: 26.842662096024 seconds
+[2020-04-17 15:56:37.037596] [INFO] Getting masterdata from source and target with remaining time:26.841516017914
+[2020-04-17 15:56:38.599208] [INFO] Completed masterdata on: 1.5616219043732 seconds
+[2020-04-17 15:56:38.611404] [INFO] Ending sync controller loop - with remaining time: 25.267717123032
+[2020-04-17 15:56:38.801122] [INFO] Running sync controller loop - With allotted time: 26.821898937225 seconds
+[2020-04-17 15:56:38.813571] [INFO] Ending sync controller loop - with remaining time: 26.809448957443
+[2020-04-17 15:56:38.998850] [INFO] Running sync controller loop - With allotted time: 26.824769973755 seconds
+[2020-04-17 15:56:39.000825] [INFO] Starting database synchronization loop with remaining time: 26.822792053223
+[2020-04-17 15:56:40.899569] [INFO] New table is started: wpnx_automatewoo_abandoned_carts and setting new default rows per sync: 500
+[2020-04-17 15:56:40.900775] [INFO] Marking table: wpnx_automatewoo_abandoned_carts as completed
+[2020-04-17 15:56:42.030718] [INFO] Database progress update: Total data: 0,0MB / 22,1MB - Total rows: 1 / 102.460
+[2020-04-17 15:56:42.044153] [INFO] New table is started: wpnx_automatewoo_customers and setting new default rows per sync: 500
+[2020-04-17 15:56:43.354807] [INFO] Database progress update: Total data: 0,0MB / 22,1MB - Total rows: 501 / 102.460
+[2020-04-17 15:56:44.783466] [INFO] Database progress update: Total data: 0,2MB / 22,1MB - Total rows: 1.026 / 102.460
+[2020-04-17 15:56:46.220892] [INFO] Database progress update: Total data: 0,2MB / 22,1MB - Total rows: 1.578 / 102.460
+[2020-04-17 15:56:47.652883] [INFO] Database progress update: Total data: 0,4MB / 22,1MB - Total rows: 2.158 / 102.460
+[2020-04-17 15:56:47.668053] [INFO] Marking table: wpnx_automatewoo_customers as completed
+[2020-04-17 15:56:48.878853] [INFO] Database progress update: Total data: 0,4MB / 22,1MB - Total rows: 2.420 / 102.460
+[2020-04-17 15:56:48.891671] [INFO] New table is started: wpnx_automatewoo_events and setting new default rows per sync: 500
+[2020-04-17 15:56:48.892442] [INFO] Marking table: wpnx_automatewoo_events as completed
+[2020-04-17 15:56:48.892725] [INFO] Database progress update: Total data: 0,4MB / 22,1MB - Total rows: 2.420 / 102.460
+[2020-04-17 15:56:48.905855] [INFO] New table is started: wpnx_automatewoo_guest_meta and setting new default rows per sync: 500
+[2020-04-17 15:56:51.115990] [INFO] Database progress update: Total data: 0,4MB / 22,1MB - Total rows: 2.920 / 102.460
+[2020-04-17 15:56:52.560551] [INFO] Database progress update: Total data: 0,7MB / 22,1MB - Total rows: 3.445 / 102.460
+[2020-04-17 15:56:54.096396] [INFO] Database progress update: Total data: 0,7MB / 22,1MB - Total rows: 3.997 / 102.460
+[2020-04-17 15:56:55.555037] [INFO] Database progress update: Total data: 0,9MB / 22,1MB - Total rows: 4.577 / 102.460
+[2020-04-17 15:56:57.001928] [INFO] Database progress update: Total data: 1,1MB / 22,1MB - Total rows: 5.186 / 102.460
+[2020-04-17 15:56:58.597776] [INFO] Database progress update: Total data: 1,1MB / 22,1MB - Total rows: 5.826 / 102.460
+[2020-04-17 15:57:00.235632] [INFO] Database progress update: Total data: 1,3MB / 22,1MB - Total rows: 6.498 / 102.460
+[2020-04-17 15:57:02.078436] [INFO] Database progress update: Total data: 1,5MB / 22,1MB - Total rows: 7.204 / 102.460
+[2020-04-17 15:57:03.693125] [INFO] Database progress update: Total data: 1,5MB / 22,1MB - Total rows: 7.946 / 102.460
+[2020-04-17 15:57:03.706549] [INFO] Ending database synchronization loop with remaining time: 2.117073059082 seconds
+[2020-04-17 15:57:03.719542] [INFO] Ending sync controller loop - with remaining time: 2.1040799617767
+[2020-04-17 15:57:03.907111] [INFO] Running sync controller loop - With allotted time: 26.823310136795 seconds
+[2020-04-17 15:57:03.907536] [INFO] Starting database synchronization loop with remaining time: 26.822874069214
+[2020-04-17 15:57:05.250966] [INFO] Database progress update: Total data: 1,8MB / 22,1MB - Total rows: 8.726 / 102.460
+[2020-04-17 15:57:07.095366] [INFO] Database progress update: Total data: 2,0MB / 22,1MB - Total rows: 9.545 / 102.460
+[2020-04-17 15:57:08.831903] [INFO] Database progress update: Total data: 2,2MB / 22,1MB - Total rows: 10.405 / 102.460
+[2020-04-17 15:57:08.849240] [INFO] Marking table: wpnx_automatewoo_guest_meta as completed
+[2020-04-17 15:57:10.572227] [INFO] Database progress update: Total data: 2,2MB / 22,1MB - Total rows: 11.046 / 102.460
+[2020-04-17 15:57:10.584816] [INFO] New table is started: wpnx_automatewoo_guests and setting new default rows per sync: 500
+[2020-04-17 15:57:12.514849] [INFO] Database progress update: Total data: 2,4MB / 22,1MB - Total rows: 11.546 / 102.460
+[2020-04-17 15:57:13.899186] [INFO] Database progress update: Total data: 2,4MB / 22,1MB - Total rows: 12.071 / 102.460
+[2020-04-17 15:57:15.790588] [INFO] Database progress update: Total data: 2,7MB / 22,1MB - Total rows: 12.623 / 102.460
+[2020-04-17 15:57:17.682561] [INFO] Database progress update: Total data: 2,7MB / 22,1MB - Total rows: 13.203 / 102.460
+[2020-04-17 15:57:17.698187] [INFO] Marking table: wpnx_automatewoo_guests as completed
+[2020-04-17 15:57:19.368368] [INFO] Database progress update: Total data: 2,9MB / 22,1MB - Total rows: 13.460 / 102.460
+[2020-04-17 15:57:19.381788] [INFO] New table is started: wpnx_automatewoo_log_meta and setting new default rows per sync: 500
+[2020-04-17 15:57:20.872554] [INFO] Database progress update: Total data: 2,9MB / 22,1MB - Total rows: 13.960 / 102.460
+[2020-04-17 15:57:22.337110] [INFO] Database progress update: Total data: 3,1MB / 22,1MB - Total rows: 14.485 / 102.460
+[2020-04-17 15:57:23.824013] [INFO] Database progress update: Total data: 3,1MB / 22,1MB - Total rows: 15.037 / 102.460
+[2020-04-17 15:57:25.017673] [INFO] Database progress update: Total data: 3,3MB / 22,1MB - Total rows: 15.617 / 102.460
+[2020-04-17 15:57:26.333762] [INFO] Database progress update: Total data: 3,3MB / 22,1MB - Total rows: 16.226 / 102.460
+[2020-04-17 15:57:27.866703] [INFO] Database progress update: Total data: 3,5MB / 22,1MB - Total rows: 16.866 / 102.460
+[2020-04-17 15:57:28.996766] [INFO] Database progress update: Total data: 3,8MB / 22,1MB - Total rows: 17.538 / 102.460
+[2020-04-17 15:57:30.629385] [INFO] Database progress update: Total data: 3,8MB / 22,1MB - Total rows: 18.244 / 102.460
+[2020-04-17 15:57:30.643280] [INFO] Ending database synchronization loop with remaining time: 0.087141990661621 seconds
+[2020-04-17 15:57:30.656860] [INFO] Ending sync controller loop - with remaining time: 0.073561191558838
+[2020-04-17 15:57:30.843161] [INFO] Running sync controller loop - With allotted time: 26.82516002655 seconds
+[2020-04-17 15:57:30.843465] [INFO] Starting database synchronization loop with remaining time: 26.824846982956
+[2020-04-17 15:57:32.571837] [INFO] Database progress update: Total data: 4,0MB / 22,1MB - Total rows: 18.986 / 102.460
+[2020-04-17 15:57:34.415662] [INFO] Database progress update: Total data: 4,2MB / 22,1MB - Total rows: 19.766 / 102.460
+[2020-04-17 15:57:35.746521] [INFO] Database progress update: Total data: 4,4MB / 22,1MB - Total rows: 20.585 / 102.460
+[2020-04-17 15:57:37.385836] [INFO] Database progress update: Total data: 4,4MB / 22,1MB - Total rows: 21.445 / 102.460
+[2020-04-17 15:57:38.813241] [INFO] Database progress update: Total data: 4,6MB / 22,1MB - Total rows: 22.348 / 102.460
+[2020-04-17 15:57:40.247566] [INFO] Database progress update: Total data: 4,9MB / 22,1MB - Total rows: 23.297 / 102.460
+[2020-04-17 15:57:41.576555] [INFO] Database progress update: Total data: 5,1MB / 22,1MB - Total rows: 24.294 / 102.460
+[2020-04-17 15:57:44.550748] [INFO] Database progress update: Total data: 5,3MB / 22,1MB - Total rows: 25.341 / 102.460
+[2020-04-17 15:57:47.516989] [INFO] Database progress update: Total data: 5,5MB / 22,1MB - Total rows: 26.441 / 102.460
+[2020-04-17 15:57:50.955442] [INFO] Database progress update: Total data: 5,8MB / 22,1MB - Total rows: 27.596 / 102.460
+[2020-04-17 15:57:54.164778] [INFO] Database progress update: Total data: 6,2MB / 22,1MB - Total rows: 28.809 / 102.460
+[2020-04-17 15:57:54.178035] [INFO] Ending database synchronization loop with remaining time: 3.4902868270874 seconds
+[2020-04-17 15:57:54.190632] [INFO] Ending sync controller loop - with remaining time: 3.4776878356934
+[2020-04-17 15:57:54.372172] [INFO] Running sync controller loop - With allotted time: 26.829247951508 seconds
+[2020-04-17 15:57:54.372498] [INFO] Starting database synchronization loop with remaining time: 26.82891201973
+[2020-04-17 15:57:57.728049] [INFO] Database progress update: Total data: 6,4MB / 22,1MB - Total rows: 30.083 / 102.460
+[2020-04-17 15:58:00.302192] [INFO] Database progress update: Total data: 6,6MB / 22,1MB - Total rows: 31.421 / 102.460
+[2020-04-17 15:58:03.290850] [INFO] Database progress update: Total data: 7,1MB / 22,1MB - Total rows: 32.826 / 102.460
+[2020-04-17 15:58:06.629462] [INFO] Database progress update: Total data: 7,3MB / 22,1MB - Total rows: 34.302 / 102.460
+[2020-04-17 15:58:09.719585] [INFO] Database progress update: Total data: 7,5MB / 22,1MB - Total rows: 35.852 / 102.460
+[2020-04-17 15:58:13.098669] [INFO] Database progress update: Total data: 8,0MB / 22,1MB - Total rows: 37.480 / 102.460
+[2020-04-17 15:58:16.608608] [INFO] Database progress update: Total data: 8,4MB / 22,1MB - Total rows: 39.190 / 102.460
+[2020-04-17 15:58:16.622338] [INFO] Ending database synchronization loop with remaining time: 4.5790829658508 seconds
+[2020-04-17 15:58:16.635207] [INFO] Ending sync controller loop - with remaining time: 4.5662150382996
+[2020-04-17 15:58:16.826878] [INFO] Running sync controller loop - With allotted time: 26.82014298439 seconds
+[2020-04-17 15:58:16.827165] [INFO] Starting database synchronization loop with remaining time: 26.819847106934
+[2020-04-17 15:58:20.367999] [INFO] Database progress update: Total data: 8,9MB / 22,1MB - Total rows: 40.986 / 102.460
+[2020-04-17 15:58:23.881417] [INFO] Database progress update: Total data: 9,1MB / 22,1MB - Total rows: 42.872 / 102.460
+[2020-04-17 15:58:27.777332] [INFO] Database progress update: Total data: 9,5MB / 22,1MB - Total rows: 44.853 / 102.460
+[2020-04-17 15:58:32.744598] [INFO] Database progress update: Total data: 10,0MB / 22,1MB - Total rows: 46.934 / 102.460
+[2020-04-17 15:58:37.961057] [INFO] Database progress update: Total data: 10,4MB / 22,1MB - Total rows: 49.120 / 102.460
+[2020-04-17 15:58:37.974436] [INFO] Ending database synchronization loop with remaining time: 5.6725859642029 seconds
+[2020-04-17 15:58:37.987181] [INFO] Ending sync controller loop - with remaining time: 5.6598401069641
+[2020-04-17 15:58:38.167292] [INFO] Running sync controller loop - With allotted time: 26.830226898193 seconds
+[2020-04-17 15:58:38.167633] [INFO] Starting database synchronization loop with remaining time: 26.829879045486
+[2020-04-17 15:58:42.543731] [INFO] Database progress update: Total data: 11,1MB / 22,1MB - Total rows: 51.416 / 102.460
+[2020-04-17 15:58:47.540952] [INFO] Database progress update: Total data: 11,5MB / 22,1MB - Total rows: 53.827 / 102.460
+[2020-04-17 15:58:53.635602] [INFO] Database progress update: Total data: 12,2MB / 22,1MB - Total rows: 56.359 / 102.460
+[2020-04-17 15:58:58.432741] [INFO] Database progress update: Total data: 12,6MB / 22,1MB - Total rows: 58.638 / 102.460
+[2020-04-17 15:58:58.445769] [INFO] Ending database synchronization loop with remaining time: 6.5517549514771 seconds
+[2020-04-17 15:58:58.459024] [INFO] Ending sync controller loop - with remaining time: 6.5384960174561
+[2020-04-17 15:58:58.643702] [INFO] Running sync controller loop - With allotted time: 26.82691693306 seconds
+[2020-04-17 15:58:58.644046] [INFO] Starting database synchronization loop with remaining time: 26.826564788818
+[2020-04-17 15:59:03.260684] [INFO] Database progress update: Total data: 13,1MB / 22,1MB - Total rows: 61.031 / 102.460
+[2020-04-17 15:59:08.026337] [INFO] Database progress update: Total data: 13,7MB / 22,1MB - Total rows: 63.544 / 102.460
+[2020-04-17 15:59:08.050772] [INFO] Marking table: wpnx_automatewoo_log_meta as completed
+[2020-04-17 15:59:11.631992] [INFO] Database progress update: Total data: 13,9MB / 22,1MB - Total rows: 65.410 / 102.460
+[2020-04-17 15:59:11.646125] [INFO] New table is started: wpnx_automatewoo_logs and setting new default rows per sync: 500
+[2020-04-17 15:59:12.614477] [INFO] Database progress update: Total data: 14,2MB / 22,1MB - Total rows: 65.910 / 102.460
+[2020-04-17 15:59:13.991840] [INFO] Database progress update: Total data: 14,2MB / 22,1MB - Total rows: 66.435 / 102.460
+[2020-04-17 15:59:15.725023] [INFO] Database progress update: Total data: 14,4MB / 22,1MB - Total rows: 66.987 / 102.460
+[2020-04-17 15:59:16.794881] [INFO] Database progress update: Total data: 14,4MB / 22,1MB - Total rows: 67.567 / 102.460
+[2020-04-17 15:59:18.283124] [INFO] Database progress update: Total data: 14,6MB / 22,1MB - Total rows: 68.176 / 102.460
+[2020-04-17 15:59:19.729117] [INFO] Database progress update: Total data: 14,8MB / 22,1MB - Total rows: 68.816 / 102.460
+[2020-04-17 15:59:21.147964] [INFO] Database progress update: Total data: 14,8MB / 22,1MB - Total rows: 69.488 / 102.460
+[2020-04-17 15:59:22.478518] [INFO] Database progress update: Total data: 15,1MB / 22,1MB - Total rows: 70.194 / 102.460
+[2020-04-17 15:59:23.920451] [INFO] Database progress update: Total data: 15,3MB / 22,1MB - Total rows: 70.936 / 102.460
+[2020-04-17 15:59:23.933959] [INFO] Ending database synchronization loop with remaining time: 1.5366637706757 seconds
+[2020-04-17 15:59:23.946656] [INFO] Ending sync controller loop - with remaining time: 1.5239639282227
+[2020-04-17 15:59:24.133908] [INFO] Running sync controller loop - With allotted time: 26.823513031006 seconds
+[2020-04-17 15:59:24.134255] [INFO] Starting database synchronization loop with remaining time: 26.823153972626
+[2020-04-17 15:59:25.139801] [INFO] Database progress update: Total data: 15,3MB / 22,1MB - Total rows: 71.716 / 102.460
+[2020-04-17 15:59:26.673699] [INFO] Database progress update: Total data: 15,5MB / 22,1MB - Total rows: 72.535 / 102.460
+[2020-04-17 15:59:27.760523] [INFO] Database progress update: Total data: 15,7MB / 22,1MB - Total rows: 73.395 / 102.460
+[2020-04-17 15:59:28.925831] [INFO] Database progress update: Total data: 15,9MB / 22,1MB - Total rows: 74.298 / 102.460
+[2020-04-17 15:59:30.461112] [INFO] Database progress update: Total data: 16,2MB / 22,1MB - Total rows: 75.247 / 102.460
+[2020-04-17 15:59:32.012890] [INFO] Database progress update: Total data: 16,4MB / 22,1MB - Total rows: 76.244 / 102.460
+[2020-04-17 15:59:34.959927] [INFO] Database progress update: Total data: 16,6MB / 22,1MB - Total rows: 77.291 / 102.460
+[2020-04-17 15:59:34.977674] [INFO] Marking table: wpnx_automatewoo_logs as completed
+[2020-04-17 15:59:36.601967] [INFO] Database progress update: Total data: 16,8MB / 22,1MB - Total rows: 78.219 / 102.460
+[2020-04-17 15:59:36.614815] [INFO] New table is started: wpnx_automatewoo_queue and setting new default rows per sync: 500
+[2020-04-17 15:59:36.615608] [INFO] Marking table: wpnx_automatewoo_queue as completed
+[2020-04-17 15:59:36.615970] [INFO] Database progress update: Total data: 16,8MB / 22,1MB - Total rows: 78.219 / 102.460
+[2020-04-17 15:59:36.628855] [INFO] New table is started: wpnx_automatewoo_queue_meta and setting new default rows per sync: 500
+[2020-04-17 15:59:36.629667] [INFO] Marking table: wpnx_automatewoo_queue_meta as completed
+[2020-04-17 15:59:36.629925] [INFO] Database progress update: Total data: 16,8MB / 22,1MB - Total rows: 78.219 / 102.460
+[2020-04-17 15:59:36.642466] [INFO] New table is started: wpnx_automatewoo_unsubscribes and setting new default rows per sync: 500
+[2020-04-17 15:59:36.643241] [INFO] Marking table: wpnx_automatewoo_unsubscribes as completed
+[2020-04-17 15:59:36.643642] [INFO] Database progress update: Total data: 16,8MB / 22,1MB - Total rows: 78.219 / 102.460
+[2020-04-17 15:59:36.656116] [INFO] New table is started: wpnx_bwf_contact and setting new default rows per sync: 500
+[2020-04-17 15:59:36.658486] [INFO] Marking table: wpnx_bwf_contact as completed
+[2020-04-17 15:59:37.931933] [INFO] Database progress update: Total data: 16,8MB / 22,1MB - Total rows: 78.316 / 102.460
+[2020-04-17 15:59:37.945930] [INFO] New table is started: wpnx_bwf_contact_meta and setting new default rows per sync: 500
+[2020-04-17 15:59:37.950941] [INFO] Marking table: wpnx_bwf_contact_meta as completed
+[2020-04-17 15:59:39.214096] [INFO] Database progress update: Total data: 16,8MB / 22,1MB - Total rows: 78.698 / 102.460
+[2020-04-17 15:59:39.226871] [INFO] New table is started: wpnx_bwf_wc_customers and setting new default rows per sync: 500
+[2020-04-17 15:59:39.228870] [INFO] Marking table: wpnx_bwf_wc_customers as completed
+[2020-04-17 15:59:40.592486] [INFO] Database progress update: Total data: 16,8MB / 22,1MB - Total rows: 78.754 / 102.460
+[2020-04-17 15:59:40.605730] [INFO] New table is started: wpnx_commentmeta and setting new default rows per sync: 500
+[2020-04-17 15:59:40.607130] [INFO] Marking table: wpnx_commentmeta as completed
+[2020-04-17 15:59:41.512703] [INFO] Database progress update: Total data: 16,8MB / 22,1MB - Total rows: 78.781 / 102.460
+[2020-04-17 15:59:41.527065] [INFO] New table is started: wpnx_comments and setting new default rows per sync: 500
+[2020-04-17 15:59:41.531558] [INFO] Marking table: wpnx_comments as completed
+[2020-04-17 15:59:42.944148] [INFO] Database progress update: Total data: 17,0MB / 22,1MB - Total rows: 79.175 / 102.460
+[2020-04-17 15:59:42.958625] [INFO] New table is started: wpnx_duplicator_pro_entities and setting new default rows per sync: 500
+[2020-04-17 15:59:42.959908] [INFO] Marking table: wpnx_duplicator_pro_entities as completed
+[2020-04-17 15:59:43.969248] [INFO] Database progress update: Total data: 17,0MB / 22,1MB - Total rows: 79.180 / 102.460
+[2020-04-17 15:59:43.982094] [INFO] New table is started: wpnx_duplicator_pro_packages and setting new default rows per sync: 20
+[2020-04-17 15:59:43.984188] [INFO] Marking table: wpnx_duplicator_pro_packages as completed
+[2020-04-17 15:59:45.299231] [INFO] Database progress update: Total data: 17,0MB / 22,1MB - Total rows: 79.181 / 102.460
+[2020-04-17 15:59:45.312340] [INFO] New table is started: wpnx_ionic_ecommerce_all_notification and setting new default rows per sync: 500
+[2020-04-17 15:59:45.313189] [INFO] Marking table: wpnx_ionic_ecommerce_all_notification as completed
+[2020-04-17 15:59:45.313529] [INFO] Database progress update: Total data: 17,0MB / 22,1MB - Total rows: 79.181 / 102.460
+[2020-04-17 15:59:45.326500] [INFO] New table is started: wpnx_ionic_ecommerce_banner_settings and setting new default rows per sync: 500
+[2020-04-17 15:59:45.327259] [INFO] Marking table: wpnx_ionic_ecommerce_banner_settings as completed
+[2020-04-17 15:59:45.327515] [INFO] Database progress update: Total data: 17,0MB / 22,1MB - Total rows: 79.181 / 102.460
+[2020-04-17 15:59:45.340464] [INFO] New table is started: wpnx_ionic_ecommerce_data and setting new default rows per sync: 500
+[2020-04-17 15:59:45.342407] [INFO] Marking table: wpnx_ionic_ecommerce_data as completed
+[2020-04-17 15:59:46.628839] [INFO] Database progress update: Total data: 17,0MB / 22,1MB - Total rows: 79.183 / 102.460
+[2020-04-17 15:59:46.641743] [INFO] New table is started: wpnx_ionic_ecommerce_notification_devices and setting new default rows per sync: 500
+[2020-04-17 15:59:46.642441] [INFO] Marking table: wpnx_ionic_ecommerce_notification_devices as completed
+[2020-04-17 15:59:46.642668] [INFO] Database progress update: Total data: 17,0MB / 22,1MB - Total rows: 79.183 / 102.460
+[2020-04-17 15:59:46.655010] [INFO] New table is started: wpnx_links and setting new default rows per sync: 500
+[2020-04-17 15:59:46.655882] [INFO] Marking table: wpnx_links as completed
+[2020-04-17 15:59:46.656154] [INFO] Database progress update: Total data: 17,0MB / 22,1MB - Total rows: 79.183 / 102.460
+[2020-04-17 15:59:46.668711] [INFO] New table is started: wpnx_mobiconnector_data_api and setting new default rows per sync: 500
+[2020-04-17 15:59:46.669462] [INFO] Marking table: wpnx_mobiconnector_data_api as completed
+[2020-04-17 15:59:46.669711] [INFO] Database progress update: Total data: 17,0MB / 22,1MB - Total rows: 79.183 / 102.460
+[2020-04-17 15:59:46.682176] [INFO] New table is started: wpnx_mobiconnector_data_notification and setting new default rows per sync: 500
+[2020-04-17 15:59:46.682982] [INFO] Marking table: wpnx_mobiconnector_data_notification as completed
+[2020-04-17 15:59:46.683379] [INFO] Database progress update: Total data: 17,0MB / 22,1MB - Total rows: 79.183 / 102.460
+[2020-04-17 15:59:46.695795] [INFO] New table is started: wpnx_mobiconnector_data_player and setting new default rows per sync: 500
+[2020-04-17 15:59:46.696558] [INFO] Marking table: wpnx_mobiconnector_data_player as completed
+[2020-04-17 15:59:46.696819] [INFO] Database progress update: Total data: 17,0MB / 22,1MB - Total rows: 79.183 / 102.460
+[2020-04-17 15:59:46.709978] [INFO] New table is started: wpnx_mobiconnector_manage_device and setting new default rows per sync: 500
+[2020-04-17 15:59:46.710732] [INFO] Marking table: wpnx_mobiconnector_manage_device as completed
+[2020-04-17 15:59:46.710967] [INFO] Database progress update: Total data: 17,0MB / 22,1MB - Total rows: 79.183 / 102.460
+[2020-04-17 15:59:46.723889] [INFO] New table is started: wpnx_mobiconnector_sessions and setting new default rows per sync: 11
+[2020-04-17 15:59:48.408284] [INFO] Database progress update: Total data: 17,0MB / 22,1MB - Total rows: 79.194 / 102.460
+[2020-04-17 15:59:50.725717] [INFO] Database progress update: Total data: 17,0MB / 22,1MB - Total rows: 79.206 / 102.460
+[2020-04-17 15:59:50.738706] [INFO] Ending database synchronization loop with remaining time: 0.21871614456177 seconds
+[2020-04-17 15:59:50.751999] [INFO] Ending sync controller loop - with remaining time: 0.20542097091675
+[2020-04-17 15:59:50.930517] [INFO] Running sync controller loop - With allotted time: 26.832803010941 seconds
+[2020-04-17 15:59:50.930879] [INFO] Starting database synchronization loop with remaining time: 26.83243393898
+[2020-04-17 15:59:51.728268] [INFO] Database progress update: Total data: 17,0MB / 22,1MB - Total rows: 79.219 / 102.460
+[2020-04-17 15:59:53.139096] [INFO] Database progress update: Total data: 17,0MB / 22,1MB - Total rows: 79.233 / 102.460
+[2020-04-17 15:59:55.227294] [INFO] Database progress update: Total data: 17,0MB / 22,1MB - Total rows: 79.248 / 102.460
+[2020-04-17 15:59:57.446447] [INFO] Database progress update: Total data: 17,0MB / 22,1MB - Total rows: 79.264 / 102.460
+[2020-04-17 15:59:57.482157] [INFO] Marking table: wpnx_mobiconnector_sessions as completed
+[2020-04-17 16:00:00.343329] [INFO] Database progress update: Total data: 17,0MB / 22,1MB - Total rows: 79.279 / 102.460
+[2020-04-17 16:00:00.357884] [INFO] New table is started: wpnx_mobiconnector_social_users and setting new default rows per sync: 500
+[2020-04-17 16:00:00.358706] [INFO] Marking table: wpnx_mobiconnector_social_users as completed
+[2020-04-17 16:00:00.358969] [INFO] Database progress update: Total data: 17,0MB / 22,1MB - Total rows: 79.279 / 102.460
+[2020-04-17 16:00:00.371462] [INFO] New table is started: wpnx_mobiconnector_views and setting new default rows per sync: 500
+[2020-04-17 16:00:00.373192] [INFO] Marking table: wpnx_mobiconnector_views as completed
+[2020-04-17 16:00:01.567909] [INFO] Database progress update: Total data: 17,0MB / 22,1MB - Total rows: 79.282 / 102.460
+[2020-04-17 16:00:01.582041] [INFO] New table is started: wpnx_options and setting new default rows per sync: 500
+[2020-04-17 16:00:03.534145] [INFO] Database progress update: Total data: 17,0MB / 22,1MB - Total rows: 79.782 / 102.460
+[2020-04-17 16:00:03.553795] [INFO] Marking table: wpnx_options as completed
+[2020-04-17 16:00:05.996172] [INFO] Database progress update: Total data: 17,3MB / 22,1MB - Total rows: 80.212 / 102.460
+[2020-04-17 16:00:06.009856] [INFO] New table is started: wpnx_postmeta and setting new default rows per sync: 500
+[2020-04-17 16:00:07.759221] [INFO] Database progress update: Total data: 17,3MB / 22,1MB - Total rows: 80.712 / 102.460
+[2020-04-17 16:00:09.859259] [INFO] Database progress update: Total data: 17,5MB / 22,1MB - Total rows: 81.237 / 102.460
+[2020-04-17 16:00:11.476214] [INFO] Database progress update: Total data: 17,5MB / 22,1MB - Total rows: 81.789 / 102.460
+[2020-04-17 16:00:13.134237] [INFO] Database progress update: Total data: 17,7MB / 22,1MB - Total rows: 82.369 / 102.460
+[2020-04-17 16:00:14.276147] [INFO] Database progress update: Total data: 17,7MB / 22,1MB - Total rows: 82.978 / 102.460
+[2020-04-17 16:00:15.284534] [INFO] Database progress update: Total data: 17,9MB / 22,1MB - Total rows: 83.618 / 102.460
+[2020-04-17 16:00:16.680273] [INFO] Database progress update: Total data: 18,2MB / 22,1MB - Total rows: 84.290 / 102.460
+[2020-04-17 16:00:16.694083] [INFO] Ending database synchronization loop with remaining time: 1.0692398548126 seconds
+[2020-04-17 16:00:16.707890] [INFO] Ending sync controller loop - with remaining time: 1.055431842804
+[2020-04-17 16:00:16.890741] [INFO] Running sync controller loop - With allotted time: 26.828980207443 seconds
+[2020-04-17 16:00:16.891051] [INFO] Starting database synchronization loop with remaining time: 26.828659057617
+[2020-04-17 16:00:18.252651] [INFO] Database progress update: Total data: 18,2MB / 22,1MB - Total rows: 84.996 / 102.460
+[2020-04-17 16:00:19.683581] [INFO] Database progress update: Total data: 18,4MB / 22,1MB - Total rows: 85.738 / 102.460
+[2020-04-17 16:00:22.062825] [INFO] Database progress update: Total data: 18,6MB / 22,1MB - Total rows: 86.518 / 102.460
+[2020-04-17 16:00:23.787948] [INFO] Database progress update: Total data: 18,8MB / 22,1MB - Total rows: 87.337 / 102.460
+[2020-04-17 16:00:25.205156] [INFO] Database progress update: Total data: 19,0MB / 22,1MB - Total rows: 88.197 / 102.460
+[2020-04-17 16:00:26.644982] [INFO] Database progress update: Total data: 19,0MB / 22,1MB - Total rows: 89.100 / 102.460
+[2020-04-17 16:00:28.894267] [INFO] Database progress update: Total data: 19,3MB / 22,1MB - Total rows: 90.049 / 102.460
+[2020-04-17 16:00:30.532631] [INFO] Database progress update: Total data: 19,5MB / 22,1MB - Total rows: 91.046 / 102.460
+[2020-04-17 16:00:33.502941] [INFO] Database progress update: Total data: 19,7MB / 22,1MB - Total rows: 92.093 / 102.460
+[2020-04-17 16:00:36.469522] [INFO] Database progress update: Total data: 19,9MB / 22,1MB - Total rows: 93.193 / 102.460
+[2020-04-17 16:00:38.930365] [INFO] Database progress update: Total data: 20,4MB / 22,1MB - Total rows: 94.348 / 102.460
+[2020-04-17 16:00:41.685638] [INFO] Database progress update: Total data: 20,6MB / 22,1MB - Total rows: 95.561 / 102.460
+[2020-04-17 16:00:41.699042] [INFO] Ending database synchronization loop with remaining time: 2.0206861495972 seconds
+[2020-04-17 16:00:41.712735] [INFO] Ending sync controller loop - with remaining time: 2.0069870948792
+[2020-04-17 16:00:41.897046] [INFO] Running sync controller loop - With allotted time: 26.827673912048 seconds
+[2020-04-17 16:00:41.897369] [INFO] Starting database synchronization loop with remaining time: 26.827341079712
+[2020-04-17 16:00:44.859951] [INFO] Database progress update: Total data: 20,8MB / 22,1MB - Total rows: 96.835 / 102.460
+[2020-04-17 16:00:47.763345] [INFO] Database progress update: Total data: 21,0MB / 22,1MB - Total rows: 98.173 / 102.460
+[2020-04-17 16:00:47.776755] [INFO] Marking table: wpnx_postmeta as completed
+[2020-04-17 16:00:48.522765] [INFO] Database progress update: Total data: 21,0MB / 22,1MB - Total rows: 98.213 / 102.460
+[2020-04-17 16:00:48.535936] [INFO] New table is started: wpnx_posts and setting new default rows per sync: 500
+[2020-04-17 16:00:51.079884] [INFO] Database progress update: Total data: 21,2MB / 22,1MB - Total rows: 98.713 / 102.460
+[2020-04-17 16:00:52.940939] [INFO] Database progress update: Total data: 21,2MB / 22,1MB - Total rows: 99.238 / 102.460
+[2020-04-17 16:00:54.477879] [INFO] Database progress update: Total data: 21,5MB / 22,1MB - Total rows: 99.790 / 102.460
+[2020-04-17 16:00:54.497052] [INFO] Marking table: wpnx_posts as completed
+[2020-04-17 16:00:56.242544] [INFO] Database progress update: Total data: 21,5MB / 22,1MB - Total rows: 100.109 / 102.460
+[2020-04-17 16:00:56.256249] [INFO] New table is started: wpnx_redirection_404 and setting new default rows per sync: 500
+[2020-04-17 16:00:56.257070] [INFO] Marking table: wpnx_redirection_404 as completed
+[2020-04-17 16:00:56.257334] [INFO] Database progress update: Total data: 21,5MB / 22,1MB - Total rows: 100.109 / 102.460
+[2020-04-17 16:00:56.271075] [INFO] New table is started: wpnx_redirection_groups and setting new default rows per sync: 500
+[2020-04-17 16:00:56.273043] [INFO] Marking table: wpnx_redirection_groups as completed
+[2020-04-17 16:00:57.447084] [INFO] Database progress update: Total data: 21,5MB / 22,1MB - Total rows: 100.111 / 102.460
+[2020-04-17 16:00:57.461504] [INFO] New table is started: wpnx_redirection_items and setting new default rows per sync: 500
+[2020-04-17 16:00:57.462763] [INFO] Marking table: wpnx_redirection_items as completed
+[2020-04-17 16:00:58.673378] [INFO] Database progress update: Total data: 21,5MB / 22,1MB - Total rows: 100.112 / 102.460
+[2020-04-17 16:00:58.686285] [INFO] New table is started: wpnx_redirection_logs and setting new default rows per sync: 500
+[2020-04-17 16:00:58.687081] [INFO] Marking table: wpnx_redirection_logs as completed
+[2020-04-17 16:00:58.687387] [INFO] Database progress update: Total data: 21,5MB / 22,1MB - Total rows: 100.112 / 102.460
+[2020-04-17 16:00:58.700080] [INFO] New table is started: wpnx_term_relationships and setting new default rows per sync: 500
+[2020-04-17 16:00:59.810720] [INFO] Database progress update: Total data: 21,7MB / 22,1MB - Total rows: 100.612 / 102.460
+[2020-04-17 16:00:59.824524] [INFO] Marking table: wpnx_term_relationships as completed
+[2020-04-17 16:01:01.035533] [INFO] Database progress update: Total data: 21,7MB / 22,1MB - Total rows: 100.656 / 102.460
+[2020-04-17 16:01:01.049193] [INFO] New table is started: wpnx_term_taxonomy and setting new default rows per sync: 500
+[2020-04-17 16:01:01.051481] [INFO] Marking table: wpnx_term_taxonomy as completed
+[2020-04-17 16:01:02.358309] [INFO] Database progress update: Total data: 21,7MB / 22,1MB - Total rows: 100.817 / 102.460
+[2020-04-17 16:01:02.372442] [INFO] New table is started: wpnx_termmeta and setting new default rows per sync: 500
+[2020-04-17 16:01:02.375306] [INFO] Marking table: wpnx_termmeta as completed
+[2020-04-17 16:01:03.689677] [INFO] Database progress update: Total data: 21,7MB / 22,1MB - Total rows: 100.964 / 102.460
+[2020-04-17 16:01:03.703092] [INFO] New table is started: wpnx_terms and setting new default rows per sync: 500
+[2020-04-17 16:01:03.704603] [INFO] Marking table: wpnx_terms as completed
+[2020-04-17 16:01:04.925444] [INFO] Database progress update: Total data: 21,7MB / 22,1MB - Total rows: 101.125 / 102.460
+[2020-04-17 16:01:04.938889] [INFO] New table is started: wpnx_usermeta and setting new default rows per sync: 500
+[2020-04-17 16:01:04.940409] [INFO] Marking table: wpnx_usermeta as completed
+[2020-04-17 16:01:06.140639] [INFO] Database progress update: Total data: 21,7MB / 22,1MB - Total rows: 101.206 / 102.460
+[2020-04-17 16:01:06.154568] [INFO] New table is started: wpnx_users and setting new default rows per sync: 500
+[2020-04-17 16:01:06.155252] [INFO] Marking table: wpnx_users as completed
+[2020-04-17 16:01:07.863643] [INFO] Database progress update: Total data: 21,7MB / 22,1MB - Total rows: 101.207 / 102.460
+[2020-04-17 16:01:07.876839] [INFO] Ending database synchronization loop with remaining time: 0.84788203239441 seconds
+[2020-04-17 16:01:07.889952] [INFO] Ending sync controller loop - with remaining time: 0.83476901054382
+[2020-04-17 16:01:08.071757] [INFO] Running sync controller loop - With allotted time: 26.829363822937 seconds
+[2020-04-17 16:01:08.072079] [INFO] Starting database synchronization loop with remaining time: 26.829031944275
+[2020-04-17 16:01:08.072427] [INFO] New table is started: wpnx_wc_download_log and setting new default rows per sync: 500
+[2020-04-17 16:01:08.073138] [INFO] Marking table: wpnx_wc_download_log as completed
+[2020-04-17 16:01:08.073812] [INFO] Database progress update: Total data: 21,7MB / 22,1MB - Total rows: 101.207 / 102.460
+[2020-04-17 16:01:08.086821] [INFO] New table is started: wpnx_wc_product_meta_lookup and setting new default rows per sync: 500
+[2020-04-17 16:01:08.089441] [INFO] Marking table: wpnx_wc_product_meta_lookup as completed
+[2020-04-17 16:01:09.733075] [INFO] Database progress update: Total data: 21,7MB / 22,1MB - Total rows: 101.406 / 102.460
+[2020-04-17 16:01:09.745831] [INFO] New table is started: wpnx_wc_webhooks and setting new default rows per sync: 500
+[2020-04-17 16:01:09.746537] [INFO] Marking table: wpnx_wc_webhooks as completed
+[2020-04-17 16:01:10.927311] [INFO] Database progress update: Total data: 21,7MB / 22,1MB - Total rows: 101.409 / 102.460
+[2020-04-17 16:01:10.940902] [INFO] New table is started: wpnx_woocommerce_api_keys and setting new default rows per sync: 500
+[2020-04-17 16:01:10.942424] [INFO] Marking table: wpnx_woocommerce_api_keys as completed
+[2020-04-17 16:01:12.102063] [INFO] Database progress update: Total data: 21,7MB / 22,1MB - Total rows: 101.412 / 102.460
+[2020-04-17 16:01:12.115008] [INFO] New table is started: wpnx_woocommerce_attribute_taxonomies and setting new default rows per sync: 500
+[2020-04-17 16:01:12.115957] [INFO] Marking table: wpnx_woocommerce_attribute_taxonomies as completed
+[2020-04-17 16:01:13.409459] [INFO] Database progress update: Total data: 21,7MB / 22,1MB - Total rows: 101.420 / 102.460
+[2020-04-17 16:01:13.424793] [INFO] New table is started: wpnx_woocommerce_downloadable_product_permissions and setting new default rows per sync: 500
+[2020-04-17 16:01:13.425745] [INFO] Marking table: wpnx_woocommerce_downloadable_product_permissions as completed
+[2020-04-17 16:01:13.426025] [INFO] Database progress update: Total data: 21,7MB / 22,1MB - Total rows: 101.420 / 102.460
+[2020-04-17 16:01:13.438983] [INFO] New table is started: wpnx_woocommerce_log and setting new default rows per sync: 500
+[2020-04-17 16:01:13.439852] [INFO] Marking table: wpnx_woocommerce_log as completed
+[2020-04-17 16:01:13.440093] [INFO] Database progress update: Total data: 21,7MB / 22,1MB - Total rows: 101.420 / 102.460
+[2020-04-17 16:01:13.453073] [INFO] New table is started: wpnx_woocommerce_order_itemmeta and setting new default rows per sync: 500
+[2020-04-17 16:01:14.431879] [INFO] Database progress update: Total data: 21,9MB / 22,1MB - Total rows: 101.920 / 102.460
+[2020-04-17 16:01:14.452212] [INFO] Marking table: wpnx_woocommerce_order_itemmeta as completed
+[2020-04-17 16:01:15.763501] [INFO] Database progress update: Total data: 21,9MB / 22,1MB - Total rows: 102.350 / 102.460
+[2020-04-17 16:01:15.777863] [INFO] New table is started: wpnx_woocommerce_order_items and setting new default rows per sync: 500
+[2020-04-17 16:01:15.779657] [INFO] Marking table: wpnx_woocommerce_order_items as completed
+[2020-04-17 16:01:16.997277] [INFO] Database progress update: Total data: 21,9MB / 22,1MB - Total rows: 102.452 / 102.460
+[2020-04-17 16:01:17.011078] [INFO] New table is started: wpnx_woocommerce_payment_tokenmeta and setting new default rows per sync: 500
+[2020-04-17 16:01:17.011855] [INFO] Marking table: wpnx_woocommerce_payment_tokenmeta as completed
+[2020-04-17 16:01:17.012120] [INFO] Database progress update: Total data: 21,9MB / 22,1MB - Total rows: 102.452 / 102.460
+[2020-04-17 16:01:17.025099] [INFO] New table is started: wpnx_woocommerce_payment_tokens and setting new default rows per sync: 500
+[2020-04-17 16:01:17.025923] [INFO] Marking table: wpnx_woocommerce_payment_tokens as completed
+[2020-04-17 16:01:17.026217] [INFO] Database progress update: Total data: 21,9MB / 22,1MB - Total rows: 102.452 / 102.460
+[2020-04-17 16:01:17.039649] [INFO] New table is started: wpnx_woocommerce_sessions and setting new default rows per sync: 423
+[2020-04-17 16:01:17.041030] [INFO] Marking table: wpnx_woocommerce_sessions as completed
+[2020-04-17 16:01:18.587546] [INFO] Database progress update: Total data: 21,9MB / 22,1MB - Total rows: 102.456 / 102.460
+[2020-04-17 16:01:18.600519] [INFO] New table is started: wpnx_woocommerce_shipping_zone_locations and setting new default rows per sync: 500
+[2020-04-17 16:01:18.601689] [INFO] Marking table: wpnx_woocommerce_shipping_zone_locations as completed
+[2020-04-17 16:01:19.377659] [INFO] Database progress update: Total data: 21,9MB / 22,1MB - Total rows: 102.457 / 102.460
+[2020-04-17 16:01:19.390894] [INFO] New table is started: wpnx_woocommerce_shipping_zone_methods and setting new default rows per sync: 500
+[2020-04-17 16:01:19.391987] [INFO] Marking table: wpnx_woocommerce_shipping_zone_methods as completed
+[2020-04-17 16:01:20.225474] [INFO] Database progress update: Total data: 21,9MB / 22,1MB - Total rows: 102.459 / 102.460
+[2020-04-17 16:01:20.239313] [INFO] New table is started: wpnx_woocommerce_shipping_zones and setting new default rows per sync: 500
+[2020-04-17 16:01:20.240456] [INFO] Marking table: wpnx_woocommerce_shipping_zones as completed
+[2020-04-17 16:01:21.186054] [INFO] Database progress update: 
+[2020-04-17 16:01:21.199343] [INFO] New table is started: wpnx_woocommerce_tax_rate_locations and setting new default rows per sync: 500
+[2020-04-17 16:01:21.200165] [INFO] Marking table: wpnx_woocommerce_tax_rate_locations as completed
+[2020-04-17 16:01:21.200405] [INFO] Database progress update: 
+[2020-04-17 16:01:21.213087] [INFO] New table is started: wpnx_woocommerce_tax_rates and setting new default rows per sync: 500
+[2020-04-17 16:01:21.213874] [INFO] Marking table: wpnx_woocommerce_tax_rates as completed
+[2020-04-17 16:01:21.214118] [INFO] Database progress update: 
+[2020-04-17 16:01:21.226911] [INFO] New table is started: wpnx_wooconnector_data and setting new default rows per sync: 500
+[2020-04-17 16:01:21.227662] [INFO] Marking table: wpnx_wooconnector_data as completed
+[2020-04-17 16:01:21.227895] [INFO] Database progress update: 
+[2020-04-17 16:01:21.241225] [INFO] New table is started: wpnx_wooconnector_data_api and setting new default rows per sync: 500
+[2020-04-17 16:01:21.241928] [INFO] Marking table: wpnx_wooconnector_data_api as completed
+[2020-04-17 16:01:21.242173] [INFO] Database progress update: 
+[2020-04-17 16:01:21.255505] [INFO] New table is started: wpnx_wooconnector_data_notification and setting new default rows per sync: 500
+[2020-04-17 16:01:21.256278] [INFO] Marking table: wpnx_wooconnector_data_notification as completed
+[2020-04-17 16:01:21.256525] [INFO] Database progress update: 
+[2020-04-17 16:01:21.269862] [INFO] New table is started: wpnx_wooconnector_data_player and setting new default rows per sync: 500
+[2020-04-17 16:01:21.270686] [INFO] Marking table: wpnx_wooconnector_data_player as completed
+[2020-04-17 16:01:21.270941] [INFO] Database progress update: 
+[2020-04-17 16:01:21.284387] [INFO] New table is started: wpnx_wpfm_backup and setting new default rows per sync: 500
+[2020-04-17 16:01:21.285149] [INFO] Marking table: wpnx_wpfm_backup as completed
+[2020-04-17 16:01:21.285383] [INFO] Database progress update: 
+[2020-04-17 16:01:21.298398] [INFO] Database progress update: 
+[2020-04-17 16:01:21.298613] [INFO] Ending database synchronization loop with remaining time: 13.602499008179 seconds
+[2020-04-17 16:01:21.311013] [INFO] Ending sync controller loop - with remaining time: 13.590104818344
+[2020-04-17 16:01:21.491090] [INFO] Running sync controller loop - With allotted time: 26.831130027771 seconds
+[2020-04-17 16:01:21.503856] [INFO] Ending sync controller loop - with remaining time: 26.818364143372
+[2020-04-17 16:01:21.687909] [INFO] Running sync controller loop - With allotted time: 26.824710845947 seconds
+[2020-04-17 16:01:21.690252] [INFO] Starting finalize - Remaining time: 26.822358846664
+[2020-04-17 16:01:21.691715] [INFO] Starting database finalize with remaining time: 26.820894956589
+[2020-04-17 16:01:21.691851] [INFO] Add sql statement to delete WP Synchro options: delete from `wpsyntmp_5e99d1b7011f5`  where option_name like 'wpsynchro_%'
+[2020-04-17 16:01:21.692023] [INFO] Add sql statement to copy current WP Synchro options to temp table: insert into `wpsyntmp_5e99d1b7011f5` (option_name,option_value,autoload) select option_name,option_value,autoload from wpnx_options where option_name like 'wpsynchro_%'
+[2020-04-17 16:01:21.692126] [INFO] Add sql statement to delete active plugin setting: delete from `wpsyntmp_5e99d1b7011f5`  where option_name = 'active_plugins'
+[2020-04-17 16:01:21.692252] [INFO] Add sql statement to copy current active plugin setting to temp table: insert into `wpsyntmp_5e99d1b7011f5` (option_name,option_value,autoload) select option_name,option_value,autoload from wpnx_options where option_name = 'active_plugins'
+[2020-04-17 16:01:27.743511] [INFO] Ending sync controller loop - with remaining time: 20.769110918045
+[2020-04-17 16:01:27.933857] [INFO] Running sync controller loop - With allotted time: 26.820764064789 seconds
+[2020-04-17 16:01:27.934207] [INFO] Starting finalize - Remaining time: 26.820405960083
+[2020-04-17 16:01:27.934360] [INFO] Completed finalize - remaining time: 26.820254087448
+[2020-04-17 16:01:27.950452] [INFO] Ending sync controller loop - with remaining time: 26.804172992706
