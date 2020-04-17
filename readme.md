@@ -1,1 +1,1 @@
-# project name - Read me
+# Ionic App With Headless Woocommerce Store
