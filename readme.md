@@ -1,1 +1,3 @@
 # Ionic App With Headless Woocommerce Store
+
+more info...
